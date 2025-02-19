@@ -5,6 +5,7 @@ from flask_socketio import SocketIO, send
 import requests
 import os
 from dotenv import load_dotenv
+from werkzeug.serving import run_simple
 
 # Funkcija, kas pārbauda un instalē nepieciešamās bibliotēkas
 def install_requirements():
@@ -34,7 +35,7 @@ if not GPT_API_KEY:
 
 # Izveido Flask lietotni
 app = Flask(__name__)
-socketio = SocketIO(app)
+socketio = SocketIO(app, cors_allowed_origins="*")  # Pievienots cors_allowed_origins
 
 @app.route('/')
 def index():
@@ -53,16 +54,33 @@ def handle_message(msg):
     send(response, broadcast=True)
 
 def chatbot_response(text):
-    headers = {"Authorization": f"Bearer {GPT_API_KEY}", "Content-Type": "application/json"}
-    payload = {"model": "gpt-3.5-turbo", "messages": [{"role": "user", "content": text}], "max_tokens": 100, "temperature": 0.7}
+    headers = {
+        "Authorization": f"Bearer {GPT_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "model": "gpt-3.5-turbo",
+        "messages": [{"role": "user", "content": text}],
+        "max_tokens": 100,
+        "temperature": 0.7
+    }
     try:
         response = requests.post(GPT_API_URL, headers=headers, json=payload)
         response_data = response.json()
         if response.status_code != 200:
+            print(f"API Error: {response_data}")  # Pievienota kļūdu reģistrēšana
             return "API kļūda!"
         return response_data.get("choices", [{}])[0].get("message", {}).get("content", "Neizdevās saņemt atbildi.")
     except requests.exceptions.RequestException as e:
+        print(f"Connection Error: {e}")  # Pievienota kļūdu reģistrēšana
         return "Savienojuma kļūda ar API."
 
 if __name__ == '__main__':
-    socketio.run(app, debug=True)
+    try:
+        port = int(os.getenv('PORT', 5000))
+        socketio.run(app, 
+                    host='0.0.0.0',
+                    port=port,
+                    allow_unsafe_werkzeug=True)
+    except Exception as e:
+        print(f"Error starting server: {e}")
