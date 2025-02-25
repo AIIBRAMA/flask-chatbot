@@ -76,11 +76,6 @@ def chatbot_response(text):
         return "Savienojuma kļūda ar API."
 
 if __name__ == '__main__':
-    try:
-        port = int(os.getenv('PORT', 5000))
-        socketio.run(app, 
-                    host='0.0.0.0',
-                    port=port,
-                    allow_unsafe_werkzeug=True)
-    except Exception as e:
-        print(f"Error starting server: {e}")
+    port = int(os.getenv('PORT', 5000))
+    # Samazinām worker skaitu un vienkāršojam konfigurāciju
+    socketio.run(app, host='0.0.0.0', port=port)
