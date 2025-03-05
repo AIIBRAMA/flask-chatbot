@@ -1,0 +1,26 @@
+2.5. Accounting methods  
+2.5.1.  Accruals recording  
+National accounts, and hence the COFOG analys is of government total expenditure, are recorded on 
+an accrual basis. Accrual accounting records flows at the time when economic value is created, 
+transformed, exchanged, transferred or extinguished. This means that flows which imply a change of 
+ownership are entered when own ership passes over, services are recorded when provided, output at 
+the time products are created, and intermediate consumption when materials and supplies are being 
+used. This time can be different to when the invoice is paid (cash recording).  
+Eurostat expenditure 
+items, and other itemsSector consuming the 
+output (either as final 
+consumption or capital 
+formation)
+Part of household 
+consumption ( P.3)
+Part of NPISH final 
+consumption ( P.3)
+Social transfers in kind of 
+individual goods and 
+services – government 
+non-market production of 
+individual goods and 
+services 
+(D.631)
+Government collective 
+non-

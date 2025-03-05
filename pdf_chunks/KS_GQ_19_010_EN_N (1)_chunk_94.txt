@@ -1,0 +1,12 @@
+ as the computation is not based on the 
+depreciation allowed for tax purposes. P.51c  is not reported in COFOG, however, as P.51c  is a 
+component of output of general government and thus of final consumption expenditure, it is 
+necessary to distribute P.51c  and thus fixed assets by  COFOG.  
+Net operati ng surplus  (B.2n)  
+Net operating surplus (B.2n) is calculated  on market output (P.11). While the majority of output of 
+government is either provided 'for free' or sold at not economically significant prices, market output 
+can exist as 'i ncidental sales' or as output by market establishments that cannot be considered as 
+quasi -corporations (see ESA 2010 para. 20.43 and 20.107). For such market output  of market local 
+KAU, it is necessary to calculate net operating surplus and to allocate it by COFOG. Not doing so 
+can lead to occurrences of negative final consumption expenditure. Net oper ating surplus is only 
+calculated on market output, implying that the difference between 

@@ -1,0 +1,18 @@
+13 ≤ S.1311 + S.1312 + S.1313 + S.1314  
+
+ 
+22 Analytical framework  2 
+Manual on COFOG statistics  
+Where ever  intraflows on D.4, D.7 and D.9 are provided, the following is  additionally verified  for all 
+COFOG breakdowns : 
+S.13 = (S.1311 + S.1312 + S.1313 + S1314) - flows between subsectors.  
+COFOG consistency  
+This check verifies that "TOTAL" equals the sum of divisions and that divisions equal the sum of their 
+groups for all t ransactions, S.13 and all subsectors.  
+In all of the above verifications, a coding of the data as "L" – missing - prevents the calculation of the 
+check if more than one "L" is provided for the breakdown. If an "L" is provided for an aggregate, the 
+test is n ot performed if at least one breakdown is also coded "L". Otherwise the test is performed and 
+the observation coded "L" is indicated as potentially containing a false coding.  
+A coding of "M" will for all practical purposes be treated in the same way as a numerical zero.  
+Negative values  
+The 

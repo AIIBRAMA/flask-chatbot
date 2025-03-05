@@ -1,0 +1,17 @@
+ut P.131)Social payments
+
+ 
+ 35 2 Analytical framework  2 
+35 
+Manual on COFOG s tatistics  2.5.2.  Consolidatio n 
+Consolidation is the elimination of those transactions or debtor/creditor relationships that occur 
+between two entities belonging to the same institutional sector or subsector . As a rule, the entries in 
+ESA 2010  are not consolidated.  
+The COFOG analysis o f government expendit ure follows the rules for table 0200 transmission 
+foreseeing that for S.13 as a whole the transactions D.4, D.7, and D.9 (and their sub -items) are 
+consolidated between subsectors  when presented at general government level .  
+The other t ransactions are not consolidated. Consolidation  rules for government sector and its 
+subsectors are set up in ESA 2010  paragraphs  20.152 -20.161.  
+However, D.4, D.7 and D.9 are  consolidated within the subsector  when presented at subsector level 
+but are not co nsolidated for transactions vis à vis other subsectors . This means that the sum of the 
+sub

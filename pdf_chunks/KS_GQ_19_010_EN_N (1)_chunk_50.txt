@@ -1,0 +1,15 @@
+ata (divisions) is compulsory  from the reference year 1995 
+onwards.  
+The transmission of COFOG level II data (groups ) is compulsory  for general government  from 2001 
+onwards .  
+The following ESA transactions categories have to be provided for general government and its 
+subsectors: OP5ANP, P.5, NP, D.1, D.3, D.4, D.62+D.632, D.6213, D.63214, P2+D.29+D.5+D.8, P.2, 
+D.29+D.5+D.8, D.7, D.9, TE, P.3 , P.31, P.32.  
+P.31 and P.32 are only compulsory at total level, i.e. there is no legal requirement to transmit them at 
+COFOG level I or II.  
+P.51g and D.92 are compulsory at general government level and voluntary for subsectors.  
+Intra-flows in D.4, D.7 an d D.9 can be provided on a voluntary basis.  
+Some countries have requested and been granted derogations on the transmission of certain 
+historical years or detailed breakdowns. The related Commission Implementing Decision is linked in 
+chapter 2.1.1.  
+It shou ld be noted that most countries provide more detailed breakdowns than 
