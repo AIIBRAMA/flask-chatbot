@@ -47,7 +47,7 @@ load_dotenv()
 GPT_API_KEY = os.getenv("GPT_API_KEY")
 GPT_API_URL = os.getenv("GPT_API_URL", "https://api.openai.com/v1/chat/completions")
 GPT_MODEL = os.getenv("GPT_MODEL", "gpt-3.5-turbo")
-MAX_TOKENS = int(os.getenv("MAX_TOKENS", 350))  # Palielināts līdz 350
+MAX_TOKENS = int(os.getenv("MAX_TOKENS", 250))  # Samazināts līdz 250
 TEMPERATURE = float(os.getenv("TEMPERATURE", 0.7))
 
 # Pārbauda, vai API atslēga ir pieejama
@@ -81,67 +81,36 @@ Esat augsti precīzs eksperts Latvijas Ministru kabineta noteikumos Nr. 934 un C
 """
 
 def search_in_text_files(query):
-    logger.info(f"Meklējam teksta fragmentos pēc vaicājuma: {query}")
-    query_words = query.lower().split()
+    logger.info(f"Meklējam teksta fragmentos: {query}")
+    query = query.lower()
     results = []
     
-    # Pārbauda, vai vaicājumā ir COFOG vai salīdzinājuma norāde
-    is_cofog_query = any(word in ["cofog", "salīdzinājums", "salīdzināt", "klasifikācija"] for word in query_words)
+    # Meklēt tikai 8. un 9. fragmentos
+    folders = ["pdf_chunks_part8", "pdf_chunks_part9"]
     
-    # Mapju saraksts, kurās meklēt
-    folders = ["pdf_chunks_part8", "pdf_chunks_part9"] if not is_cofog_query else [
-        "pdf_chunks_part1", 
-        "pdf_chunks_part2", 
-        "pdf_chunks_part3", 
-        "pdf_chunks_part4", 
-        "pdf_chunks_part5",
-        "pdf_chunks_part6",
-        "pdf_chunks_part7",
-        "pdf_chunks_part8",
-        "pdf_chunks_part9"
-    ]
+    for folder in folders:
+        folder_path = os.path.join(os.getcwd(), folder)
+        
+        for filename in os.listdir(folder_path):
+            if filename.endswith(".txt"):
+                filepath = os.path.join(folder_path, filename)
+                try:
+                    with open(filepath, "r", encoding="utf-8") as f:
+                        content = f.read().lower()
+                        
+                        # Precīza konteksta meklēšana
+                        if query in content:
+                            results.append({
+                                "file": f"{folder}/{filename}",
+                                "content": content,
+                                "score": 1.0
+                            })
+                        
+                except Exception as e:
+                    logger.error(f"Kļūda lasot failu {filepath}: {e}")
     
-    try:
-        # Meklējam katrā mapē
-        for folder in folders:
-            folder_path = os.path.join(os.getcwd(), folder)
-            
-            if not os.path.exists(folder_path):
-                logger.warning(f"Mape {folder_path} netika atrasta, izlaižam")
-                continue
-                
-            logger.info(f"Meklējam mapē: {folder_path}")
-            
-            # Meklējam visos teksta failos šajā mapē
-            for filename in os.listdir(folder_path):
-                if filename.endswith(".txt"):
-                    filepath = os.path.join(folder_path, filename)
-                    try:
-                        with open(filepath, "r", encoding="utf-8") as f:
-                            content = f.read().lower()
-                            
-                            # Vienkārša atbilstības noteikšana - skaitām atbilstošos vārdus
-                            match_count = sum(1 for word in query_words if word in content)
-                            
-                            if match_count > 0:
-                                results.append({
-                                    "file": f"{folder}/{filename}",
-                                    "content": content,
-                                    "score": match_count / len(query_words)
-                                })
-                                logger.debug(f"Atrasts atbilstošs fragments: {folder}/{filename} (score: {match_count / len(query_words)})")
-                    except Exception as e:
-                        logger.error(f"Kļūda lasot failu {filepath}: {e}")
-        
-        # Sakārtojam rezultātus pēc atbilstības
-        results.sort(key=lambda x: x["score"], reverse=True)
-        
-        logger.info(f"Kopā atrasti {len(results)} atbilstoši fragmenti")
-        # Atgriežam labākos 3 rezultātus
-        return results[:3]
-    except Exception as e:
-        logger.error(f"Kļūda meklējot teksta fragmentos: {e}")
-        return []
+    logger.info(f"Kopā atrasti {len(results)} atbilstoši fragmenti")
+    return results  # Atgriež visus atrastos fragmentus
 
 # Izveido Flask lietotni
 app = Flask(__name__)
