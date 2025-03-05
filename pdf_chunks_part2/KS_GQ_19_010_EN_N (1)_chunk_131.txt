@@ -1,0 +1,12 @@
+hod 1 : detailed  perpetual inventory method (PIM) for the total of general government sector, 
+which involves maintaining fixed assets and bra nches. This information is then bridged with functions 
+(COFOG).  
+Method 2 : detailed perpetual inventory method (PIM) for each subsector  of general government 
+sector, which involves maintaining details of fixed assets and branches of  economic activities 
+(NACE). This information is then bridged with functions (COFOG). In some cases the method is 
+applied in an even more detailed manner as there are countries that maintain databases on fixed 
+assets and branches of economic activity by groups of institutions bel onging to the subsectors.  
+Method 3 : estimations based on time  series of gross fixed capital formation (P.51g) by f unction for 
+the total of general government. P.51c  by function is then calculated by applying the average 
+structure of gross fixed capital for mation by function on total P.51c . This method assumes that the 
+ave

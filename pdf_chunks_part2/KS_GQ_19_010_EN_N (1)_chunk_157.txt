@@ -1,0 +1,13 @@
+h the glossary doe s not  exist, or the corresponding economic 
+expenditure categories  are not listed into the COFOG glossary. Thi s last case is particularly true for 
+capital expenditure .  
+Whilst not a  complete list of difficult cases, the examples below serve to illustrate the kind of thinking 
+needed to assign an appropriate function wherever the correct classification is not obviou s. The lines 
+entitled “guidance” are based on the opinions of the Task Force on COFOG on each case.  
+3.10.1.  Case 1 – army forces involved in "humanitarian 
+aid missions"  
+Guidance: foreign military aid  (02.3) 
+Army forces might be involved in  “humanitarian aid missions”. The issue is whether the most 
+appropriate method is to allocate these amounts under foreign military aid  (02.3) rather than foreign 
+economic aid  (01.2). Group  01.2 covers both economic aid to developing countries and countries  in 
+transition, and economic aid routed through international organizations. As such it covers

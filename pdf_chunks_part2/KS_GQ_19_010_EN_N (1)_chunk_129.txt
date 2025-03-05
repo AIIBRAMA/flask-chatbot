@@ -1,0 +1,14 @@
+rpetual inventory 
+method (PIM) should be applied to each subsector  of general government. This involves maintaining 
+a complete dataset of fixed assets and branches by kind of economic activity. This data should then 
+be bri dged to information on functions (COFOG). This is Method 2 as described below; it is the 
+preferred method as it allows allocating consumption of fixed capital by function by following the 
+corresponding distribution of fixed asset s. 
+Methods  5 and 6 should b e avoided  as far as possible . These methods broadly correspond to the 
+use of estimates based on gross fixed capital formation (P.51 g) by function in a given year 
+respectively for the total of general government or for each of the subsector s. 
+3.3.2.  Background  
+Consumption of fixed capital ( P.51c ) is one of the components of final consumption expenditure 
+(P.3), which is one of the memo randum  items requiring a COFOG breakdown in ESA 2010  
+transmission table 1100. 
+ESA 2010  paragraph  3.141 st

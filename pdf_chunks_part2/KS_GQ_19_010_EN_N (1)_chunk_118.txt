@@ -1,0 +1,13 @@
+ s. It should be classified in COFOG 
+group  10.2 'old age' and/or COFOG group  10.3 'survivors'. No amounts are expected in 
+other groups.  
+ D.7 – other current transfers : this transaction is usually related to transfers to other 
+institutional sectors (NPISH s, households, public and private corporations). T his requires 
+that COFOG groups and classes to be considered should be consistent with the activities 
+performed by the units receiving transfers. In case of NPISH s, the most recurrent COFOG 
+items are related to education, culture, recreation, environmental protection. In the case of 
+households, the common COFOG references are related to the services used by 
+household s excluding those consumed as P .31, for which government pays the production 
+costs; this might be typically the case of services related to the COFOG division  05 and 06. 
+In case the beneficiaries are corporations the target COFOG groups should be related to 
+economic affairs , environmental protection .  

@@ -1,0 +1,11 @@
+rage time -series of the gross fixed capital formation by function is representative of the underlying 
+stock of fixed assets. Furthermore, where there is no possibility of differentiating by  subsector , there 
+might be an incorrect representation of P.51c  as the distribution of fixed assets at the level of 
+subsector  can be rather different, depending on the functions of each subsector . 
+Method 4 : estimations based on time -series of gross fixed c apital formation (P.51g) by function for 
+each subsector  of general government. P.51c  by function is then calculated by applying the average 
+structure of gross fixed capital formation by function on total P.51c  of subsector s. This method 
+assumes that the av erage time -series of the gross fixed capital formation by function is 
+representative of the underlying stock of fixed assets.  
+Method 5 : estimations based on gross fixed capital formation (P.51g) by function in a given year for 
+the total of  general governme nt. P.51c  by 

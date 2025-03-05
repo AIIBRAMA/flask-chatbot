@@ -1,0 +1,19 @@
+y services to education  
+04.3 - Fuel and energy  09.7 - R&D Education  
+04.4 - Mining, manufacturing and construction  09.8 - Education n.e.c.  
+04.5 - Transport  10 - Social protection  
+04.6 - Communi cation  10.1 - Sickness and disability  
+04.7 - Other industries  10.2 - Old age  
+04.8 - R&D Economic affairs  10.3 - Survivors  
+04.9 - Economic affairs n.e.c.  10.4 - Family and children  
+05 - Environmental protection  10.5 - Unemployment  
+05.1 - Waste manageme nt 10.6 - Housing  
+05.2 - Waste water management  10.7 - Social exclusion n.e.c.  
+05.3 - Pollution abatement  10.8 - R&D Social protection  
+05.4 - Protection of biodiversity and landscape  10.9 - Social protection n.e.c.  
+05.5 - R&D Environmental protection  
+ 05.6 - Environmental protection n.e.c.    
+2.8. Correspondences among COFOG 
+classification and economic transactions  
+This section aims at analysing possible correspondences between COFOG functions (divisions and 
+groups) and economic transactions according to E

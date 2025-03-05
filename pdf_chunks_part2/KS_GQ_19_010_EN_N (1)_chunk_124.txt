@@ -1,0 +1,14 @@
+g suggestion is given in 
+paragraph  19: “smallest bodies that can be identified in the government accounts may perform more 
+than one COFOG function. It may sometimes be possible to apportion outlays of multifunction bodies 
+among COFOG functions by r eference to the proportion of work -months devoted to the different 
+functions”.  
+3.2. Recording interest by function 
+(including FISIM)  
+3.2.1.  Guidance  
+Government accounts in the framework of the ESA 2010  Transmission Programme of data  are to be 
+transmitted with the all ocation of financial services indirectly measured (FISIM). This means that 
+actual interest payments are split between pure interest (D.41) and a payment for a service that is 
+classified as the intermediate consumption (P.2) of the payer and the output (P.1 ) of financial 
+corporations. This affects the composition of government revenue37 and expenditure but not its net 
+lending / net borrowing  (B.9) . The COFOG Task Force agreed that both interest (D.41) and 

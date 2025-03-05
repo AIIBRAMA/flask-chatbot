@@ -1,0 +1,17 @@
+S A 2010 in order to provide help in compiling 
+table 1100. Comments in  the Appendix  provide the converse view, i.e. they indicate which 
+transactions are not expected in certain COFOG groups.  
+This could help COFOG  compilers in reac hing a consistent classification of government  expenditure 
+
+ 
+38 Analytical framework  2 
+Manual on COFOG statistics  
+among M ember States and thus  ensuring the comparability and consistency of key data for EU 
+economic decisions . 
+The correspondence a cross classification s is design ed along the following lines : 
+1. Total  and absolute correspondence  between economic categories and COFOG functions; 
+this means that the economic category  under analysis must show expenditure on certain 
+COFOG functions. If this is not the case, then  a problem is likely to exist in the classific ation 
+process.  
+2. Possible correspondence  between the economic category and the COFOG function; a 
+transaction might show expenditure on a certain function, but not

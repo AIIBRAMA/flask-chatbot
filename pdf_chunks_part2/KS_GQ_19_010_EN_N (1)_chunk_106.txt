@@ -1,0 +1,21 @@
+chapter 23 contains references on COFOG and the other func tional classifications.  
+
+ 
+ 37 2 Analytical framework  2 
+37 
+Manual on COFOG s tatistics  Table 3: COFOG classification structure  
+01 - General public services  06 - Housing and community amenities  
+01.1 - Executive and legislative organs, financial 
+and fiscal affairs, external affairs  06.1 - Housing development  
+06.2 - Community development  
+01.2 - Foreign economic aid  06.3 - Water supply  
+01.3 - General services  06.4 - Street lighting  
+01.4 - Basic research  06.5 - R&D Housing and community amenities  
+01.5 - R&D General public services  06.6 - Housing and community amenities n.e.c.  
+01.6 - General public services n.e.c.  07 - Health  
+01.7 - Public debt transactions  07.1 - Medical products, appliances and equipment  
+01.8 - Transfers of a general character between 
+different levels of governme nt 07.2 - Outpatient services  
+07.3 - Hospital services  
+02 - Defence  07.4 - Public health services  
+02.1 - Milita

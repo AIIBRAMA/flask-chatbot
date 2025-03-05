@@ -1,0 +1,14 @@
+ltipurpose functions  
+3.1.1.  Guidance  
+Whenever possible, where the expenditure breakdown is  missing, volume indicators should be used 
+to split the related  government expenditure by function. For example, government might provide an 
+investment grant ( ESA 2010 , D.92) to a retirement home for both elderly  and disabled people  which 
+is classified in national accounts in the sector of non -profit institutions serving households (S .15). The 
+agreed methodology requires the investment grant to be allocated between old age (10.2) and 
+sickness and disability (10.1) . A possible allocation could be based on the use of physical indicators 
+to calculate the percentage of expenditure to be split between the two functions. Figures taken from 
+demographic and social statistics might be suitable indicators for dividing such public expenditure. 
+Standard production costs related to the provision of public services by government units can also be 
+used.  
+3.1.2.  Background  
+In practice, 

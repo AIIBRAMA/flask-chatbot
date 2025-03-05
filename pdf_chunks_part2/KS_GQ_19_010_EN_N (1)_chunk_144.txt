@@ -1,0 +1,15 @@
+s one of the components of 
+households’ actual consumption expenditure ( ESA 2010 , para graphs  3.100 -3.107) and its calculation 
+is required  to provide  a measure of th at part of go ods and services that households consume but do 
+not pay for.  
+In practice, Eurostat acknowledges vintage differences between ESA table 11 and ESA table 2. 
+Some countries choose to update ESA table 2 when compiling COFOG, while others choose to 
+update ESA ta ble 2 at the next regular revision opportunity.  
+In any case, the split between P.31 and P.32 should not be constrained to the preliminary split 
+obtained for compilation of ESA table 2 and other tables, but rather vintages differences should be 
+tolerated a nd if possible, aligned.  
+3.6.2.  Background  
+ESA 2010  defines the concepts of final consumption expenditure and of  actual final consumption , as 
+well as  the split between individual and collective consumption , which is based on the COFOG 
+classification .  
+ESA 2010  paragraph  3.94

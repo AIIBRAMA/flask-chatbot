@@ -1,0 +1,12 @@
+ government), sector accounts, etc. The split between P.31 and P.32 naturally determines  
+actual final consumption (P.4) of general governments and households. In practice, it may also affect 
+total final consumption expenditure of general government in previous years' prices given the 
+underlying practical assumptions.  
+A key difficulty for many  Member States is the timing of the availability  of COFOG data sources and 
+compilation (by t+12 months after the reference year) versus the timing of key tables of the ESA 
+2010 transmission programme (e.g. table 0102 by t+2 months after the reference year) . 
+Therefore, in practice, for national accounts main aggregates, often other methods and indicators are 
+used to split P.31 and P.32.  Insofar as these are unbiased, and other national accounts data could 
+be revised following the compilation of COFOG level I I P.3, vintage differences for recent periods but 
+no persistent systematic differences should occur.  
+In practice, in isolated

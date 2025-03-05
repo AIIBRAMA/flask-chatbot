@@ -1,0 +1,18 @@
+to an expenditure for investment of the households. Due to consolidation, no D.9 amounts 
+should be observed in group  01.8 at general government level. No amounts are expected to 
+be observed for group  01.7.  
+ D.92 and D.99  – breakdown of investment grants and other capital transfer s: In general, 
+debt assumptions, debt write -offs, guarantee calls and capital injections to be treated as 
+capital transfers sho uld be recorded as other capital transfers (D.99) and not as investment 
+grants.  
+ 
+
+ 
+ 41 2 Methodological guidance  3 
+41 
+Manual on COFOG s tatistics   
+This chapter provides guidance on compiling  COFOG statistics. It discusses general principles, 
+clarifies some specific issues on compilation methods, recommends best practices, and lists 41 
+cases to illustrate how to cope with some practical compilation difficulties. The guidance is based on 
+the discussions of the Eurostat COFOG Task Force.  
+Broadly speaking some government expenditure can serv e more  than one pur

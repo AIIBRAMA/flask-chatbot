@@ -1,0 +1,13 @@
+
+D.76 amounts should wholly recorded in group  01.1. D.74 amounts should normally be 
+recorded in gr oup 01.2 foreign economic aid or in group 02.3 foreign military aid.  
+Due to consolidation, no D.7 amounts shoul d be observed in group  01.8 at general 
+government level.  
+ D.9 – capital transfers ; this transaction is composed of investment grants (D.92) and other 
+capital transfers (D.99), paid by government, as described above in paragraph  2.4.1. As far 
+as the correspondence with the COFOG functions analysed in this paragraph  is concerned , 
+there are no relevant differences in the behaviour  of the two transact ions. However,  different 
+correspondences might be found with respect to the recipients of these government 
+transfers that , theoretically,  could belong to each institutional sector. As far as the 
+households are concerned, D.92 investment grants could be pai d, for instance, in 
+connection with COFOG  division 06 housing and community amenities, in correspondence 

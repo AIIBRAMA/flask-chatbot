@@ -1,0 +1,14 @@
+o domestic emergency 
+medical services  
+Guidance: paramedical services  (07.24 ) 
+In some countries, government institutions make transfers to domestic emergency medical services, 
+like the Red Cross. In case these kinds of bodies belong to the government sector the related 
+transfer, codified as a D.73, is classified under COFOG 07.24 and the concerned transactions of the 
+recipient, coded as COFOG 7.24 as well, are those of the production of public service s, 
+compensation of employees (D.1), intermediate consumptions, etc. When the institutions do not 
+belong to the government sector the transfers should be registered as social transfers in kind - 
+purchased market production (D.632), unless a different agreem ent applies foreseeing a payment 
+from the patient.  
+Category  07.24, included in the outpatient services group (7.2), applies to the provision of 
+paramedical health services to outpatients; it is related, among others, to ambulance services other 
+than those  operated by h

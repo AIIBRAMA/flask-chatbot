@@ -1,0 +1,17 @@
+ry defence  07.5 - R&D Health  
+02.2 - Civil defence  07.6 - Health n.e.c.  
+02.3 - Foreign military aid  08 - Recreation, culture and religion  
+02.4 - R&D Defence  08.1 - Recreational and sporting services  
+02.5 - Defence n.e.c.  08.2 - Cultural services  
+03 - Public order and safety  08.3 - Broadcasting and publishing services  
+03.1 - Police services  08.4 - Religious and other community services  
+03.2 - Fire-protection services  08.5 - R&D Recreation, culture and religion  
+03.3 - Law courts  08.6 - Recreation, culture and religion n.e.c.  
+03.4 - Prisons  09 - Education  
+03.5 - R&D Public order and safety  09.1 - Pre-primary and primary education  
+03.6 - Public order and safety n.e.c.  09.2 - Secondary education  
+04 - Economic affairs  09.3 - Post-secondary non -tertiary education  
+04.1 - General economic, commercial and labour 
+affairs  09.4 - Tertiary education  
+09.5 - Education not definable by level  
+04.2 - Agriculture, forestry, fishing and hunting  09.6 - Subsidiar

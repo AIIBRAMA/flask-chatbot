@@ -1,0 +1,11 @@
+e the estimate on a percentage of wages and salaries paid to current 
+employees or use the amount of other social insurance benefits (D.622) by general government, 
+during the same accounting period, as an estimate of the imputed contributions (D.122) that form 
+part of D.1 as a component of employers’ social contributions (D.12). In such cases, some of the 
+amounts recorded in three national accounts’ categories (D.122, D.612 and D.622) would be equal 
+and based on one single item in public accounts . For D.122 , this  must be decomposed nonetheless 
+according to the COFOG classification of wages and salaries (D.11) , while the D.622 must be 
+recorded in the relevant social protection function . The three categorie s involved are necessary to 
+represent imputed social contributions by means of a  notional  circuit which is consistent with the 
+representation of actual social contributions ( ESA 2010 , paragraphs  4.97-4.99).  In any case, the 
+equality between D.122 and D.612  must be

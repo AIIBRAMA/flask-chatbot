@@ -1,0 +1,17 @@
+ data 
+source. This often happens at the local government level  which has  a large variety of  units 
+performing different activities and having different COFOG functions.  
+3.8.1.  Guidance  
+The following method is recommended when compiling levels I and II of COFOG statistics for 
+provisional year n -1: 
+ Whenever data sources are not available for compiling COFOG statistics for the provisional 
+year n -1 (i.e. the data sources used for compiling COFOG statistics for the final year n -2 are 
+not yet ready), the most appropriate method would be to make this allocation on the basis of 
+other public accounts’ data sources which are available for the provisional y ear n -1. Actual 
+COFOG statistics of public expenditure relate to budget reports data rather than  budget 
+forecasts . In case of missing data sources from the Budget reports, the breakdown of 
+
+ 
+50 3 Methodological guidance  
+Manual on COFOG statistics  
+expenditure by function (purposes, missions or other functional cla 

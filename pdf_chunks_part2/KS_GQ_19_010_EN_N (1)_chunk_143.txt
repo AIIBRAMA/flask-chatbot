@@ -1,0 +1,12 @@
+ cases, persistent differences with either ESA table 2 and 25 or between ESA 
+table 2/ 25 and tables 1 / 8 (for more countries) etc. do occur.  
+Such persistent differences, which are not eliminated at the next opportunity to revise data, are an 
+indication of a restrictive revision policy coupled with a biased indicator (such as being based on 
+NACE) used in other tables.  
+It can be observ ed that the split between individual and collective consumption is straightforward 
+when the COFOG functional classification is used as the reference for classifying the public 
+expenditure. It is particularly  importan t to use COFOG to classify the transacti ons entering the GDP 
+calculation; in this way government production and government final consumption expenditure will be 
+fully consistent as the  split into COFOG groups automatically  determin es the split into individual and 
+collective final consumption exp enditure.  
+Furthermore, as government individual final consumption expenditure i

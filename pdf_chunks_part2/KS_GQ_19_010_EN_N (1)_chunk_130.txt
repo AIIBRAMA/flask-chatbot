@@ -1,0 +1,16 @@
+ates: “ Consumption of fixed capital is estimated on the basis of the 
+stock of fixed assets and the expected average economic life of the different categories of those 
+goods. For the calculation of the stock of fixed assets, the perpetual inventory method (PIM) is 
+applied whenever dir ect information on the stock of fixed assets is missing. The stock of fixed assets 
+is valued at the purchasers' prices of the current period ”. 
+3.3.3.  Possible methods  
+In order to give methodological guidance enhancing the comparability of data among countries, 
+
+ 
+44 3 Methodological guidance  
+Manual on COFOG statistics  
+Eurostat launched a questionnaire in 2006 to enquire about Member States’ practices when 
+compiling COFOG statistics, which included a question on consumption of fixed capital by function.  
+The following six methods were presented to Member States’ experts who  were asked which 
+methods were used in practice and which they would recommend from a conceptual point of view.  
+Met

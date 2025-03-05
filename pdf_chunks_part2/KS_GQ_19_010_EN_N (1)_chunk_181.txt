@@ -1,0 +1,17 @@
+, these could lie within the responsibility of the civil 
+defence to be classified under COFOG group  02.20. However, when the alarm system is an 
+integrated part of the fire protection services the appropriate cl assification should be COFOG group 
+3.20.  
+The transactions generally involving disaster funds are D.75 in case of current transfers, and D.92 in 
+
+ 
+ 59 2 Methodological guidance  3 
+59 
+Manual on COFOG s tatistics  case of capital transfers; there might also occur a D.99 transaction in cases where general 
+government chooses a single payment to reimburse the beneficiaries, households or producers, for 
+damages to their property due to disasters. When transfers are related to other government units, 
+transactions to be considered are D.73 in case of current transfers and D.92, to  other S.13 
+subsectors, in case of capital transfers.  
+3.10.30.  Case 30 – health services: delimitation between 
+day cases and outpatients  
+Guidance: outpatient services (07.2), hospital servic

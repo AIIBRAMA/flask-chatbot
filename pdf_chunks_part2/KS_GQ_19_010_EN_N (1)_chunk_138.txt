@@ -1,0 +1,17 @@
+t harmonised.  
+
+ 
+46 3 Methodological guidance  
+Manual on COFOG statistics  
+3.5. Allocation of certain social contributions 
+and benefits  
+3.5.1.  Guidance  
+Employers' imputed social contributions (D.122) , as part of compensation of employees (D.1) , should 
+be allocated to functions consistent with wages and salaries (D.11) rather than with other s ocial 
+insurance benefits (D.622). In summary, t he COFOG classification of D.122 , as part of D.1, should 
+be the same as D.1. On the other hand, the functional classification of correspondent benefits 
+(D.622) depends on the kind of risk to which it is relate d. According to ESA 2010  para. 4.104 the 
+definition of D.622 includes : the payment of benefits connected with absence from work as a result of 
+ill health, accident, maternity (COFOG 10.1, 10.4) ; the payment of family, education or other 
+allowances in respe ct of dependants (COFOG 10.4 and 10.5) ; the payment of retirement or 
+survivors’ pensions to ex -employees or their 

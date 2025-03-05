@@ -1,0 +1,11 @@
+o yachting harbours run for the primary purpose of ensuring personal and freight transport, 
+but only secondarily used as a facility for other transportation types (e.g. for boat trips or sightseeing 
+tours), should be recorded under  class 04.52  water transportation. This ensures a consistent 
+registration of expenditure by primary function. In case other purposes in the use of harbours exist 
+and detailed information is available to separate between the primary purpose, water transport ation, 
+and the secondary use, it is possible to split the total expenditure among transportation and leisure 
+activities by using COFOG  08.10  recreational and sporting services, and tourist activities by using 
+COFOG  04.73  tourism. The availability of additi onal information to split the expenditure among the 
+main purpose and the other purposes would guarantee a reliable consistency between COFOG 
+expenditure and satellite accounts (e.g. tourism account).  
+It must be noted that in case of milit

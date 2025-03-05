@@ -1,0 +1,11 @@
+function is then calculated by applying the structure of 
+gross fixed capital formation by  function on total P.51c . This method assumes that the gross fixed 
+capital formation by function of a given year is representative. It must be adopted wit h caution, 
+verifying the existence of specific investment in some functions in the reference year to avoid 
+distortions in the resulting distribution of P.51c  by function.  
+Method 6 : estimations based on gross fixed capital formation (P.51g) by function in a given year for 
+each subsector  of general government. P.51c  by function is then calculated by applying the structure 
+of gross fixed capital formation by function on total P.51c  of subsector s. This method assumes that 
+the gross fixed capital formation by f unction of a given year is representative. It must be adopted with 
+caution, verifying the existence of specific investment in some functions in the reference year to 
+avoid distortions in the resulting distribution of P.51c  b

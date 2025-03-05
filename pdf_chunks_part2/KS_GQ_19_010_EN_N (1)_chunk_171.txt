@@ -1,0 +1,16 @@
+s have ambulance services to transport immobile patients and to attend to emergency 
+services. Note that even if these services are not directly provided by hospital employees but are 
+paid for by the hospital t hey are considered as hospital services. These services are sometimes run 
+separately from hospitals. COFOG states that the class paramedical services  (07.24) only includes 
+ambulance services operated by institutions other than hospitals. The rationale for the classification 
+of these ancillary services is to have them considered into the same COFOG group as the service 
+using them.  
+3.10.17.  Case 17 - sale of UMTS licences  
+Guidance: communications (04.6) 
+Guidance removed due to b eing outdated.  Notably, Eurostat issued a guidance note in 2017 on 
+mobile phone licences, exploration rights and other li cences . This guidance note prescribes the 
+treatment of revenue from the sale of UMTS licences as rent (D.45r).  
+
+ 
+56 3 Methodological guidance  
+Manual on COFOG statis

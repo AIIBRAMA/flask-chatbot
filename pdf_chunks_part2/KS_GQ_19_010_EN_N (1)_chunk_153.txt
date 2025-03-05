@@ -1,0 +1,12 @@
+structures of expenditure 
+from previous years or using trend analysis. This practice will mostly be a partia l one, such as for 
+subsector s or specific entities  — mostly local government — where data sources are lacking . One 
+important aspect is that the structure by function of the previous year(s) should be applied separately 
+to each of the transactions that form  the ESA 2010  expenditure of year n -1. When applying the 
+COFOG structure of previous year(s), a correction could be made for any noticeable events in the 
+year which have a significant impact on a given COFOG category. This information could be derived, 
+for example, from the EDP Questionnaire and the related attachments.  
+For most countries, the best practice related to the lack of data sources for provisional year n -1 
+would be other public accounts’ data sources, which are already available for that year, s uch as 
+expenditure broken down by budgetary chapters/ departments, or data in budgetary expenditure 
+plan

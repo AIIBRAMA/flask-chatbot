@@ -1,0 +1,13 @@
+
+intermediate consumption (P.2) in respect of FISIM (on loans as well as on deposits) should be 
+recorded in public debt transactions (01.7).  Furthermore, FISIM should be considered to be solely on 
+non-market output so that P.2 is expected to equal P.32 in this group.  
+3.2.2.  Background  
+Interest payments on government d ebt are to be recorded under general public services in the 
+category 'public debt transactions ' (01.7)38. However, as group  01.7 excludes the administrative costs 
+of public debt management, these costs should be  recorded  in ‘executive and legislative organs, 
+financial and fiscal affairs, external affairs’  (01.1) as this includes39 all the financial affairs and 
+services involved with the management of public funds and public debt.  
+This approach is relatively straightforward and avoids any complications which would be encountered 
+by an attempt to split the cost of debt between the different COFOG groups funded by the debt. For 
+example, a question might 

@@ -1,0 +1,13 @@
+survivors (COFOG 10.2 and 10.3) ; and other kinds of 
+benefits connected with functions of social protection.  
+3.5.2.  Background  
+This problem refers to  the possible common data source for imputed contributions (D.122)40 and 
+other social insurance benefits (D.622). Using a unique data source derived from public accounts to 
+determine the amount to be imputed might cause some doubts in classifying the transa ctions into the 
+appropriate functions. To solve this problem, it should be kept in mind that D.122, being part of D.1, 
+must follow the same COFOG classification used for wages and salaries in cash and in kind (D.11) . 
+However , the correspondent benefit expe nditure (D.622) must have the COFOG classification 
+correspond ing to the covered risk.  
+According to ESA 2010 , paragraph s 4.10 and 4.97 , the imputed social contributions  (D.612)  should 
+be based on actuarial considerations. In practice, this might not always be fully possible and the only 
+solution might be to bas

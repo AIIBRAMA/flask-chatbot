@@ -1,0 +1,12 @@
+s and without any constraint from the financing unit, the COFOG group Transfers of a general 
+character between different levels of government (01.8) should be used. In the general government 
+expenditure tabl e such grants should not appear because D.7 and D.9 are consolidated , which  
+implies that at the general government level COFOG group 01.8 should always be zero. 
+The non -consolidation of intermediate consumption needs careful treatment when one unit of 
+gove rnment provides services to another for the payment of a fee (such as payroll or building 
+maintenance services). In these cases, non -consolidation means that the provider will record 
+intermediate consumption on the goods and services needed to produce the service. The recipient of 
+the service will record intermediate consumption for the purchase of the service from the provider30.  
+2.5.3.  Netting  
+Individual units or sectors may have the same kind of transaction both as a use and as a resource 
+(e.g. they both pay 

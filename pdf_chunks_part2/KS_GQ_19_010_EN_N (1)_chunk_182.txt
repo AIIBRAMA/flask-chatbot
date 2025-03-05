@@ -1,0 +1,14 @@
+es (07.3) 
+It is sometime s difficult to classify health services between the outpatient services and the hospital 
+services, especially given the increasing frequency of day -hospitalisation. To allow for a correct 
+classification , the difference between day case s - considered as hos pital services  - and outpatients'  
+services is recalled.  
+Day case: a day case is a patient who makes a planned attendance at hospital and requires the use 
+of a bed or trolley in lieu of a bed. The patient is not expected to (and does not) remain overnight,  but 
+does otherwise have the same characteristics as an inpatient. Day cases would therefore be 
+classified to COFOG 07.3 hospital services.  
+Outpatient: all visitors to ambulatory care facilities that are not day cases , overnight cases  or 
+inpatients, are co nsidered outpatients and have to be classified under COFOG 07.2  outpatient 
+services .  
+3.10.31.  Case 31 - R&D  wage subsidies to companies  
+Guidance: R&D economic affairs (04.8), ec

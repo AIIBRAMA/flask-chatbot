@@ -1,0 +1,11 @@
+s corrected for unforeseen, unpredictable, or exceptional events. Cash data, available with a 
+short time delay with respect to the reference period, are  not usually split by function.  
+Other practices to derive estimations for the most recent year, such as using complementary 
+information available for year n -1 derived from other statistics or statistical surveys, may not be 
+considered as good estimation pr actice as they may focus on selected areas of public expenditure in 
+connection with satellite accounts definitions. In these cases , such complementary information might 
+not provide reliable coverage in terms of total public expenditure.  
+3.9. Reporting of negati ve values  
+In the context of reporting of COFOG statistics, following ESA 2010  rules of gross recording, all 
+transactions are necessarily recorded with positive values, except fo r P.5 ( gross capital formation)  
+and its breakdowns , NP (acquisitions less dispo sals of non -financial non -produced assets) , D.8 

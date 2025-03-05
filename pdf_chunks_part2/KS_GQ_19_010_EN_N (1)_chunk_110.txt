@@ -1,0 +1,13 @@
+ necessarily .  
+3. Non-recurrent correspondence : this might be the case of one -off expenditure, typi cally 
+related to the capital account, connected to peculiar exigencies such as debt cancellations, 
+emergencies, natural disaster, etc . This is a specific case of transactions such as other 
+capital transfers (D.99) and other current transfers (D.75).  
+4. Imposs ible correspondence  between categories and functions . This relates to cross 
+classifications that  indicate possible problems in the functional classification or in the ESA 
+classification . For example, a n obvious problem would be indicated where social  benef its 
+other than social transfers in kind (D.62) appear in COFOG division s 01-06. Such impossible 
+cross classification s should be excluded in the compilation as they either indicate a problem 
+in the COFOG allocation or in the ESA transaction used . 
+The corres pondences are examined using the transactions order in table 1100, and examining each 
+economic categ
