@@ -1,0 +1,17 @@
+ular medical specialty.  
+Excludes: medical cent res not under the direct supervision of a qualified medical doctor (07.33).  
+07.32  SPECIALIZED HOSPITAL  SERVICES (IS)  
+Specialized hospitals differ from general hospitals in that their services are limited to treatment of a 
+particular condition, disease, or class of patient, for example, diseases of the chest and tuberculosis, 
+leprosy, cancer, otorhinolaryngology, psychiatry, obstetrics, paediatrics, and so forth.  
+Provision of specialized hospital services; administration, inspection, operation or support of hospitals 
+that limit their services to a particular medical specialty.  
+Excludes: maternity centres not under the direct supervision of a qualified medical doctor (07.33).  
+
+ 
+ 
+ 219  Appendix  
+219 
+Manual on COFOG statistics  07.33  MEDICAL AND MATERNIT Y CENTRE SERVICES (I S) 
+Provision of medical and maternity c entre services; administration, inspection, operation or support of 
+medical and maternity centre services. 

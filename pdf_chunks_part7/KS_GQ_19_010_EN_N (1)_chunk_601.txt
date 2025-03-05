@@ -1,0 +1,14 @@
+C ES (IS)  
+Provision of public health services; administration, inspection, operation or support of public health 
+services such as blood -bank operation (collecting, processing, storing, shipping), disease  detection 
+(cancer, tuberculosis, venereal disease), prevention (immunization, inoculation), monitoring (infant 
+nutrition, child health), epidemiological data collection, family planning services and so forth; 
+preparation and dissemination of information o n public health matters.  
+Includes: public health services delivered by special teams to groups of clients, most of whom are in good 
+health, at workplaces, schools or other non -medical settings; public health services not connected 
+with a hospital, clinic o r practitioner; public health services not delivered by medically qualified doctors; 
+public health service laboratories.  
+Excludes: medical analysis laboratories (07.24); laboratories engaged in determining the causes of 
+disease (07.50).  
+07.5  R&D HEALTH  
+Comment:

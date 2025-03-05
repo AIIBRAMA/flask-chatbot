@@ -1,0 +1,14 @@
+vices delivered  by general medical clinics and general medical practitioners.  
+Excludes: services of medical analysis laboratories and x -ray centres (07.24).  
+07.22  SPECIALIZED MEDICAL SERVICES (IS)  
+This class covers the services of specialized medical clinics and speciali st medical practitioners. 
+Specialized medical clinics and specialist medical practitioners differ from general medical clinics and 
+general medical practitioners in that their services are limited to treatment of a particular condition, 
+disease, medical pro cedure or class of patient.  
+Provision of specialized medical services; administration, inspection, operation or support of specialized 
+medical services delivered by specialized medical clinics and specialist medical practitioners.  
+Includes: services of or thodontic specialists.  
+Excludes: dental clinics and dentists (07.23); services of medical analysis laboratories and x -ray centres 
+(07.24).  
+07.23  DENTAL SERVICES (IS)  
+This class covers the s

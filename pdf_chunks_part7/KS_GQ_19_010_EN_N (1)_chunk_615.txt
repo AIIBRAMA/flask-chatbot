@@ -1,0 +1,15 @@
+level 5; scholarships, 
+grants, loans and allowances to support students pursuing tertiary education at ISCED -97 level 5.  
+Excludes: subsidiary ser vices to education (09.60).  
+09.42  SECOND STAGE OF TERT IARY EDUCATION (IS)  
+Provision of tertiary education at ISCED -97 level 6; administration, inspection, operation or support of 
+universities and other institutions providing tertiary education at ISCED -97 level 6; scholarships, 
+grants, loans and allowances to support students pursuing tertiary education at ISCED -97 level 6.  
+Excludes: subsidiary services to education (09.60).  
+09.5 EDUCATION NOT DEFINABLE BY LEVEL  
+Comment: In this group no amounts for P.32 ar e expected.  In this group amounts 
+recorded in P.31 must be equal to or exceed the amounts recorded for D.632, the 
+difference being D.631.  
+09.50  EDUCATION NOT DEFINA BLE BY LEVEL (IS)  
+Provision of education not definable by level (that is, educational progra ms, generally for adults, which 
+do not require any sp

@@ -1,0 +1,15 @@
+ls and other institutions providing pre -primary education at ISCED -97 level 0.  
+Excludes: subsidiary services to education (09.60).  
+09.12  PRIMARY EDUCATION (I S) 
+Provision of primary education at ISCED -97 level 1; administration, inspection, operation or support of 
+schools and other institutions providing primary education at ISCED -97 level 1.  
+Includes: literacy programs for students too old for primary school.  
+Exclu des: subsidiary services to education (09.60).  
+09.2 SECONDARY EDUCATION  
+Comment: In this group no amounts for P.32 are expected.  In this group amounts 
+recorded in P.31 must be equal to or exceed the amounts recorded for D.632, the 
+difference being D.631.  
+09.21 LOWER -SECONDARY EDUCATION (IS) 
+Provision of lower -secondary education at ISCED -97 level 2; administration, inspection, operation or 
+support of schools and other institutions providing lower -secondary education at ISCED -97 level 2; 
+scholarships, grants , loans and allowances to support p

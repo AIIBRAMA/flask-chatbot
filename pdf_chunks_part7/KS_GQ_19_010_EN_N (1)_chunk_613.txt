@@ -1,0 +1,16 @@
+upils pursuing lower -secondary education at 
+ISCED -97 level 2.  
+Includes: out -of-school lower -secondary education for adults and young people.  
+Excludes: subsidiary services to education (09.60).  
+09.22  UPPER -SECONDARY EDUCAT ION (IS)  
+Provision of upper -secondary education at ISCED -97 level 3; administration, inspection, operation or 
+support of schools and other institutions providing upper -secondary education at ISCED -97 level 3; 
+scholarships, grants, loans and allowances to s upport pupils pursuing upper -secondary education at 
+ISCED -97 level 3.  
+Includes: out -of-school upper -secondary education for adults and young people.  
+Excludes: subsidiary services to education (09.60).  
+09.3 POST -SECONDARY NON -TERTIARY EDUCATION  
+Comment: In this group no amounts for P.32 are expected.  In this group amounts 
+recorded in P.31 must be equal to or exceed the amounts recorded for D.632, the 
+difference being D.631.  
+09.30  POST -SECONDARY NON -TERTIARY EDUCATION ( IS) 
