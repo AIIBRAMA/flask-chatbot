@@ -1,0 +1,14 @@
+FOG classes for R&D expenditure is always one to one except for the COFOG 
+Division 4 Economic activities, where COFOG group 4.8 R&D Economic affairs is broken down into the following seven classes: 04.81 
+R&D General economic, commercial, and labour affairs , 04.82 R&D Agriculture, forestry, fishing and hunting , 04.83 R&D Fuel and 
+energy , 04.84 R&D Mining, manufacturing, and construction , 04.85R&D Transport , 04.86 R&D Communication , 04.87 R&D Other 
+industries . 
+46 In the European Union GERD data by NABS breakdown are only compiled on a voluntary basis, and are therefore incomplete. GAORD  
+data by NABS are compulsory and are therefore much more complete.  
+47 The environme ntal accounting systems, developed by the UN and the EU according to the framework provided by SNA 93 chapter 
+XXI, are consistent with 2008  SNA chapter  29, which upgrades the guidance provided by SNA  93. 
+
+ 
+76 4 Links between COFOG and other international statistics  
+Manual on COFOG statistics  
+The fi

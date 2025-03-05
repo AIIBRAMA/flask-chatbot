@@ -1,0 +1,17 @@
+lassification of child care servi ces in group 10.4 family and children.  
+
+ 
+92 4 Links between COFOG and other international statistics  
+Manual on COFOG statistics  
+government sector , no differences betwe en COFOG and UOE in this respect should be 
+observed ; 
+ both statistics rely on actual outlays, rather than budgets, however UOE also includes under 
+public expenditure government loans for students , some of which may meet the criteria to be 
+treated as financi al transactions in national accounts and thus may not be taken into account 
+for COFOG data61; 
+ time of recording: accrual (government exp.) vs. cash accounting (UOE data collection); 
+however in practice for some countries, UOE data can be also on accrual or mixed 
+accrual/cash basis  depending on the budgetary basis . 
+ data sources and compilation: in some Member States different data sources are used for 
+compilation of UOE and COFOG data. Even when the same data sources are used they are 
+treated independently, 

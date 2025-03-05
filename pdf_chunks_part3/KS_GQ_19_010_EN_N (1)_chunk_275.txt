@@ -1,0 +1,15 @@
+ SHA -2011 classification headings, related to the health care ex penditure by 
+function (ICHA -HC) looking at health care from the consumers side, in order to determine a 
+correspondence with COFOG groups and classes related to health expenditure.  
+When using the data created for SHA health expenditure by function, based on  the ICHA -HC 
+classification, for cross -checking the data collected according to COFOG, the differences into the 
+expenditure on health care in SHA need to be taken into account. There is not a single unique one -
+to-one relation for any of the items.  
+Table  10: Usability of SHA for COFOG  
+ICHA -HC Title of headings  COFOG  Title of headings  
+HC.1  Curative care    
+HC.1.1  Inpatient curative care  07.3 Hospital services  
+HC.1.2  Day curative care  07.3 Hospital services  
+HC.1.3  Outpatient curative care  07.2 Outpatient se rvices  
+HC.1.3.1  General curative outpatient care  07.21  General medical services (IS)  
+HC.1.3.2  Dental curative outpatient care 

@@ -1,0 +1,18 @@
+her classes.  
+4.3. Health accounts  
+4.3.1.  Background  
+Health accounts provide a systematic description of the financial flows related to the consumption of 
+health care goods and services. The aim is to describe a health system from an expenditure 
+perspective. The System of Health Accounts 2011 (SHA -201150) updates the SHA 1.0 (OECD, 2000) 
+                                                           
+ 
+50 The formal process of producing SHA -2011 started in 2007 as a co -operative activity of health accounts experts from the OECD, WHO 
+and Eurostat, known as the International H ealth Accounts Team (IHAT).  
+
+ 
+84 4 Links between COFOG and other international statistics  
+Manual on COFOG statistics  
+and provides a framework for a set of interrelated classifications used for the recording of health 
+expenditure.  
+SHA-2011 introduces a number of changes and improvements compared wit h SHA 1.0. It reinforces 
+the tri -axial relationship that is at the root of the System of Health A

@@ -1,0 +1,13 @@
+l assifications such 
+as the Central Product Classification, Version  2 (UN, 2008), the CPA  Rev. 2 (Classification of 
+Products by Activity, Eurostat  2008) and COFOG are referred to in the ICHA manual.  
+Definitions of government expenditure in the ICHA should be  consistent or at least compatible with 
+COFOG.  
+4.3.2.  Differences between SHA -2011 and COFOG  
+Although the SHA uses, as  far as possible, existing  descriptions and classifications to provide the 
+information needed for the specific health needs, differences with the se existing information sources 
+are present. For example, SHA use various public and private information sources, while on the other 
+hand , COFOG is restricted to government administrative sources. The purpose of SHA is to provide 
+a complete coverage of all  expenditure related to health care, while COFOG intends to classify 
+transactions in government -funded health care. To fulfil this aim, SHA covers all economic units (both 
+as primary producers of 

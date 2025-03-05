@@ -1,0 +1,18 @@
+ring  
+Table 3b_Add : Detailed manufacturing industries  
+Table 3c:  Electricity, gas and steam supply  
+Table 3d:  Water supply  
+Table 3e:  “Other NACE divisions”  
+EPEA Table 4: Total supply of environmental protection services (completed with data from other 
+EPEA tables)  
+EPEA Table 5 : Households  
+EPEA Table 6:  EP trans fers 
+EPEA Table 7: Summary and calculation of national expenditure on environmental protection (NEEP)  
+Table 7.1 : Total economy by CEPA  
+Table 7.2 : Total economy and rest of the world, total CEPA, by institutional sector  
+Table 7.3 : Total economy, total CEP A, by institutional sector (calculation and country reporting 
+of NEEP)  
+Data on environmental  protection (EP) activities of general government and related transactions are 
+collected under EPEA Table 1 and Table 6. The mandatory variables of EPEA Table 1 inc lude:  
+ output of EP services, broken down into market output and non -market output,  
+ gross fixed capital formation and acquisition less

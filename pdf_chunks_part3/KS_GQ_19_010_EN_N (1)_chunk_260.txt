@@ -1,0 +1,14 @@
+ces between the two 
+classifications may exist, given that:  
+ COFOG classifies expenditure  under on e and only one function. Consequently, some multi -
+purpose activities might be classified under a COFOG category other than environmental 
+protection, even if they serve also a (secondary) purpose of environmental protection. 
+Examples are economic aid to dev eloping countries and countries in transition, overall 
+planning and statistical services, agriculture, multi -purpose development projects, housing 
+development or cultural services, etc.  
+ COFOG function 05 may record expenditure not related to environmental protection. Even 
+though the compilers are supposed to classify individual transactions to specific COFOG 
+categories, it might happen, that, in practice, the classification is decided following the 
+predominance principle and, as a result, all expenditure of  a ministry, agency, or 
+administrative unit are assigned to the same COFOG code.  
+This might lead to discrepanc

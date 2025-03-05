@@ -1,0 +1,17 @@
+D on economic affairs  (04.8) , etc. 
+Practical difficulties related to source data may occur and need to be resolved by estimating a split by 
+purpose based on reasonable indicators.  (See also case 38 ). 
+
+ 
+ 65 2 Methodological guidance  3 
+65 
+Manual on COFOG s tatistics  3.10.47.  Case 47 – Transfers to a health care fund  
+Guidance: distinction of two cases  
+The case concerns amounts being transferred from central government (S.1311) to a health care 
+fund (S.1314), with the aim of financing health care for people under the age of 18 (in addition to 
+social security fund incomes,  which are sourced from social contributions).  
+The health care fund finances health care of the general population (all ages included). The outgoing 
+payments of the health care fund are concerned with medical products (07.1), outpatient care (07.2) 
+and inp atient care (07.3).  
+Two cases must be distinguished:  
+1. Transfers to health fund cover ing shortfall s due to insuring children's health care

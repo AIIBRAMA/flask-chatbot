@@ -1,0 +1,25 @@
+ctions , chapter I.5. 
+CLASSIFICATION OF HEALTH CARE FUNCTIONS (ICHA -HC). 
+
+ 
+86 4 Links between COFOG and other international statistics  
+Manual on COFOG statistics  
+COFOG  Title of headings  ICHA –
+HC Title of headings  
+07.1.2  Other medical products (IS)  HC.5.1.3  Other me dical non -durables goods  
+07.1.3  Therapeutic appliances and 
+equipment (IS)  HC.5.2  Therapeutic appliances and other medical 
+goods  
+    HC.5.2.1  Glasses and other vision products  
+    HC.5.2.2  Orthopaedic appliances and prosthetics  
+    HC.5.2.3  Hearing aids 
+    HC.5.2.4  All other medical durables including medical 
+technical devices  
+    HC.5.2.9  All other medical durables, including medical 
+technical devices  
+07.2 Outpatient services  HC.1.3  Outpatient curative care  
+    HC.1.4  Home -based curative car e 
+    HC.2.3  Rehabilitative outpatient care  
+    HC.2.4  Rehabilitative home -based care  
+    HC.3.3  Outpatient long -term care (health)  
+    HC.4  Ancillary services non - specified

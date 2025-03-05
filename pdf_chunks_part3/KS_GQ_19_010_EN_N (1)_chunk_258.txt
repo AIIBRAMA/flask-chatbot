@@ -1,0 +1,13 @@
+ en vironmental economic accounts for compilation of EGSS.  
+COFOG and CEPA  
+CEPA is used to classify activities, products, expenditure and other transactions whose primary 
+purpose is environmental protection. Consequently, its scope overlaps with the scope of CO FOG 
+division 05 ‘environmental protection’. In general, all EP activities and expenditure classified 
+according to CEPA can be classified only within COFOG division 05. In turn, COFOG division 05 
+includes exclusively EP activities and expenditure that is cl assified within CEPA.  
+There is a nearly one -to-one correspondence between this COFOG division and I level breakdown of 
+CEPA (see table 7). With its nine main environmental domains (I level), broken down into up to eight 
+sub-categories (some of which are sp lit even further), CEPA provides a much more detailed structure 
+of environmental protection purposes than COFOG.  
+Table  7: Correspondence between COFOG and CEPA classifications  
+COFOG (05 environmental protec

@@ -1,0 +1,14 @@
+ range of countries from the OECD.  
+1.GERD data  
+GERD data are broken down by sectors of performance, including the government sector and higher 
+education sector. These data follow the accounting conventions of national accounts ( including 
+COFOG data), in that expendi ture should be measured on an accruals basis. Even if they are 
+focused on the unit performing the R&D activity, transfers of resources from government to non -
+government units are available in the source of funds breakdown showing direct transfers between 
+performing sectors. These transfers are included in government expenditure in the national accounts. 
+This effect is particularly important for research undertaken by public universities, which may be 
+substantially financed by government.  
+2. GBARD data  
+These  data measure the government funding for R&D by all levels of government (except local 
+government funds that should be excluded43) on R&D, where those allocations are funded by 
+taxation or other govern

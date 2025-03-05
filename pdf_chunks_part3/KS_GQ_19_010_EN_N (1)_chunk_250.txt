@@ -1,0 +1,66 @@
+ther S.13 
+units . Covered 
+jointly with 
+S.15 as a 
+separate 
+ReMEA 
+sector . 
+
+ 
+ 79 4 Links between COFOG and other international statistics  
+79 
+Manual on COFOG statistics  Definitions, 
+delimitations and 
+classifications  Monetary environmental accounts (ME A) 
+Reporting 
+obligation  EPEA  EGSS  ESST  ReMEA  
+Other 
+institutional 
+sectors  See specific 
+modules  Other sectors 
+of the 
+economy also 
+covered for 
+relevant 
+transactions . 
+For the 
+corporations 
+sector s, 
+distinction 
+between 
+‘specialist’ 
+producers of 
+environmental 
+protection 
+services 
+(NACE 37 -39) 
+and other 
+producers . No explicit 
+distinction . S.2 as a payer 
+of transfers 
+(no split by 
+recipient);  
+for transfers 
+payable by 
+S.13, 
+breakdown by 
+counterpart 
+sector 
+(recipient);  
+for transfers 
+payable by 
+S.13 to the 
+corporations 
+sector, 
+breakdown by 
+counterpart 
+NACE industry 
+(recipient) . Corporations  
+(distinguishing 
+between 
+market and 
+ancillary 
+producers), 
+households 
+and S.2 
+(transfe

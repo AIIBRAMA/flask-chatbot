@@ -1,0 +1,36 @@
+ care related  classes    
+HC.R.1 
+Long -term 
+care (social)  Long -term care (social)  10.12,  
+10.20,  
+10.70  Disability (IS)  
+Old age (IS)  
+Social exclusion n.e.c. (IS)  
+HC.R.1.1In -
+kind long -
+term social 
+care  In-kind long-term social care  10.12 
+10.20, 
+10.70  Disability (IS)  
+Old age (IS)  
+Social exclusion n.e.c. (IS)  
+HC.R.1.2  Long -term social care cash 
+benefits  10.12,  
+10.20,  
+10.70  Disability (IS)  
+Old age (IS)  
+Social exclusion n.e.c. (IS)  
+HC.R.2  Health promotion with multi -
+sectorial approach    Activities under this item are part of 
+various COFOG functions COFOG, 04 
+Economic Affairs (various industries); 
+and 06.3 Water supply which includes 
+Supervision and regulation of water 
+purity).  
+IS: individual services  
+CS: collective services  
+4.4. Education stat istics  
+4.4.1.  International Standard Classification of 
+Education (ISCED)  
+ISCED was designed by the United Nations Educational, Scientific, and Cultural Organisation 
+(UNESCO) in the ear

@@ -1,0 +1,26 @@
+ 07.23  Dental services (IS)  
+HC.1.3.3  Specialised curative outpatient 
+care 07.22  Specialized medical services (IS)  
+HC.1.4  Home -based curative care  07.24  Paramedical services (IS)  
+HC.2  Rehabilitative care    
+HC.2.1  Inpatient rehabilitative care  07.3 Hospital services  
+HC.2.2  Rehabilitative day care  07.3 Hospital services  
+HC.2.3  Rehabilitative outpatient care  07.22  Specialized medi cal services (IS)  
+HC.2.4  Rehabilitative home -based care  07.24, 
+07.34  Paramedical services (IS)  
+Nursing and convalescent home 
+services (IS)  
+HC.3  Long -term care (health)    
+HC.3.1  Long -term inpatient care  (health)  07.34  Nursing and convalescent home 
+servi ces (IS)  
+HC.3.2  Day cases of long -term care  
+(health)  07.32,  
+07.34  Specialised hospital services (IS)  
+Nursing and convalescent home 
+services (IS)  
+HC.3.3  Outpatient long -term care  
+(health)  07.24  Paramedical services (IS)  
+HC.3.4  Home -based long -term care 
+(health)  07.24, 
+10.11,  
+10.12  Para

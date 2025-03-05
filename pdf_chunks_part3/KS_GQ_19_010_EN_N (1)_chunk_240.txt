@@ -1,0 +1,12 @@
+l assets . 
+Environmental Accounts measure the natural resources (e.g., raw materials, water and land) used as 
+inputs to the economic activities and the im pact of the economy on the environment (e.g. emissions 
+to air, soil, and water). They also trace production activities and jobs related to environmental 
+products and environmentally relevant monetary transactions such as environmental taxes and 
+subsidies a nd investments in environmental protection.  
+Designed as a set of satellite accounts to the European System of Accounts (ESA 2010), the EU 
+environmental economic accounts broadly follow ESA definitions, classifications and accounting 
+rules, enlarging the sc ope of the accounting framework, introducing additional concepts and 
+combining classifications and/or extending their breakdowns to capture relevant economic 
+transactions and related flows. In many cases, macroeconomic statistics provides source or 
+referen ce data for compilers of environmental accounts. In this conte

@@ -1,0 +1,13 @@
+odule on pension beneficiaries displays the number of pension beneficiaries in a country split 
+by categories62. The module63 on net social protection benefits represents the netting of the core 
+(gross) expenditure by subtracting the value of taxes on income and social contributions paid on 
+social protection benefits64. 
+These ESSPROS modules do not need applying in a strictly manner the definitions and conventions 
+adopted for the core system. Each m odule has its own methodology and, when possible, its own 
+specific sources and methods of estimation.  
+The definitions, conventions and accounting rules in the ESSPROS Manual are to a large extent 
+harmoni sed with the national accounts in  their main concepts . Differences are listed below.  
+4.5.2.  Scope of social protection  
+ESSPROS provides a general definition of the scope of social protection as follows65, "social 
+protection encompasses all interventions from public or private bodies intended to relieve households 
+and indivi

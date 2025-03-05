@@ -1,0 +1,12 @@
+ not necessarily to actual allocations . 
+COFOG exp enditure data are measured for the general government sector in national accounts (with 
+a breakdown in subsector s of government as appropriate). GERD data are reported along the 
+‘sectors of R&D performance’44. GERD for the government sector (i.e. the govern ment's own R&D 
+activities) is reported separately from the GERD for the higher education sector, whereas in national 
+accounts , public universities are usually classified in the general government sector. GBARD data 
+are considerably closer in coverage to CO FOG, since they consider all expenditure of government, 
+whether on its own activities or transfers to other bodies. GBARD data for some countries do not 
+include local government expenditure. Government  units acting at the state or local level may have 
+only small amounts of expenditure on R&D (except for public universities , when classified into the 
+local government subsector ). 
+The COFOG groups, classification at le

@@ -1,0 +1,14 @@
+  3 
+69 
+Manual on COFOG s tatistics  Development of this guidance  
+In the ESA framework, the production account is not to be consolidated (ESA  2010 para. 20.157), 
+while transactions in other current transfers are consolidated.  
+The conceptual diffi culties with a consolidation of the production account are mainly: difficulties in 
+determining the counterpart transactor, and different prices (basic and purchaser) used for output 
+and intermediate consumption (ESA  2010 para. 20.157). A treatment of intra -government sales as 
+other current transfers has an impact on sector accounts as well as on COFOG.  
+It was noted that the level of sales (P.11+P.12+P.131) varies widely between EU and EFTA countries  
+and might lack cross -country comparability introducing di fferences in the measurement of 
+government revenue/expenditure. The introduction of a common definition of government revenue/ 
+expenditure in 2000 was precisely to establish cross -country comparability.  
+The GFSTF then l

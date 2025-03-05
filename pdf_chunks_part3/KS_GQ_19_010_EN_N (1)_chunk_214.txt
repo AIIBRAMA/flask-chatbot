@@ -1,0 +1,21 @@
+.13 unit  
+ S.13 unit  
+ S.14 
+Service provider  (paying)    
+U R  U R  U R 
+  80 P.131  P.2 80 80 P.132        
+      D.631  80       80 D.631  
+      P.4 0     P.4 80    
+B.9 80     B.9 -80     B.9 0    
+F.2 80     F.2 -80          
+      P.31 80          
+ 
+In case 2, the payment between the government units does not meet the criteria to b e a sale and 
+should be treated as current transfers within general government (D.73).  
+According to this option, government overall individual consumption expenditure is unchanged.  
+No possible contradiction with the ESA2010 quantitative market/non -market test could arise .  
+However, the individual consumption expenditure is now recorded for the service provider instead of 
+the unit making the payment/ responsible for assuring the provision of the service.  
+Also, the other current transfers indicate the payme nt to be unrequited, whereas in fact one S.13 
+entity may be considered as  paying another to provide a service.  
+In terms of COFOG a

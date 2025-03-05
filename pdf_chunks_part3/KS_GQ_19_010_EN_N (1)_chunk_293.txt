@@ -1,0 +1,13 @@
+w ith independent compilation methods applied. Also, data are 
+sometimes changed due to reconciliation processes between different accounts ; 
+ further breakdown of education expenditure: the detailed breakdown of COFOG function 
+education does not fully correspo nd to UOE breakdown, in particular for grouping of 
+subsidiary services on education (allocated in UOE dataset directly to the corresponding 
+ISCED heading but presented as separate groups in COFOG)  and R&D ; 
+ treatment of R&D expenditure: UOE includes in educ ation expenditure any research 
+conducted in tertiary educational institutions. On the other hand, COFOG classifies R&D 
+expenditure conducted in tertiary educational institutions to the respective functions (e.g. 
+01.4 basic research, 07.5 R&D health), and i n the division 09 education only R&D on 
+education ; 
+ definition of government expenditure: government final consumption expenditure 
+corresponds in the UOE to government direct expenditure on educational inst

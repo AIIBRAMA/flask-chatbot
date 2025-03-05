@@ -1,0 +1,29 @@
+ent transportation n.s.f.  
+07.3.1  General hospital services (IS)      
+07.3.2  Specialized hospital services (IS)      
+07.3.3  Medical and maternity  centre 
+services (IS)      
+07.3.4  Nursing and convalescent home 
+services (IS)  HC.2.4  Rehabilitative home -based care  
+07.4 Public health services  HC.6 
+(excl. 
+HC.6.5. 
+HC. 6.6)  Preventive care (excl. Epidemiologic 
+surveillance and risk and disease control 
+programmes and Preparing for disaster and 
+emergency response programmes)  
+07.4.0  Public health services (IS)      
+07.5 R&D Health      
+07.5.0  R&D Health (CS)      
+07.6 Health n.e.c.  HC.7.1  Governance and health system administration:  
+    HC.7.2  Administrati on of health financing  
+07.6.0  Health n.e.c. (CS)      
+IS: individual services  
+CS: collective services  
+
+ 
+ 87 4 Links between COFOG and other international statistics  
+87 
+Manual on COFOG statistics  4.3.5.  Usability of ICHA -HC categories for constructing 
+expenditure by COFOG  
+Table  1053 examines

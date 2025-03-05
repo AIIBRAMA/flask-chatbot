@@ -1,0 +1,21 @@
+ by function  
+07.2.1  General medical services (IS)  HC.1.3.1  General curative outpatient care  
+    HC.1.4  Home -based curative care  
+07.2.2  Specialized medical services (IS)  HC.1.3.3  Specialised curative outpatient care  
+    HC.2.3  Rehabilitative outpatient care  
+07.2.3  Dental services (IS)  HC.1.3.2  Dental curative outpatient care  
+07.2.4  Paramedical services (IS)  HC.1.4  Home -based curative care  
+    HC.2.3  Rehabilitative outpatient care  
+    HC.2.4  Rehabilitative home -based care  
+    HC.3.3  Outpatient long -term care (health)  
+    HC.4  Ancillary services non - specified by functi on 
+    HC.4.1  Laboratory services  
+    HC.4.2  Imaging services  
+    HC.4.3  Patient transportation n.s.f.  
+07.3 Hospital services  HC.1.1  Inpatient curative care  
+    HC.1.2  Day curative care  
+    HC.2.1  Inpatient rehabilitative care  
+    HC.2.2  Rehabili tative day care  
+    HC.3.1  Long term inpatient care  
+    HC.3.2  Day cases of long term care  
+    HC.4.3  Pati

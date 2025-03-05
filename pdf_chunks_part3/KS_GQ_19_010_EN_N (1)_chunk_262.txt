@@ -1,0 +1,14 @@
+, however, be noted that transactions related to the 
+resource management (RM) can be assigned to a number of COFOG divisions and groups, which 
+have overa ll a broader coverage, i.e., they include apart from RM -related transactions also non -
+environmental activities and expenditure.  
+As presented in table 8, RM expenditure of S.13 is broadly classified within COFOG divisions 04 
+'economic affairs ' and 06 'housing and community amenities ', together with other non -environmental 
+expenditure. In this context, it should be noted that the on -going review of the classification of 
+environmental activities aims at better clarifying definitions and scope of specific RM a ctivities, which, 
+in turn, might lead to a need to reconsider their linkages with COFOG categories .  
+Table  8: Correspondence between COFOG and CReMA classification  
+COFOG   CReMA  
+04.21  agriculture (irrigation and drainage systems)  10 management of water r esources  
+06.31  water supply  
+04.22  forestry  11 ma

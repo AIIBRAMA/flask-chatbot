@@ -1,0 +1,15 @@
+vel II, separates out R&D expenditure by one (or more45) 
+R&D COFOG groups in each division , bas ed on a functional approach. The NABS classification, 
+used in both GBARD and GERD46 data has an approach based on socio -economic objectives. 
+Nevertheless it is possible to make a reasonable reconciliation between the classifications at the 
+detailed level fo r many headings.  
+4.2. Environmental accounts  
+4.2.1.  Conceptual and reporting framework  
+2008 SNA  chapter  29 satellite accounts and other extensions and ESA 2010 chapter 22 satellite 
+accounts describe a satellite system for integrated environmental and economic accounti ng. The 
+framework47 includes a description of how monetary and physical environmental statistics can be 
+combined in a SNA compatible way.  
+                                                           
+ 
+44 ‘Business enterprise’, ‘Government’, ‘Higher Educ ation’, ‘Private non -profit’, ‘Rest of the world’.   
+45 The correspondence between COFOG groups and CO

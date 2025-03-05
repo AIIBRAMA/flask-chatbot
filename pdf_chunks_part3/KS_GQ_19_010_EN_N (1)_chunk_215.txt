@@ -1,0 +1,25 @@
+llocation, this implies the recording of individual consumption expenditure. 
+Hence, in the service provider's accounts, an am ount equalling the social transfer in kind must be 
+recorded within an 'individual' COFOG group.  
+In some cases, this may be counter -intuitive at first  (e.g. to record part of the consumption 
+expenditure of an entity providing public transport as individual) . The socio -economic purpose of the 
+expenditure of the unit providing the service might, in some cases, be more intuitively considered as 
+part of collective consumption expenditure.  
+Case 2 is illustrated below.  
+Case 2: The payment does not meet the criteri a to be a sale  
+S.13 unit  
+ S.13 unit  
+ S.14 
+Service provider  (paying)    
+U R  U R  U R 
+  0 P.131              
+D.631  80 80 P.132           80 D.631  
+  80 D.73   D.73  80          
+P.4 0     P.4 0     P.4 80    
+B.9 80     B.9 -80     B.9 0    
+F.2 80     F.2 -80          
+P.31 80     P.31 0          
+ 
+
+ 
+ 69 2 Methodological guidance

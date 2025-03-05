@@ -1,0 +1,16 @@
+ies between COFOG and EPEA data for the countries which, even 
+though relying principally on COFOG as a data source, are in a position to complemen t the source 
+data with a detailed budget analysis.  
+
+ 
+ 83 4 Links between COFOG and other international statistics  
+83 
+Manual on COFOG statistics  COFOG and CReMA  
+While waiting for the internationally agreed upon version of the classification of resource 
+management activities (as part of the family of the UNSD classifications), CReMA has been used a t 
+the European level to classify the relevant activities. CReMA breakdown for the mandatory reporting 
+of the EGSS data is set out in Regulation 691/2011. Its more detailed structure and definitions are 
+presented in annex 5 of the EGSS handbook . 
+It is not straightforward to establish a correspondence between CReMA and COFOG classifications. 
+table 5 below seeks to indicate for eac h CReMA I level categories COFOG groups that (at least 
+partially) cover relevant expenditure. It should

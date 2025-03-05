@@ -1,0 +1,14 @@
+
+Guidance: 03.1, 03.2, 07.3 where possible.  
+In Europe, a single European emergency number (112) has been establi shed, through which police, 
+fire brigade, ambulances, rescue services and coast guards can be reached.  
+Expenditure on operating single emergency number is multi -purpose.  
+COFOG group 03.2 'fire protection services' contains – apart from fire protection, al so other civil 
+protection services such as mountain rescue  and beach surveillance.  
+Police services (and coast guards) are classified in group 03.1.  
+In the description of division 07 health , no mention is made of the operation of ambulance services. 
+Howeve r, case 25 on transfers to domestic emergency medical services mentions that ambulance 
+services should be included in this group, whenever not delivered by hospitals (07.3).  
+Conceptually, the expenditure related to single emergency numbers should be split across the 
+impacted COFOG groups, such as health groups and 03.1, 03.2, etc.  
+3.10.50.  Case 50 – 

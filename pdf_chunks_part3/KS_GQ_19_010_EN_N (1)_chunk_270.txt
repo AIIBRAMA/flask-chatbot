@@ -1,0 +1,15 @@
+ contrasts  with consolidation approaches for grants in the general 
+government sector.  
+4.3.4.  Usability of COFOG for constructing ICHA -HC 
+expenditure  
+Table  9 examines COFOG groups and classes related to health expenditure in order to find a link 
+with the correspondent SHA -2011 classification, the health care expenditure by function52 (ICHA -HC) 
+looking at health care from the consumers side.  
+COFOG 07.2: In case co -payments exist the government share expressed in COFOG needs to be 
+supplemented for ICHA -HC. Additional informati on on the procedures governing these payments is 
+necessary for SHA data compilation.  
+COFOG 07.3: Spending on army field hospitals is not included in COFOG  07.3 but is to be included 
+in the SHA functional classification.  
+COFOG 07.4: Data on public health ar e partly used for the determination of ICHA -HC category  HC.6. 
+However these COFOG data may contain some data to be used for ICHA -HC category  HC.7. Some 
+of the public health data may

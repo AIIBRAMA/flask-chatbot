@@ -1,0 +1,14 @@
+l on COFOG statistics  the correspondence between the functional classifications of SHA and SNA.  
+4.3.3.  ESA 2010  
+Unlike ESA95, and following on from the developments in 2008 SNA, ESA 2010 contains a specific 
+chapter (ch apter 22) on satellite accounts.  
+Health accounts are discussed in ESA 2010 para. 22. 79-22.88. 
+ESA 2010 para. 22.83 explains that the production boundary of SHA is expanded in two cases 
+compared to national accounts – first for occupational health care , which is not considered an 
+ancillary  service (if financed by employers) and second for cash transfers to households for home 
+care for the sick and disabled.  
+For general government and COFOG the second would have an impact on the comparability of the 
+type of transaction . 
+ESA 2010 para. 22.87 mentions that in SHA an alternative perspective of recording involves tracing 
+back sources of financing of health care. This approach of taking into account intra -governmental 
+transfers, tax deductions, subsidies

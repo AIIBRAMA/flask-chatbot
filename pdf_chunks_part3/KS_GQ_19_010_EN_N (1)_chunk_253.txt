@@ -1,0 +1,64 @@
+akdown:  
+CEPA 7  - - 
+Other 
+COFOG 
+categories 
+(other  than 
+COFOG 05)  Mandatory in 
+MEA  - Where 
+overlapping 
+with CReMA 
+breakdown . - - 
+Optional in 
+MEA  - Where 
+overlapping 
+with CReMA 
+breakdown . Where 
+overlapping 
+with CReMA 
+breakdown . Where 
+overlapping 
+with CReMA 
+breakdown . 
+Accounting rules and 
+reporting conv ention 
+(relevant for comparison 
+with COFOG statistics)  - Transfers are 
+consolidated 
+within the S.13 
+and S.15 
+sector;  
+Transactions 
+in assets 
+relating to 
+emissions 
+permits not 
+covered . 
+ - Data not 
+consolidated 
+within S.13.  See EPEA  
+Eurostat’s data validatio n - Cross -checks 
+with COFOG 
+statistics 
+included in 
+EPEA  
+validation 
+report s. Only cross -
+checks with 
+EPEA.  Cross -checks 
+with COFOG 
+statistics 
+included in 
+ESST  
+validation 
+report s. n/a 
+Deadline for reporting  - 1Y time lag 
+compared to 
+COFOG  1Y time lag 
+compare d to 
+COFOG  9-10 months' 
+time lag 
+compared to 
+COFOG  n/a 
+EPEA and COFOG transactions  
+Of the three 

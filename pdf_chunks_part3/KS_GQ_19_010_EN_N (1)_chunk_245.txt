@@ -1,0 +1,17 @@
+inkages with COFOG or other GFS data. The accounts measure the value of transactions 
+undertaken for environmental purposes or for pre serving natural resources. Fo r an overview  of the 
+modules, methodological reference documents and reporting requirements, see table 4. 
+Apart from the three mandatory monetary environmental accounts datasets, Eurostat collects on a 
+regular basis data on environmental subsidies and simi lar transfers (ESST), and it has developed 
+resource management expenditure accounts (ReM EA), for which up to now no data have been 
+collected. For the sake of completeness, the table covers also ETEA, a dataset with no linkages to 
+COFOG, sourcing its inform ation from the National Tax List and ESA table 9, i.e., another data 
+collection  within government finance statistics.  
+Table  4: Modules of monetary environmental accounts  
+Module  EPEA  EGSS  ESST  ReMEA  ETEA  
+Purpose  Cover supply and 
+demand of 
+environmental 
+protection specific 
+services, such as 
+was

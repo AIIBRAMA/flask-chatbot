@@ -1,0 +1,23 @@
+                                               
+ 
+41 http://www.oecd.org/innovation/inno/frascati -manual.htm    4.  
+ 
+4 Links between COFOG 
+and other international 
+statistics  
+
+ 
+74 4 Links between COFOG and other international statistics  
+Manual on COFOG statistics  
+facilitate the use of R&D statistics in other statistical frameworks. This last objective applies in 
+particular to the use of R&D statistics for National Accounts purposes, in light of the treatment of 
+R&D as capital formation.  
+4.1.2.  Research and Development (R&D) expenditure 
+data 
+According to the Frascati Manual, there are two ways of measuring government expenditure on R&D:  
+1. Expenditure of those units performing R&D activity ( GERD - Gross domesti c expenditure for 
+R&D) , 
+2. Government budget allocations for R&D, wherever the R&D activity is eventually performed 
+(GBARD).  
+EU Member States report both datasets  to Eurostat, which then publishes the data42. Data are also 
+available for a n additional

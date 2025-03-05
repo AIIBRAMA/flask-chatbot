@@ -1,0 +1,22 @@
+medical services (IS)  
+Sickness (IS)  
+Disability (IS)  
+HC.4  Ancillary services non -specified 
+by function    
+HC.4.1  Laboratory services  07.24  Paramedical services (IS)  
+HC.4.2  Imaging services n.s.f.  07.24  Paramedical servic es (IS)  
+HC.4.3  Patient transportation n.s.f.  07.24, 
+07.3 Paramedical services (IS)  
+Hospital services  
+                                                           
+ 
+53 Table  10 is based on the correspondences between the SHA -2011 classifications and the SNA fun ctional classification of expenditure 
+as reported on SHA -2011 Table  A.1.5 Cross -check of the classification of health care functions (ICHA -HC) with SNA classifications  
+and Table  A.1.6 Correspondence between classification of health care functions (ICHA -HC) and COFOG and COICOP -Households . 
+
+ 
+88 4 Links between COFOG and other international statistics  
+Manual on COFOG statistics  
+ICHA -HC Title of headings  COFOG  Title of headings  
+HC.5  Medical goods non -specified by 
+f

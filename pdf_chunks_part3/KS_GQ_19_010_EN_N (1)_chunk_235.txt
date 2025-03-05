@@ -1,0 +1,15 @@
+cs  
+75 
+Manual on COFOG statistics  project for which the expenditure is allocated. This breakdown is made in the NABS classification.  
+4.1.3.  Coherence of COFOG R&D data with R&D 
+expenditure data  
+Whilst users may wish to directly equate COFOG R&D data with R&D  expenditure data reported by 
+countries under Science and Technology indicators, it is important to appreciate the differences of 
+approach in these datasets, despite the ongoing convergence of the Frascati Manual with national 
+accounts.  
+COFOG expenditure d ata are based on the principles of national accounts, as set out in the 
+2008  SNA and ESA 2010 . In concept the measurement principles for COFOG data are the same as 
+the accruals concepts used for GERD, whereas GBARD data are recorded on a budgetary basis 
+(which means that they may be on a cash, accruals or commitments basis depending on the 
+country's specific budget accounting system) and may relate for recent years to the final budget of 
+the year in question,

@@ -1,0 +1,17 @@
+ also refer to topics dealt with in the HC.R (the health related) categorie s 
+of ICHA -HC. 
+COFOG 07.5: Research and development is not part of the population’s health final consumption. It 
+has been excluded from the health care -related classes and is now a memorandum item of the 
+capital account in SHA  2011.  
+In using the two tables presented below, which provide a short overview of the health care items in 
+both sets of classifications, these differences described above need to be taken into account.  
+Table  9: Usability of COFOG for SHA  
+COFOG  Title of headings  ICHA –
+HC Title of headings  
+07.1 Medical products, appliances and 
+equipment  HC.5  Medical goods non - specified by function  
+07.1.1  Pharmaceutical products (IS)  HC.5.1.1  Prescribed medicines  
+    HC.5.1.2  Over -the-counter drugs  
+                                                           
+ 
+52 The reference for the  ICHA -HC can be found on the SHA -2011 Manual, Table  5.1 Classification of health care fun

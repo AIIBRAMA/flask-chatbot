@@ -1,0 +1,31 @@
+atistics 
+and in EPEA.  
+Table 6: Correspondence between COFOG variables and EPEA characteristics  
+COFOG (variables 
+relevant for EPEA)  EPEA  
+Coverage  EPEA 
+table  Legal 
+report ing 
+status  
+OP5ANP        
+P.5       
+P.51g  P.51G_NP  1 Mandatory  
+NP 1 Mandatory  
+P.2 P.2 1 Voluntary  
+D.29+D.5+D.8  D.29  1 Voluntary  
+D.1 D.1 1 Voluntary  
+P.3 P.3_EPS  1 Mandatory  
+D.3 D.3_D.7_D.92_D.99_PAY_GG  6 Mandatory  D.7 
+D.9    
+D.92     
+
+ 
+82 4 Links between COFOG and other international statistics  
+Manual on COFOG statistics  
+4.2.3.  Classific ations of environmental activities and 
+consistency with COFOG   
+Environmental monetary accounts break down activities and transactions according to:  
+ the classification of environmental protection activities and expenditure (CEPA 2000),  
+ the classification of  resource management activities and expenditure (CReMA).  
+CEPA 2000  is an internationally recognis ed classification whilst CReMA was set out in Regulation 
+691/2011 on European
