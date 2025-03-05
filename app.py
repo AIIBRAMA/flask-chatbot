@@ -58,6 +58,53 @@ if not GPT_API_KEY:
 # Sarunas vēstures saglabāšana
 conversation_history = {}
 
+# Funkcija teksta fragmentu meklēšanai
+def search_in_text_files(query, folder="pdf_chunks"):
+    logger.info(f"Meklējam teksta fragmentos pēc vaicājuma: {query}")
+    query_words = query.lower().split()
+    results = []
+    
+    # Pilnais ceļš līdz pdf_chunks mapei
+    full_path = os.path.join(os.getcwd(), folder)
+    logger.info(f"Meklēšanas mape: {full_path}")
+    
+    try:
+        # Pārbaudam, vai mape eksistē
+        if not os.path.exists(full_path):
+            logger.warning(f"Mape {full_path} netika atrasta!")
+            return results
+        
+        # Meklējam visos teksta failos
+        for filename in os.listdir(full_path):
+            if filename.endswith(".txt"):
+                filepath = os.path.join(full_path, filename)
+                try:
+                    with open(filepath, "r", encoding="utf-8") as f:
+                        content = f.read().lower()
+                        
+                        # Vienkārša atbilstības noteikšana - skaitām atbilstošos vārdus
+                        match_count = sum(1 for word in query_words if word in content)
+                        
+                        if match_count > 0:
+                            results.append({
+                                "file": filename,
+                                "content": content,
+                                "score": match_count / len(query_words)
+                            })
+                            logger.debug(f"Atrasts atbilstošs fragments: {filename} (score: {match_count / len(query_words)})")
+                except Exception as e:
+                    logger.error(f"Kļūda lasot failu {filepath}: {e}")
+        
+        # Sakārtojam rezultātus pēc atbilstības
+        results.sort(key=lambda x: x["score"], reverse=True)
+        
+        logger.info(f"Kopā atrasti {len(results)} atbilstoši fragmenti")
+        # Atgriežam labākos 3 rezultātus
+        return results[:3]
+    except Exception as e:
+        logger.error(f"Kļūda meklējot teksta fragmentos: {e}")
+        return []
+
 # Izveido Flask lietotni
 app = Flask(__name__)
 app.config['SECRET_KEY'] = os.getenv("SECRET_KEY", os.urandom(24).hex())
@@ -96,10 +143,14 @@ def handle_message(msg):
         send("Diemžēl radās kļūda apstrādājot jūsu ziņojumu.", broadcast=False, room=request.sid)
 
 def chatbot_response(text, user_id="default_user"):
+    # Meklējam relevantos fragmentus
+    relevant_chunks = search_in_text_files(text)
+    context = "\n\n".join([chunk["content"] for chunk in relevant_chunks])
+    
     # Inicializē lietotāja vēsturi, ja tā vēl nav
     if user_id not in conversation_history:
         conversation_history[user_id] = [
-            {"role": "system", "content": "Jūs esat COFOG asistents, kas palīdz ar jautājumiem par valsts funkciju klasifikāciju."}
+            {"role": "system", "content": "Jūs esat COFOG asistents, kas palīdz ar jautājumiem par valsts funkciju klasifikāciju. Izmantojiet tikai sniegto kontekstu, lai atbildētu uz jautājumiem par COFOG. Ja atbilde nav atrodama kontekstā, jūs varat izmantot savas vispārīgās zināšanas, bet norādiet, ka tas nebalstās uz COFOG dokumentiem."}
         ]
     
     # Pievieno lietotāja ziņojumu vēsturei
@@ -108,6 +159,15 @@ def chatbot_response(text, user_id="default_user"):
     # Ierobežojam vēstures garumu (saglabājam sistēmas ziņojumu + pēdējos 10 ziņojumus)
     if len(conversation_history[user_id]) > 11:
         conversation_history[user_id] = [conversation_history[user_id][0]] + conversation_history[user_id][-10:]
+    
+    # Ja atrasti fragmenti, pievieno tos kā kontekstu
+    if context:
+        logger.info(f"Pievienojam kontekstu no {len(relevant_chunks)} fragmentiem")
+        conversation_history[user_id].append({"role": "system", "content": 
+            f"Šī ir informācija no mūsu COFOG dokumentiem, kas var palīdzēt atbildēt uz lietotāja jautājumu. "
+            f"Izmantojiet šo kontekstu, lai sniegtu precīzu atbildi:\n\n{context}"})
+    else:
+        logger.info("Nav atrasts neviens atbilstošs fragments kontekstam")
     
     headers = {
         "Authorization": f"Bearer {GPT_API_KEY}",
