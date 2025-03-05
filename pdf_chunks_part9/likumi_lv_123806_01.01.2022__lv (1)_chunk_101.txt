@@ -1,0 +1,31 @@
+9.300, 09.400 vai 09.500 funkcijas kodā.
+09.610
+Izglītojamo pārvadājumu pakalpojumi
+ 
+Kodā 09.610 uzskaita:
+Izdevumus par izglītojamo pārvadājumu pakalpojumiem.
+Neuzskaita:
+Braukšanas maksas atvieglojumus izglītojamiem sabiedriskā transporta
+maršrutu tīklā (attiecina uz 04.500 funkcijas kodu).
+Izdevumus degvielas kompensācijām par izglītojamā pārvadājumiem ar
+personīgo transportu (attiecina uz attiecīgo 09.100, 09.210, 09.219,
+09.221 vai 09.222 funkcijas kodu).
+09.620
+Izglītojamo ēdināšanas pakalpojumi
+ 
+Kodā 09.620 uzskaita:
+Izdevumus par izglītojamo ēdināšanas pakalpojumiem.
+09.630
+Izglītojamo izmitināšanas pakalpojumi
+ 
+Kodā 09.630 uzskaita:
+Izdevumus par izglītojamo izmitināšanas pakalpojumiem.
+09.640
+Izglītojamo pārējie papildu pakalpojumi
+ 
+Kodā 09.640 uzskaita:
+Pārējos papildu pakalpojumus: vadību, pārbaudi, darbību vai atbalstu
+izglītojamo medicīniskajai un stomatoloģiskajai aprūpei un pārējiem
+pakārtotajiem pakalpojumiem, kas paredzēti neatkarīgi no izglītības
+līmeņa.
+Pārējos 

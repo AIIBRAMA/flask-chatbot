@@ -1,0 +1,28 @@
+.līmenis vai tā daļa)
+ 
+Kodā 09.211 uzskaita:
+ISCED-97 1. līmeņa izglītības nodrošināšanu sākumskolās.
+Vadību, pārbaudi, darbību vai atbalstu sākumskolām, kuras sniedz
+izglītības pakalpojumus atbilstoši ISCED-97 1. līmenim.
+Specializētās sākumskolas izglītojamiem ar garīgās un fiziskās attīstības
+traucējumiem.
+Neuzskaita:
+Izglītības papildu pakalpojumus (09.600), Izglītojamo pārvadājumu
+pakalpojumus (09.610), Izglītojamo ēdināšanas pakalpojumus (09.620),
+Izglītojamo izmitināšanas pakalpojumus (09.630), Izglītojamo pārējos
+papildu pakalpojumus (09.640).
+09.219
+Vispārējās izglītības mācību iestāžu izdevumi, kuras vienlaikus
+nodrošina vairāku ISCED-97 līmeņu izglītību ISCED-97 1.–3.līmeņa
+ietvaros.
+ 
+Kodā 09.219 uzskaita:
+Vispārējās izglītības mācību iestāžu izdevumus, kuras vienlaikus
+nodrošina vairāku ISCED-97 līmeņu izglītību ISCED-97 1.–3.līmeņa
+ietvaros.
+ 
+Neuzskaita:
+Izglītības papildu pakalpojumus (
+09.600
+), Izglītojamo pārvadājumu
+pakalpojumus (09.610), Izglītojamo ēdināšanas pak

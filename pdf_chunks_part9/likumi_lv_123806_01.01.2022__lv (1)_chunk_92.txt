@@ -1,0 +1,25 @@
+s politikas, plānu, programmu un budžetu
+izstrādāšanu, vadību, koordināciju un uzraudzību; atpūtas un kultūras
+pakalpojumu sniegšanai nepieciešamo normatīvo aktu un standartu
+sagatavošanu un ieviešanu; vispārējas un statistiskas informācijas,
+tehniskas dokumentācijas par atpūtu, kultūru un reliģiju veidošanu un
+izplatīšanu.
+08.620
+Pārējie sporta, atpūtas, kultūras un reliģijas pasākumi
+ 
+Kodā 08.620 uzskaita:
+Ar sportu, atpūtu, kultūru un reliģiju saistītus jautājumus un
+pakalpojumus, kurus nevar attiecināt uz 08.100, 08.200, 08.300, 08.400
+vai 08.500 funkcijas kodu.
+09.000
+Izglītība
+ 
+Kodā 09.000 uzskaita:
+Izdevumus izglītībai.
+Valdības politikas noteikšanu un vadību; standartu noteikšanu un
+ieviešanu; mācību iestāžu licencēšanu un uzraudzību; praktiskos
+pētījumus un eksperimentālo attīstību saistībā ar izglītības jautājumiem
+un pakalpojumiem. Pieskaitāmos izdevumus, kas saistīti ar skolu,
+koledžu un citu mācību iestāžu vadību vai funkcionēšanu.
+09.100
+Pirmsskolas izglītība (ISCED-97 

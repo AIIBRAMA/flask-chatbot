@@ -1,0 +1,28 @@
+alpojumus (09.620),
+Izglītojamo izmitināšanas pakalpojumus (09.630), Izglītojamo pārējos
+papildu pakalpojumus (09.640).
+09.220
+Profesionālā izglītība (ISCED-97 2. un 3.līmenis)
+ 
+Kodā 09.220 uzskaita:Profesionālo pamatizglītību (ISCED-97 2.līmenis)
+un vidējo profesionālo izglītību (ISCED-97 3.līmenis).
+Profesionālās izglītības pārvaldi un vadību, apmācības nodrošināšanu.
+Stipendijas, dotācijas, kompensācijas, lai atbalstītu audzēkņus,
+ēdināšanu, izmitināšanu.
+09.221
+Profesionālā pamatizglītība (ISCED-97 2.līmenis)
+ 
+30
+/
+37
+
+Kodā 09.221 uzskaita:Profesionālo pamatizglītību (ISCED-97 2.līmenis).
+Izglītības pārvaldi un vadību, apmācības nodrošināšanu.
+Stipendijas, dotācijas, kompensācijas, lai atbalstītu audzēkņus,
+ēdināšanu, izmitināšanu.
+09.222
+Profesionālā vidējā izglītība (ISCED-97 3.līmenis)
+ 
+Kodā 09.222 uzskaita:Vidējo profesionālo izglītību (ISCED-97 3.līmenis).
+Izglītības pārvaldi un vadību, apmācīšanas nodrošināšanu.
+Stipendijas, dotācijas, kompensācijas, lai atbalstītu audzēkņ

@@ -1,0 +1,27 @@
+apgūst augstākās izglītības programmas.
+09.410
+Augstākās (terciārās) izglītības 1.posms
+ 
+Kodā 09.410 uzskaita:
+Augstākās izglītības pirmā posma mācības atbilstoši ISCED-97
+5.līmenim. Vadību, darbību vai atbalstu iestādēm, kuras sniedz
+augstākās izglītības pakalpojumus.
+Stipendijas, dotācijas, kompensācijas, lai atbalstītu audzēkņus un
+studentus, kuri iegūst augstāko izglītību atbilstoši ISCED-97 5.līmenim.
+09.420
+Augstākās (terciārās) izglītības 2.posms
+ 
+Kodā 09.420 uzskaita:
+Augstākās izglītības otrā posma mācības atbilstoši ISCED-97 6.līmenim.
+Vadību, darbību vai atbalstu iestādēm, kuras sniedz augstākās izglītības
+pakalpojumus.
+Stipendijas, dotācijas, kompensācijas, lai atbalstītu studentus, kuri iegūst
+augstāko izglītību atbilstoši ISCED-97 6.līmenim.
+09.430
+Studentu kreditēšana
+09.500
+Līmeņos nedefinētā izglītība
+ 
+Kodā 09.500 uzskaita:Līmeņos nedefinētas izglītības nodrošināšanu (t.i.,
+izglītības programmas (parasti pieaugušajiem), kuru apgūšanai nav
+nepieciešama īpaša iepriekš

@@ -1,0 +1,29 @@
+09.700 funkcijas kodu.
+10.000
+Sociālā aizsardzība
+ 
+Kodā 10.000 uzskaita:Sociālās aizsardzības izdevumus par
+pakalpojumiem un transfertiem. Sociālās aizsardzības pakalpojumus, kas
+saistīti ar valdības politikas noteikšanu un vadību; sociālās aizsardzības
+sniegšanai nepieciešamo normatīvo aktu un standartu noteikšanu un
+ieviešanu. Praktiskos pētījumus un eksperimentālo attīstību saistībā ar
+sociālās aizsardzības jautājumiem un pakalpojumiem.
+Sociālās aizsardzības funkcijas un to definīcijas atbilst Eiropas Kopienu
+statistikas biroja (
+Eurostat
+) izdotajai 1996.gada Integrētās sociālās
+aizsardzības statistikas Eiropas sistēmai (
+ISASES
+; 
+ESSPROS –
+European System of Integrated Social Protection Statistics
+).
+Tomēr 
+ESSPROS
+ sociālā aizsardzība ietver veselības aizsardzību, bet
+šis kods veselības aizsardzību neietver. Veselības aizsardzība tiek
+ietverta 
+07.000
+ kodā. Līdz ar to izdevumi medicīnas precēm un
+medicīnas pakalpojumiem, ko sniedz personām, kas saņem naudas
+pabalstus un pabals

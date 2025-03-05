@@ -1,0 +1,26 @@
+s
+izstrādnes
+ 
+Lietišķo pētījumu un attīstības definīcijas ir sniegtas funkcijas kodā
+01.400 un 01.500.
+08.600
+Pārējie citur neklasificētie sporta, atpūtas, kultūras un reliģijas
+pakalpojumi
+ 
+Kodā 08.600 uzskaita:
+Sporta, atpūtas, kultūras un reliģijas lietu pārvaldi un vadību, ar šo jomu
+veicināšanu saistītas vispārējas politikas, plānu, programmu un budžetu
+izstrādāšanu, vadību, koordināciju un uzraudzību; atpūtas un kultūras
+pakalpojumu sniegšanai nepieciešamo normatīvo aktu un standartu
+sagatavošanu un ieviešanu; vispārējas un statistiskas informācijas,
+tehniskas dokumentācijas veidošanu un izplatīšanu par atpūtu, kultūru un
+reliģiju.
+Ar sportu, atpūtu, kultūru un reliģiju saistītus jautājumus un
+pakalpojumus, kurus nevar attiecināt uz 08.100, 08.200, 08.300, 08.400
+vai 08.500 funkcijas kodu.
+08.610
+Pārējā sporta, atpūtas, kultūras un reliģijas vadība
+ 
+Kodā 08.610 uzskaita:
+Sporta, atpūtas, kultūras un reliģijas lietu pārvaldi un vadību, ar šo jomu
+veicināšanu saistītas vispārēja
