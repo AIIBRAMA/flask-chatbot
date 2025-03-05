@@ -1,0 +1,14 @@
+only negative values routinely expected in COFOG transmissions would be: P.5/ P.51g, NP and 
+therefore OP5ANP and possibly TE (and in some countries D.8).  
+For this reason, all negative values occurring in other transact ions are routinely pointed out and 
+correction and/ or clarification is requested.  
+Comparison with ESA table 2 / 25: 
+ESA table 11 should be consistent with ESA tables 2 and 25.  
+However, a s described in chapter 2.1.3, the transmission deadlines for ESA tabl e 2 and 11 differ 
+from each other.  
+This may lead to the occurrence of vintage differences.  
+1) Either new data sources could become available between the compulsory transmission of ESA 
+table 2 at end -September and the compilation of ESA table 11 at end -Dece mber , or  
+2) The compilation final consumption expenditure (P.3) according to COFOG may lead to differences 
+in the breakdown between P.31 (individual) and P.32 (collective) supplied previously in ESA table 2.  
+In the former case, table 25 should 

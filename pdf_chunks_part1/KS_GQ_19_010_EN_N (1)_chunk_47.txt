@@ -1,0 +1,12 @@
+nt for analysis of government finances. Unless otherwise 
+indicated, the data are accessible in Eurostat's public database within Government statistics . 
+Table  0200  reports general government revenue and expenditure as well as main aggregates. The 
+timeliness is T+3 months and T+9 months. Countries report data on the subsector s of general 
+government on a compulsory basis.  Recently, a number of countries have started supplying 
+additional, voluntary data in the context of ESA table 2. Among other items, the voluntary data 
+transmissions cover social benefits other than so cial transfers in kind for three COFOG groups within 
+the social protection division12, interest before FISIM adjustments as well as breakdowns of property 
+income and other current transfers . 
+Table  0900  reports the annual detail of taxes and social contribut ions. The timeliness is T+9 months. 
+Also to be provided with table 0900, is the list of taxes and social contributions according to the 
+national class

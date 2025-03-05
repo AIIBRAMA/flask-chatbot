@@ -1,0 +1,21 @@
+ the split according to COFOG -groups. Moreover, this COFOG -Special classification distinguishes 
+individual service provision in kind according to the main motives for government involvement. The  
+COFOG -Special classification uses COFOG 2nd level data as its main source, complemented by 
+other sources.  
+                                                           
+ 
+8 For additional information see, table II.3.4 of Public Finances in EMU, 2009 . 
+9 Adapted from https://ec.europa.eu/info/business -economy -euro/economic -and-fiscal -policy -coordination/eu -economic -governance -
+monitoring -prevention -correction/european -semester/framework/european -semester -why-and-how_en .  
+
+ 
+16 Background and purpose  1 
+Manual on COFOG statistics  
+Basic structure of the COFOG -Special classification  
+The basic structure of the COFOG -Special classification is as follows:  
+1. Collective goods  
+A. in kind  
+B. in cash  
+4. Individual goods  
+C. in kind  
+a) mainly provided for allocative 

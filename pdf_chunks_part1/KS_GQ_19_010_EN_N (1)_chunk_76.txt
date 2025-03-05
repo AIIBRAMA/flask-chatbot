@@ -1,0 +1,11 @@
+xcluded from the transactions to be consolidated when calculating general government 
+expenditure; this is necessary to provide a representation of government production in a consistent 
+manner with respect to the other institutional producers into the framework of national accounts.  
+Compensation of employees  (D.1)  
+This is the total remuneration, in cash or in kind, paid by government to its employees. It includes 
+wages and salaries in cash or in  kind (D.11)  and employers’ actual and imputed social contributions 
+(D.12) . Employers’ actual social contributions (D.121)  are actual payments into social security 
+schemes and into funded autonomous pension schemes by government on behalf of its employees.  
+Imputed contributions (D.122)  are the counterparts to future payments of social benefits minus actual 
+contributions directly made by employers to their employees without involving any social security 
+scheme or autonomous pension scheme. Compensation  of em ployees and interme

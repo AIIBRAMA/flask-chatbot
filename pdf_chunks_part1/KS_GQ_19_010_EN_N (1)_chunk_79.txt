@@ -1,0 +1,17 @@
+Taxes and subsidies on products are not allocated to sectors given that to do so would imply  assumptions on the relative elasticites of 
+supp ly and demand.   
+
+ 
+ 29 2 Analytical framework  2 
+29 
+Manual on COFOG s tatistics  Property income  (D.4)  
+This includes interest, rents on land, and payments by government of royalties for sub -soil assets 
+(normally government revenue rather than an expense)  and other non -produced assets . It also 
+conceptually includes payments of dividends by government, although the existence of any  is 
+unlike ly. Note that rent al of buildings is recorded as intermediate consumption,  part of government 
+output calculated as the sum of the incurred production costs, and not as property income . Other 
+investment income is to be recorded in cases where government ope rates funded pension schemes.  
+Interest (D.41)   
+In ESA 2010  interest is recorded as accruing continuously over time to the creditor on the amount of 
+principal outstanding.  
+The accr

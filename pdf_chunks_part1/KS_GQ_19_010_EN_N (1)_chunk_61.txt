@@ -1,0 +1,20 @@
+and users can 
+also find comprehensive metadata in Eurostat's p ublic database.  
+Detailed publications are produced for taxes and social contributions and for COFOG. COFOG data 
+for all EU Member States as well as Iceland, Norway and Switzerland is presented in an online 
+publication .  
+2.2. COFOG and other functional 
+classifications  
+The 2008 SNA and ESA 2010  include four classifications of expenditure according to purpose ( so-
+called functional classifications15). 
+                                                           
+ 
+15 2008  SNA chapter  29 “Satellite accounts and other extensions”  as well as ESA  2010 chapter  22 “Satellit e accounts”.  
+
+ 
+24 Analytical framework  2 
+Manual on COFOG statistics  
+2.2.1.  Coicop : Classification of Individual Consumption 
+by Purpose  
+Coicop  is used to classify individual consumption expenditure of households, not for profit institutions 
+serving households (NPISHs ), and general government. The common classification of individual 

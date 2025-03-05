@@ -1,0 +1,18 @@
+22 
+10. SOCIAL PROTECTION  ................................ ................................ ................................ .. 225 
+
+  
+
+ 
+  9 1 Background and purpose  
+Manual on COFOG statistics  1.1. Introduction  
+Economic poli cy making in the European Union requires high quality statistics. Analysts need 
+government expenditure broken down by the different functions of government - health, education 
+and so on  - to judge the quality of government expenditure, and to help deliver economic policy 
+objectives. This manual , on government expenditure statistics broken down by function , aims to meet 
+the requirements of Eurostat, data suppliers and data analysts for information on such statistics.  The 
+manual is designed to : 
+ guide COFOG co mpilers and thus provide an overview of the harmonisation efforts of 
+Eurostat COFOG Task Force, which brings together European COFOG compilers , key data 
+users and Eurostat ; 
+ inform users of COFOG statistics on the state of play on the
