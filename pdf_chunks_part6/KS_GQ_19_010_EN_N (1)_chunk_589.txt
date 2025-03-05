@@ -1,0 +1,16 @@
+menities that 
+cannot be assigned to (06.1), (06.2), (06.3), (06.4) or (06.5).  
+
+ 
+216  Appendix  
+Manual on COFOG statistics  
+07. HEALTH  
+Comment: In division 07, no amounts for D.41 and D.8 are expected.  
+Government outlays on health include expenditure  on services provided to individual persons and 
+services provided on a collective basis. Expenditures on individual services are allocated to groups 
+(07.1) through (07.4); expenditure  on collective services are assigned to groups (07.5) and (07.6) . 
+Collective health services are concerned with matters such as formulation and administration of 
+government policy; setting and enforcement of standards for medical and paramedical personnel and 
+for hospitals, clinics, surgeries, etc.; regulation and licensing of providers of health services; and applied 
+research and experimental development into medical and health -related matters. However, overhead 
+expenses connected with administration or functioning of a group of hospitals, 

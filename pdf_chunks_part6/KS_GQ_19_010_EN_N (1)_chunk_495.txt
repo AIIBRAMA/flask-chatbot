@@ -1,0 +1,23 @@
+ national budget is co ded to  a certain function and so is the 
+outcome of the budget. Ev en certain revenues are co ded to  certain function s.  
+All interest is classified to COFOG 01 .7, except for interest relating to the transition period of the 
+Premium  pensions system (while the money is held by central government) , which is classified to 
+COFO G 10 .21. The interest recorded in 10.21 will be moved to 01.70 in the 2019 benchmark 
+revision . 
+
+ 
+ 181 5 Individual countries' compilation practices  
+181 
+Manual on COFOG statistics  5.28.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”      
+Central government bodies  A1/U  A1/U  A1/U  A1/U  
+Other          
+Local Government      
+Municipalities  A1/U  A1/U  A1/U  A1/U  
+Localities  A1/U  A1/U  A1/U  A1/U  
+Local government bodies  A1/U  A1/U  A1/U  A1/U  
+Other      A1/U  A1/U  
+Social Security 

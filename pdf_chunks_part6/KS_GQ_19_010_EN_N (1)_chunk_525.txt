@@ -1,0 +1,13 @@
+n of fixed capital ( P.51c ) on R&D assets created on own account are recorded in the 
+group of purpose .  
+5.32.7.  Consumption of fixed capital exp enditure  
+In the past method 6 has been used, where the consumption of fixed capital ( P.51c) is assigned to 
+the functions of each subsector by applying the structur e of P.51g.  
+Consumption of fixed capital (P.51c) for two categories of fixed assets were dire ctly assigned to a 
+function (P.51c for military weapon systems (COFOG 02.1) and P.51c for R&D (COFOG 01.4)). The 
+remaining share of P.51c was allocated in a first estimate  to other general services (01.33).  
+Within the scope of the next revision, Switzerlan d plans to use more in depth information from the 
+source  data to achieve a more detailed and precise allocation of the P .51c to each function.  
+5.32.8.  Methodological soundness  
+Eurostat's consolidation rules are applied  as required by ESA  2010 , apart from D.4 , prop erty income . 
+Due to a lack of counterpart inf

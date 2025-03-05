@@ -1,0 +1,14 @@
+outlays). COFOG has three levels of detail: Divisions, Groups, and Classes. The divisions could be 
+seen as the broad objectives of government, while the groups and classes detail the means by which 
+these broad objectives are achieved.  
+The initials “CS” or “IS” follow the title of each class in parentheses to indicate whether the services 
+produced by general government units and included in this class are collective or individual services, and 
+thus whether individual and collective final consumption expenditure should be recorded in respective 
+functions. This is in line with provisions in ESA 2010 para. 3.104-3.107. 
+The description of the COFOG classification as published by the UNSD is reproduced in this appendix. To 
+this description, COFOG TF has added comments on the ESA transaction to be used.  
+01 - General public services  
+01.1 - Executive and legislative organs, financial and fiscal affairs, external affairs 
+01.2 - Foreign economic aid 
+01.3 - General services 
+01.4 - 

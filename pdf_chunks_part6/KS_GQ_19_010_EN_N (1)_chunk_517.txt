@@ -1,0 +1,14 @@
+l municipalities, county authorities, joint parish councils, 
+and a large number of other local government units through the Municipa lity State Reporting System: 
+www.ssb.no/en/offentlig -sektor/kostra.  These accounts all have a classification of expenditure  
+according to both type and function. There are approximately 150 functi ons in the local government 
+chart of accounts, each one representing an activity or purpose of government. The functions are 
+converted into COFOG using a bridge table.  
+Non-market corporations and self -governing  institutions do not report data according to a functional 
+classification. Each unit is therefore linked to an appropriate  COFOG function.  
+5.31.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Sub-sector  1st level  2nd level  1st level  2nd level  
+Central Government      Budgetary units incl. National Insurance Scheme  A2/U  A2/U  A2/U  A2/U  
+Public hospitals  A1/U  A1/U  A1/U  A1/U  
+Extra -budg

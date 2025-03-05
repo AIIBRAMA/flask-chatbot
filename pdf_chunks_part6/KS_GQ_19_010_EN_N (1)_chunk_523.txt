@@ -1,0 +1,16 @@
+ance Administration (FFA) collects data from public units based on national 
+accounting standards (coded by nature and function). The FFA uses bridge tables to map the 
+national classi fication to ESA 2010 and COFOG . These bridge tabl es were developed jointly by  FFA 
+and SFSO.  
+The financial statistics data is recorded, processed and evaluated in accordance with national (FS 
+model) and the international (GFS model  and ESA model ) standard s. The FS model is based on the 
+Harmonised Accounting Model of 2008 for the Cantons and Municipalities (HAM2).  
+The HAM2 takes account of internati onal standards (e.g. COFOG as implemented by Eurostat, IMF 
+and OECD), a s well as Switzerland’s specific federal circu mstances. The previous classification of 
+task areas, based on the 1981 handbook on accounting for government units (HAM1) , deviated only 
+slightly . 
+
+ 
+ 193 5 Individual countries' compilation practices  
+193 
+Manual on COFOG statistics  5.32.5.  Availability and use of data so

@@ -1,0 +1,16 @@
+current year. Revisions to earlier years can be made when there is a compelling case for change. 
+This means that in principle data could be c hanged for years as far back as 1946 when the national 
+
+ 
+184 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+accounts series begin. Such a change would usually only occur when a new system of accounts is 
+introduced, or when an institutional entity is re -classified in or out of government. Normally revisions 
+are restricted to the last few years.  
+5.29.4.  National functional classification and compilation 
+methodology  
+UK Central Government expenditure is broken into several thousand different programmes and in the 
+main these are at a low enough level to assign to COFOG ca tegory at the sub -division level. In a 
+small number of cases it is not possible to assign a programme to a specific COFOG sub -division 
+and so the expenditure for the programme is split between two COFOG sub -divisions.  
+For local govern

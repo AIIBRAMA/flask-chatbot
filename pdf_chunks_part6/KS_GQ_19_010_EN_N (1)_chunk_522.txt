@@ -1,0 +1,19 @@
+s 
+(September).  
+The COFO G data are published annually by the SFSO and can be found on its website 
+(www.bfs.admin.ch ). 
+5.32.3.  Revisions policy  
+The revision policy for Swiss GFS statistics is in line with the annual national accounts revision 
+schedule:  
+Ongoing revisions:  
+Provisional figures on the previous year and revised data on the two preceding years are published 
+at the end of August / beginning of September.  
+Comprehensive revisions:  
+In addition to the ongoing revisions, there are also comprehensive revisions due to methodological 
+changes (as e.g. changes to the reference works for financial statistics such as the GFS, ESA or  
+SNA and basic data changes). The full time series are always revised in these cases. 
+Comprehensive revisions of National Accounts data are in general revised in accordance with 
+Eurostat’s revision schedule. The next revision is planned for 2020.  
+5.32.4.  National functional classification and compilation 
+methodology  
+The Federal Fin

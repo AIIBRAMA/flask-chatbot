@@ -1,0 +1,21 @@
+ent, all amounts should consolidate, implying that total 
+expenditure of general government in this group should equal zero.  
+For consolidating tra nsfers  in D.7 and D.9 , to which a function cannot be assigned, this 
+group should be used in priority.  
+01.80  TRANSFERS OF A GENER AL CHARACTER BETWEEN  DIFFERENT 
+LEVELS OF GOVERNMENT  (CS) 
+Transfers between different levels of government that are of a general character and not allocated to 
+a particular function.  
+
+ 
+202  Appendix  
+Manual on COFOG statistics  
+02. DEFENCE  
+Comment: In division 02, no amounts for D.3 (other than R&D) , D.62, D.632 , P.31, 
+D.41  and D.8  are expected.  
+02.1 MILITARY DEFENCE  
+Comment: In group 02.1, amounts for D.3 are unlikely to occ ur. No expenditure at 
+subcentral level or consolidati ng amounts are normally expected in this group. 
+Subsidies for the defence industry should be recorded under group 04.4.  
+02.10  MILITARY DEFENCE (CS ) 
+Administration of military defence affairs and services ;

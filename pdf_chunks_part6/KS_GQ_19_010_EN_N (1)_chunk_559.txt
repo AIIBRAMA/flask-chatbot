@@ -1,0 +1,15 @@
+el 
+elements; production and dissemination of general information, technical documentation and statistics 
+on nuclear fuel affairs and services; grants, loans or subsi dies to support the nuclear materials mining 
+industry and the industries processing such materials.  
+Excludes: nuclear fuel transportation affairs (classified to the appropriate class of group 04.5); 
+disposal of radioactive wastes (05.10).  
+04.34  OTHER FUELS  (CS) 
+Administration of affairs and services involving fuels such as alcohol, wood and wood wastes, 
+biogases and other non -commercial fuels; production and dissemination of general information, 
+technical documentation and statistics on availability, produc tion and utilization of such fuels; grants, 
+loans or subsidies to promote the use of such fuels for the production of energy.  
+Excludes: forest management (04.22); wind and solar heat (04.35) or (04.36); geothermal resources 
+(04.36).  
+04.35  ELECTRICITY (CS)  
+This class covers both traditional sources

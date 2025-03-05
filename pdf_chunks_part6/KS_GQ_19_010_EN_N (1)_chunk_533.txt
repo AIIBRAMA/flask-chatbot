@@ -1,0 +1,33 @@
+d religion n.e.c.  
+ 
+09- Education  
+09.1 - Pre-primary and primary education  
+09.2 - Secondary education  
+09.3 - Post-secondary non -tertiary education  
+09.4 - Tertiary education  
+09.5 - Education not defina ble by level  
+09.6 - Subsidiary services to education  
+09.7 - R&D Education  
+09.8 - Education n.e.c.  
+ 
+10 - Social protection  
+10.1 - Sickness and disability  
+10.2 - Old age  
+10.3 - Survivors  
+10.4 - Family and children  
+10.5 - Unemployment  
+10.6 - Housing  
+10.7 - Social exclusion n.e.c.  
+10.8 - R&D Social protection  
+10.9 - Social protection n.e.c.  
+
+ 
+198  Appendix  
+Manual on COFOG statistics  
+01. GENERAL PUBLIC SERVICES  
+Comment: In division 01, no amounts for D.62, D.632 , P.31 and D.8 are expecte d.  
+01.1 EXECUTIVE AND LEGISLATIVE ORGANS, FINANCIAL 
+AND FISCAL AFFAIRS,  EXTERNAL AFFAIRS  
+Comment: In group 01.1, VAT - and GNI -related EU own resources (D.76) should be 
+recorded in their entirety. No  amounts are expected for D.41  and D.3 . 
+01.11  EXE

@@ -1,0 +1,14 @@
+ being used by budgetary units.  For years prior to 2013, the recording of D.632 in collective 
+COFOG groups causes some implicit negative values.  
+5.31.9.  One-off transactions  
+None reported.  
+5.31.10.  Multi -purpose functions  
+Expenditure in universities and university colleges: these are split between group 09.4 (tertiary 
+education) and R&D functions based on data coll ected and published by The Nordic Institute for 
+Studies in Innovation, Research and Education ( www.nifu.no/en/statistics -indicators ). 
+Expenditure related to kindergartens  is assigned for the total  amount to COFOG group 10.4 (family 
+and children). No split between this group and 09.1 (pre -primary and primary education) is made.  
+Expenditure on primary and lower secondary school s should be divided into groups 09.1 and 09. 2. 
+Statistics Norway is  lackin g the data to do so, and have therefore classified  all expenditure in group 
+09.01  (pre-primary and primary education) .  
+Expenditure related to ho

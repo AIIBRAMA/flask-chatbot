@@ -1,0 +1,24 @@
+urces  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level 1st level  2nd level  
+Central Government      
+Central government, Budgetary  A1/U A1/U  A1/U A1/U  
+Central governme nt, Extra budgetary  A2/U  A2/U  A2/U  A2/U  
+Other   -  -  -  - 
+State Government      
+State government , Budgetary  A1/U  A1/U  A1/U A1/U 
+State gov ernment , Extra budgetary  A2/U  A2/U  A2/U  A2/U  
+Other   -  -  -  - 
+Local Government      
+Local government, Budgetary  A1/U  A1/U  A1/U A1/U 
+Loca l government, Extra budgetary  A2/U  A2/U  A2/U  A2/U  
+Other   -  -  -  - 
+Social Security Funds      
+Social Security units A2/U  A2/U A2/U  A2/U 
+Other   -  - -   - 
+The coding used in the table is described in section 5.1.2.  
+5.32.6.  Individual and collective final consumption 
+expenditure  
+The breakdown of final consumption expenditure (P.3) between ind ividual (P.31) and collective 
+(P.32) consumption expenditure is made in line with the guidance in this manual.  
+Consumptio

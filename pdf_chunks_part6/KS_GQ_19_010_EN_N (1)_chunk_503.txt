@@ -1,0 +1,15 @@
+ment, most expenditure  is classified by the supplier according to the type of service 
+provided. These generally fit well with the COFOG categories.  
+Areas that are difficult to assign are Net non -life insurance premia (D .71) and health expenditure . 
+Net non -life insurance premia  (D.71) is an imputed transaction and derived from insurance surveys. 
+Currently, the COFOG split of D .71 is derived by proxy from other COFOG current expenditure data.  
+Currently the UK Department of Health is unable to provide a breakdown of their expendit ure which 
+fits into COFOG categories. Therefore, all expenditure for the Department of Health which is not 
+broken down by COFOG is assumed by the Office for National Statistics to relate to hospital services 
+(COFOG 07.3).  
+5.29.5.  Availability and use of data sourc es 
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”  A1/U  A1/U  A1/U  A1/U  
+Central g

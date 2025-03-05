@@ -1,0 +1,19 @@
+ 203  Appendix  
+203 
+Manual on COFOG statistics  experimental development related to defence undertaken by non -government bodies such as 
+research institut es and universities.  
+Excludes: basic research (01.40).  
+02.5 DEFEN CE N.E.C.  
+02.50  DEFENCE N.E.C. (CS)  
+Administration, operation or support of activities such as formulation, administration, coordination and 
+monitoring of overall policies, plans, programs an d budgets relating to defence; preparation and 
+enforcement of legislation relating to defence; production and dissemination of general information, 
+technical documentation and statistics on defence; etc.  
+Includes: defence affairs and services that cannot b e assigned to (02.1), (02.2), (02.3) or (02.4).  
+Excludes: administration of war veterans’ affairs (10.2).  
+03. PUBLIC ORDER AND SAFETY  
+Comment: In division 03, no amounts for D.62, D.632 , P.31, D.41 and D.8 are 
+expected.  
+03.1 POLICE SERVICES  
+03.10  POLICE S ERVICES (CS)  
+Administration of police affa

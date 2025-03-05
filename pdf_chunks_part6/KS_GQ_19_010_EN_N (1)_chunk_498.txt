@@ -1,0 +1,18 @@
+hin schools is included in education . However, the majority of expenditure is split into appropriate 
+functions . 
+5.28.11.  Other comments  
+Concerning sales of land (NP.1), there are methodological differences between diff erent subsectors . 
+For central government, sales of land is allocated to COFOG by looking at the selling entity and at 
+the budget item against which the sale is booked. For local governments there is a  problem with data 
+availability. COFOG 01.33 is used for  county councils. For municipalities there is a lack of information 
+regarding sales of land and the COFOG allocation is assumed to be the same as  the allocation of 
+purchased land, for which there is data, in a given year.  
+
+ 
+ 183 5 Individual countries' compilation practices  
+183 
+Manual on COFOG statistics  5.29.  United Kingdom  
+5.29.1.  Institutional arra ngements  
+Central Government  
+Central government subsector data are collected from government departments by the UK’s 
+economics and finance m

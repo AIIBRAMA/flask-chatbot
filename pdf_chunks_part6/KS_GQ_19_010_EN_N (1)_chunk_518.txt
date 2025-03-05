@@ -1,0 +1,16 @@
+etary units  A3/U  A3/U  A3/U  A3/U  
+Non-market corporations and self-governing  inst. A3/E/U  A3/E/U  A3/E/U  A3/E/U  
+Local Government      Municipal ities and county authorities  A1/U  A1/U  A1/U  A1/U  
+Municipal companies/ inter -municipal companies  A1/U  A1/U  A1/U  A1/U  
+Joint parish councils  A1/U  A1/U  A1/U  A1/U  
+Non-market corporations and self-governing  inst. A3/E/U  A3/E/U  A3/E/U  A3/E/U  
+The coding used in the table is described in section 5.1.2.  
+5.31.6.  Individual and collective final consumption 
+expenditure  
+The calculation of individual and collective final consumption is done based on COFOG  2nd level.  
+P.51c on R&D assets created  on own account are mainly recorded in the group of use. 
+5.31.7.  Consumption of fixed capital expenditure  
+Method 2 is used.  
+5.31.8.  Methodological soundness  
+The COFOG figures are broadly in line  with ESSPROS.  Differences exist regarding the classification 
+of vocational tr aining benefits and services. In addition, t

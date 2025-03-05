@@ -1,0 +1,21 @@
+fight ing training programs.  
+Includes: civil protection services such as mountain rescue, beach surveillance, evacuation of 
+flooded areas, etc.  
+Excludes: civil defence (02.20); forces especially trained and equipped for fighting or preventing forest 
+fires (04.22 ). 
+
+ 
+204  Appendix  
+Manual on COFOG statistics  
+03.3 LAW COURTS  
+03.30  LAW COURTS (CS)  
+Administration, operation or support of civil and criminal law courts and the judicial system, including 
+enforcement of fines and legal settlements imposed by the courts and operation of parole and 
+probation systems ; legal representation and advice on behalf of government or on behalf of others 
+provided by government in cash or in services.  
+Includes: administrative tribunals, ombudsmen and the like.  
+Excludes: prison administration (03.40).  
+03.4 PRISONS  
+03.40  PRISONS (CS) 
+Administration, operation or support of prisons and other places for the detention or rehabilitation of 
+criminals such as prison farms, workhouse

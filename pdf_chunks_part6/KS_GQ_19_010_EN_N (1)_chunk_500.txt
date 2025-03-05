@@ -1,0 +1,12 @@
+cal Government subsector  data are collected and published by the government departments 
+responsible for the respective territories. In England, this is the Ministry for Housing,  Communities 
+and Local Government; in Scotland the Scottish Government ; and in Wales the Welsh Government. 
+The Northern Ireland Executive reports directly to the UK finance ministry.  
+Data supplied are detailed expenditure on services provided by l ocal authorities. The data are 
+collected for a number of policy and accounting purposes. It is allocated to COFOG Level 2 
+categories by the UK statistical office, which is responsible for ensuring that the local government 
+data can be converted to the ESA  2010  accounting standard.  
+5.29.2.  Publication of data on a national level  
+The complete UK COFOG datasets for local government, central government and general 
+government are available on the UK Office for National Statistics’ website under the title “ ESA Table 
+11”. The tables provide cross tabulati

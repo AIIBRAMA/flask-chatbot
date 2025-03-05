@@ -1,0 +1,13 @@
+ons of COFOG data by ESA transaction area. All data are 
+presented by calendar year in terms of Level 2 COFOG and relate to 199 5 onwards.  
+An altern ative presentation of UK COFOG data can be found on the HM Treasury’s website within 
+their Public Expenditure Statistical Analyses ( PESA ) publication. Tables within this document present 
+the Le vel 2 COFOG data for total public sector expenditure, as well as breakdowns by sector (i.e. 
+local government, central government and public corporations), budgetary groupings and UK 
+regions. Data are presented by fiscal year in terms of Level 2 COFOG and r elate to 2004 -05 
+onwards.  
+5.29.3.  Revisions policy  
+The COFOG dataset is updated in its entirety once a year ready for the table 1100 transmission to 
+Eurostat in December. A number of subsets such as final consumption and subsidies are updated in 
+March, June, Septe mber and December.  
+The data for the previous year can be updated each time quarterly accounts are produced for the 

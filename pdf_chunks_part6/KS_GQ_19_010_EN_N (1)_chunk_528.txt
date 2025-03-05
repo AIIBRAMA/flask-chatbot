@@ -1,0 +1,13 @@
+xpenditure item is composed of expenditure from more than a function, FFA 
+allocates the expenditure, as far as possible, to the appropriate function. Where this is not possible  
+the expenditure is allocated to the dominant function. The same procedure is applied on the revenue 
+side.  
+5.32.11.  Other comments  
+The introduction of new accounting systems can lead to breaks in the related time series. In 2007 the 
+Confederation introduced the New  Accounting Model (NAM), which is based on the International 
+Public Sector Accounting Sta ndards (IPSAS). The canton of Zurich changed its account ing system to 
+IPSAS in 2009. This  transition process to the new Harmonised Accounting M odel for the Swiss 
+canto ns and m unicipalities (HAM2) is still ongoing. HAM2 has been harmonised with the federal 
+government accounting model and meets the requirement of financial statistics. However, FFA 
+eliminates breaks in the series that are politically motivated wherever pos sible.  
+2008 is special

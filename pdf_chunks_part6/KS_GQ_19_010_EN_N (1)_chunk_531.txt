@@ -1,0 +1,39 @@
+Basic research 
+01.5 - R&D General public services 
+01.6 - General public services n.e.c. 
+01.7 - Public debt transactions 
+01.8 - Transfers of a general character between different levels of government 
+ 
+02 - Defence  
+02.1 - Military defence 
+02.2 - Civil defence 
+02.3 - Foreign military aid 
+02.4 - R&D Defence 
+02.5 - Defence n.e.c. 
+  1.  
+ Appendix: COFOG 1999
+with comment s 
+
+ 
+196  Appendix  
+Manual on COFOG statistics  
+03 - Public order and safety  
+03.1 - Police services  
+03.2 - Fire-protection services  
+03.3 - Law courts  
+03.4 - Prisons  
+03.5 - R&D Public order and safety  
+03.6 - Public order and safety n.e.c.  
+ 
+04- Economic affairs  
+04.1 - General economic, commercial and labour affairs  
+04.2 - Agriculture, forestry, fishing and hunting  
+04.3 - Fuel and energy  
+04.4 - Mining, manufacturing and construction  
+04.5 - Transport  
+04.6 - Communication  
+04.7 - Other industries  
+04.8 - R&D Economic affairs  
+04.9 - Economic affairs n.e.c.  
+ 
+05 - Environmental prot

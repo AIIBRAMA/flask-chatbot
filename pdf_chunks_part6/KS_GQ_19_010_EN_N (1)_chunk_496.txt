@@ -1,0 +1,17 @@
+Funds      
+Social Security main unit  A1/U  A1/U  A1/U  A1/U  
+Social security bodies      
+Other          
+The coding used in the table is described in section 5.1.2.  
+5.28.6.  Individual and collective final consumption 
+expenditure  
+The allocat ion of individual and collective final consumption is based on COFOG.  
+Consumption of fixed capital (P.51c) of R&D is allocated to the same COFOG function where the 
+investment (P.51) was created.  
+5.28.7.  Consumption of fixed capital expenditure  
+Sweden uses a detail ed perpetual inventory method (PIM) for each subsector  of general 
+government . Statistics Sweden has disaggregated calculations of the consumption of fixed assets for 
+the non -market sector and 18 different types of capital assets are used for non -market pro ducers. 
+The government sector is broken down by subsector and function. As described above, there are 7 
+groupings of units within general government and the number of functions depends on subsector, 
+with a maxi

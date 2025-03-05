@@ -1,0 +1,27 @@
+  2nd level  1st level  2nd level  
+Central Government      
+“The State”   NA   
+Central government bodies   A3 FINAL   
+Other    NA     
+State Government      
+State Government main unit   NA   
+State government bodies   NA   
+Other    NA     
+Local Government      
+Municipalities   A3 FINAL   
+Localities   NA   
+Local government bodies   NA   
+Other    NA     
+Social Security Funds      
+Social Security main unit   A1 FINAL   
+Social security bodies   A1 FINAL   
+Other    NA     
+The coding used in the table is described in section 5.1.2.  
+ 
+5.30.6.  Individual and collective final consumption 
+expenditure  
+The split between individual and collective final consumption expenditure is easy to calculate from 
+the COFOG data which are derived from administrative accounting data.  Individual consumption 
+expenditure is the main part of COFOG  expenditure classified to health, education and social 
+protection, excluding R&D and other expenditure not elsewhere classified.  
+5.30.7.  Consu

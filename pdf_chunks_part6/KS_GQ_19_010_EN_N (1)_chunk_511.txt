@@ -1,0 +1,16 @@
+mption of fixed capital expen diture  
+Metho d 2, the “straight line” method is used to calculate consumption of fixed capital expenditure, 
+where the value of capital stock is written off at a constant rate over the lifetime of the asset . 
+5.30.8.  Methodological soundness  
+The Eurostat method is us ed for consolidation.  
+
+ 
+188 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+By law on Public Finance in 2016, Statistics Iceland, The Icelandic Financial Management and 
+Ministry of Finance work together to coordinate COFOG classification, and Statistics Iceland is 
+leading that work. Since the law was enacted there have been some initial difficulties and data has 
+been received later than usual. Statistics Iceland and the Ministry of Finance are establishing a 
+Memorandum of Understanding for reporting of GFS source data and metadata including a split of 
+responsi bility and deadlines.  
+Statistics Iceland is now undergoing improvements to its data source

@@ -1,0 +1,19 @@
+ the predominant function. 
+There are some notable  exceptions:  
+ Social security contributions on behalf of government employees are allocated to the 
+relevant functions.  
+ R&D subsidies related to non -wastable tax credits are COFOG allocated based on the 
+industry in which the recipients are engaged .  
+In the accounts of public hospitals , expendit ure is reported according to activities /functions. There 
+are 12 activities/functions and each one is linked to the predominant COFOG function using a bridge 
+table.  
+Extra -budgetary units, non-market corporations and self-governing  institutions  do not report data 
+according to a functional  classification. Each unit is therefore linked to an appropriate COFOG 
+
+ 
+190 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+function, with the exception of D.62 expenditure  (socia l benefits), which are split between the 
+relevant CO FOG groups.  
+Local government  
+Statistics Norway collects a ccounts from al

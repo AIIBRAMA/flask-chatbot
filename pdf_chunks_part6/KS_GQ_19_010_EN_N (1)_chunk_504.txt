@@ -1,0 +1,22 @@
+overnment bodies  A1/U  A1/U  A1/U  A1/U  
+Other  A1/U  A1/U  A1/U  A1/U  
+Local Government      
+Municipalities  A2/E  A2/E  A2/U  A2/U  
+Localities  A2/E  A2/E  A2/U  A2/U  
+Local government bodies  A3/U  A3/U  A3/U  A3/U  
+Other  (A3/E)/U  (A3/E)/U  A3/U  A3/U  
+The coding used in the table is described in section 5.1.2.  
+5.29.6.  Individual and collective final consumption 
+expenditure  
+No problems reported.  
+5.29.7.  Consumption of fixed capital expenditure  
+Method 2  is used.  
+5.29.8.  Methodological soundness  
+Full consolidation is carried out on subsector  data in all relevant ESA transaction areas.  
+
+ 
+ 185 5 Individual countries' compilation practices  
+185 
+Manual on COFOG statistics  There is a problem  with the use made of local government data allocated to division 01 g eneral 
+public services for P.2 intermediate c onsumption. The figures are negative for some time periods. 
+This seems to be because local authorities assign many overheads, su ch as payroll  taxes,

@@ -1,0 +1,16 @@
+he delineation between the COFOG groups 
+07.3 (hospital services), 10.1 (sickness and disability) and 10.2 (old age) are different. Finally, the 
+splitting up of government consumption  into individual and collectiv e consumption is done at a more 
+detailed level in ESSPROS compared to the general COFOG statistics , resulting in some 
+discrepancies.  
+The COFOG figures are not fully consistent with ISCED 2011.  
+Only D.7 (current transfers) is consolidated  between the subsec tors of general government . D.4 
+(property income) is not consolidated, but the amounts that are not consolidated are assumed to be 
+
+ 
+ 191 5 Individual countries' compilation practices  
+191 
+Manual on COFOG statistics  small. For D .9 (capital transfers), no transfers are recorded between the subsectors.  
+Some small negative values have been ob served. This is mainly due to reimbursements exceeding  
+expenditure for a given COFOG function , and  is caused by inaccurate time of recording due to cash 
+principle

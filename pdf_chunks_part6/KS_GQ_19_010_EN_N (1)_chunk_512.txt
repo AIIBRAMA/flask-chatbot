@@ -1,0 +1,15 @@
+s which will improve data 
+processing.  
+5.30.9.  One-off transactions  
+Large one -off transactions affecting COFOG time series are the following:  
+A contribution to the Go vernment Employees Pension Fund of  ISK 105.1 billion is included in 2016 
+as capital transfer (D .9). This transfer had a n effect in COFOG group 10 .2 old age. 
+ 
+A one-off capital transfer of ISK 32.0 billion from local government to Brú Pension Fund in 2017. This 
+transfer had a n effect in COFOG group 01 .6 general public services n.e.c.  
+ 
+The transfer of Hvalfjörður road tunnel in 2018 from Spölur ehf to the state. The transfer of the tunnel 
+was in accordance with the original concession contract from 1995 which stipulat ed that the state 
+would acquire the asset , together with the associated structures , free of charge at the end of the  
+contract period . As from the 4th quarter of 2018 the asset is recorded on the government’s balance 
+sheet through GFCF based on a preliminar y valuation and matched b

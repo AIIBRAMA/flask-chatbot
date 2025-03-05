@@ -1,0 +1,15 @@
+or general government and both subsectors are published by 
+Statistics Norway : www.ssb.no/en/offinnut .  
+5.31.3.  Revisions policy  
+Provisional COFOG 1st and 2nd level expenditure  data for general government and both subsectors 
+are published for the year n in June of year n+1. Data are updated in September year n+1 and are 
+finalised in September year n+2.  
+The COFOG figures are published in current prices only.  
+The data are transmitte d to E urostat  each year according to the  ESA 2010  transmission programme.  
+5.31.4.  National functional classification and compilation 
+methodology  
+Central government  
+The budgetary sector account is classified into chapters (each government unit has one chapter  or a 
+set of dedicated chapters ) and type of expenditure. Th e chapters are  the basis of the COFOG 
+allocation , and each chapter is linked to the appropriate COFOG function. The general rule is that the 
+chapters are not split into several functions as each one is allocated to
