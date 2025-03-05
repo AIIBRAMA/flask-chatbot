@@ -47,7 +47,7 @@ load_dotenv()
 GPT_API_KEY = os.getenv("GPT_API_KEY")
 GPT_API_URL = os.getenv("GPT_API_URL", "https://api.openai.com/v1/chat/completions")
 GPT_MODEL = os.getenv("GPT_MODEL", "gpt-3.5-turbo")
-MAX_TOKENS = int(os.getenv("MAX_TOKENS", 150))
+MAX_TOKENS = int(os.getenv("MAX_TOKENS", 350))  # Palielināts līdz 350
 TEMPERATURE = float(os.getenv("TEMPERATURE", 0.7))
 
 # Pārbauda, vai API atslēga ir pieejama
@@ -57,6 +57,38 @@ if not GPT_API_KEY:
 
 # Sarunas vēstures saglabāšana
 conversation_history = {}
+
+# Sistēmas ziņojums ar detalizētām COFOG vadlīnijām
+SYSTEM_MESSAGE = """
+# Konteksts un loma
+Jūs esat eksperts Latvijas Ministru kabineta noteikumos un COFOG (Classification of the Functions of Government) klasifikācijā. Jūsu mērķis ir palīdzēt lietotājiem orientēties MK noteikumos Nr. 934 "Noteikumi par budžetu izdevumu klasifikāciju atbilstoši funkcionālajām kategorijām," piedāvājot atbilstošos klasifikācijas kodus un salīdzinājumus ar COFOG klasifikāciju.
+
+# Mērķauditorija
+Jūsu lietotāji ir finanšu speciālisti, budžeta plānošanas eksperti un citi profesionāļi, kas strādā ar budžetu izdevumu klasifikāciju Latvijas valsts pārvaldē.
+
+# Galvenie uzdevumi
+1. Piedāvāt atbilstošus klasifikācijas kodus no MK noteikumiem Nr. 934 un salīdzināt tos ar COFOG klasifikāciju.
+2. Atrast un sniegt piemērus no COFOG klasifikācijas, ja tie ir pieejami.
+3. Nodrošināt precīzus un detalizētus ieteikumus, kas atvieglo orientēšanos klasifikācijas sistēmā.
+
+# Atbilžu formāts
+- Valoda: Latviešu
+- Tonis: Profesionāls un strukturēts, bet viegli uztverams
+- Atbildes jāsadala loģiskās sadaļās (piem., "Atbilstošie klasifikācijas kodi," "Salīdzinājums ar COFOG," "Piemēri")
+- Izmantot tabulas vai sarakstus, lai dati būtu skaidri un viegli saprotami
+
+# Svarīgi principi
+1. Sniedziet koncentrētas, precīzas atbildes bez liekvārdības.
+2. Vienmēr pabeidziet atbildi ar pilnu teikumu un punktu.
+3. Ja atbilde var būt īsa, tad tā arī atbildiet - nemēģiniet mākslīgi palielināt atbildes apjomu.
+4. Ja tuvojaties garuma ierobežojumam, sāciet noapaļot domu, lai pēdējais teikums būtu pilnīgs.
+5. Prioritizējiet kvalitāti, nevis kvantitāti.
+6. Neizmantojiet avotus, kas nav tieši saistīti ar MK noteikumiem Nr. 934 vai COFOG klasifikāciju.
+7. Nepievienojiet neoficiālu vai spekulatīvu informāciju.
+
+# Jautājumu precizēšana
+Ja jautājums nav pietiekami skaidrs, pieklājīgi palūdziet papildu informāciju, nepiedāvājot vispārīgas vai nepamatotas atbildes. Piemērs: "Lūdzu, precizējiet, uz kuru funkcionālo kategoriju vai izdevumu tipu jautājums attiecas?"
+"""
 
 # Funkcija teksta fragmentu meklēšanai atsevišķās mapēs
 def search_in_text_files(query):
@@ -164,7 +196,7 @@ def chatbot_response(text, user_id="default_user"):
     # Inicializē lietotāja vēsturi, ja tā vēl nav
     if user_id not in conversation_history:
         conversation_history[user_id] = [
-            {"role": "system", "content": "Jūs esat COFOG asistents, kas palīdz ar jautājumiem par valsts funkciju klasifikāciju. Izmantojiet tikai sniegto kontekstu, lai atbildētu uz jautājumiem par COFOG. Ja atbilde nav atrodama kontekstā, jūs varat izmantot savas vispārīgās zināšanas, bet norādiet, ka tas nebalstās uz COFOG dokumentiem."}
+            {"role": "system", "content": SYSTEM_MESSAGE}
         ]
     
     # Pievieno lietotāja ziņojumu vēsturei
@@ -178,8 +210,8 @@ def chatbot_response(text, user_id="default_user"):
     if context:
         logger.info(f"Pievienojam kontekstu no {len(relevant_chunks)} fragmentiem")
         conversation_history[user_id].append({"role": "system", "content": 
-            f"Šī ir informācija no mūsu COFOG dokumentiem, kas var palīdzēt atbildēt uz lietotāja jautājumu. "
-            f"Izmantojiet šo kontekstu, lai sniegtu precīzu atbildi:\n\n{context}"})
+            f"Šī ir informācija no mūsu COFOG dokumentiem un MK noteikumiem Nr. 934, kas var palīdzēt atbildēt uz lietotāja jautājumu. "
+            f"Izmantojiet šo kontekstu, lai sniegtu precīzu, strukturētu atbildi:\n\n{context}"})
     else:
         logger.info("Nav atrasts neviens atbilstošs fragments kontekstam")
     
@@ -192,7 +224,9 @@ def chatbot_response(text, user_id="default_user"):
         "model": GPT_MODEL,
         "messages": conversation_history[user_id],
         "max_tokens": MAX_TOKENS,
-        "temperature": TEMPERATURE
+        "temperature": TEMPERATURE,
+        "presence_penalty": 0.5,  # Palīdz izvairīties no atkārtošanās
+        "frequency_penalty": 0.5   # Veicina dažādāku vārdu lietošanu
     }
     
     try:
@@ -236,11 +270,7 @@ def reset_conversation():
     
     if user_id in conversation_history:
         # Saglabājam tikai sistēmas ziņojumu
-        system_message = next((msg for msg in conversation_history[user_id] if msg["role"] == "system"), None)
-        if system_message:
-            conversation_history[user_id] = [system_message]
-        else:
-            conversation_history[user_id] = [{"role": "system", "content": "Jūs esat COFOG asistents, kas palīdz ar jautājumiem par valsts funkciju klasifikāciju."}]
+        conversation_history[user_id] = [{"role": "system", "content": SYSTEM_MESSAGE}]
     
     return jsonify({"status": "success", "message": "Saruna atiestatīta"}), 200
 
