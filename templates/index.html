@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>COFOG asistents - virtuālais asistents</title>
+    <title>Budžeta funkcionālo kategoriju kodu atlases palīgs</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -159,7 +159,7 @@
 <body>
     <!-- Lapas saturs (demonstrācijai) -->
     <div class="page-content">
-        <h1>COFOG Klasifikācijas Informācija</h1>
+        <h1>Budžeta funkcionālo kategoriju kodu atlases palīgs</h1>
         <p>Šajā lapā ir informācija par valsts funkciju klasifikāciju. Ja jums ir jautājumi, izmantojiet čata asistentu labajā apakšējā stūrī.</p>
         <!-- Šeit var pievienot vairāk satura -->
     </div>
@@ -172,14 +172,14 @@
     <!-- Čata konteiners -->
     <div class="chat-container" id="chat-container">
         <div class="chat-header">
-            <h3>COFOG asistents</h3>
+            <h3>Budžeta funkcionālo kategoriju kodu atlases palīgs</h3>
             <span class="close-chat" id="close-chat">
                 <i class="fas fa-times"></i>
             </span>
         </div>
         <div id="chat-box">
             <div class="message assistant-message">
-                <b>COFOG asistents:</b> Labdien! Esmu Jūsu COFOG asistents. Ko jaunu paveiksim šodien?
+                <b>Budžeta funkcionālo kategoriju kodu atlases palīgs:</b> Labdien! Esmu Jūsu palīgs budžeta izdevumu klasifikācijā atbilstoši funkcionālajām kategorijām. Varu palīdzēt orientēties MK noteikumos Nr. 934 un COFOG klasifikācijā. Kā varu Jums palīdzēt šodien?
             </div>
         </div>
         <div class="input-container">
@@ -205,7 +205,7 @@
         
         socket.on('message', function(data) {
             var chatBox = document.getElementById('chat-box');
-            chatBox.innerHTML += '<div class="message assistant-message"><b>COFOG asistents:</b> ' + data + '</div>';
+            chatBox.innerHTML += '<div class="message assistant-message"><b>Budžeta funkcionālo kategoriju kodu atlases palīgs:</b> ' + data + '</div>';
             chatBox.scrollTop = chatBox.scrollHeight;
         });
         
