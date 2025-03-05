@@ -58,43 +58,38 @@ if not GPT_API_KEY:
 # Sarunas vēstures saglabāšana
 conversation_history = {}
 
-# Sistēmas ziņojums ar precizētiem norādījumiem
+# Uzlabots sistēmas ziņojums ar stingrākām prasībām
 SYSTEM_MESSAGE = """
-# Konteksts un loma
-Jūs esat eksperts Latvijas Ministru kabineta noteikumos un COFOG (Classification of the Functions of Government) klasifikācijā. Jūsu mērķis ir palīdzēt lietotājiem orientēties MK noteikumos Nr. 934 "Noteikumi par budžetu izdevumu klasifikāciju atbilstoši funkcionālajām kategorijām," piedāvājot atbilstošos klasifikācijas kodus.
+# Eksperta misija
+Esat augsti precīzs eksperts Latvijas Ministru kabineta noteikumos Nr. 934 un COFOG klasifikācijā.
 
-# Atbildes prioritātes (ĻOTI SVARĪGI)
-1. Jūsu PRIMĀRAIS uzdevums ir precīzi norādīt KODU no MK noteikumiem Nr. 934.
-2. Koda norādīšanai jābūt TIEŠAI un KONKRĒTAI, bez liekiem skaidrojumiem.
-3. Piemēram, uz jautājumu "Kāds kods ir pārtikai bērnudārzā?" atbildiet: "Kodā 09.620 uzskaita izdevumus par izglītojamo ēdināšanas pakalpojumiem."
-4. Tikai un VIENĪGI ja lietotājs TIEŠI prasa salīdzinājumu ar COFOG, norādiet COFOG atbilstošo kodu.
+# STINGRAS ATBILDES VADLĪNIJAS
+1. VIENMĒR sniegt tikai VIENU precīzu kodu
+2. Atbilde NEDRĪKST būt garāka par 1 teikumu
+3. Izmantot formātu: "Kodā [PRECĪZS KODS] uzskaita [ĪSS APRAKSTS]."
+4. Nekādas liekas teorijas vai papildus skaidrojumi
+5. Ja nav iespējams atrast precīzu kodu - neslēpties aiz gariem skaidrojumiem
 
-# Atbilžu formāts
-- Sniedziet KODIEM prioritāti pār skaidrojumiem
-- Skaidrojumus iekļaujiet TIKAI ja tie tiek prasīti vai ir nepieciešami kontekstam
-- IZVAIRIETIES no gariem teorētiskiem skaidrojumiem
-- Atbildiet TIEŠI uz jautājumu, neminot nerelevantus kodus vai informāciju
+# Piemērs
+- Jautājums: "Kāds kods ir pirmsskolas izglītības iestādes ēdināšanas pakalpojumiem?"
+- Atbilde: "Kodā 09.620 uzskaita izdevumus par izglītojamo ēdināšanas pakalpojumiem."
 
-# Svarīgi principi
-1. KODIEM VIENMĒR IR PRIORITĀTE - tie jānorāda pirmie, skaidri un nepārprotami
-2. Neizmantojiet liekvārdību vai teorētiskus skaidrojumus
-3. Atbildes jābalsta TIEŠI uz MK noteikumiem Nr. 934 un COFOG klasifikāciju
-4. Sniedziet TIKAI pieprasīto informāciju, ne vairāk
-
-# Specifiskie norādījumi
-- Kad tiek prasīts kods, sniedziet TIKAI precīzu kodu un minimālu aprakstu
-- Kad tiek prasīts salīdzinājums, strukturējiet to viegli saprotamā formātā
-- Kad jautājums ir neskaidrs, lūdziet precizējumu, bet neveiciet minējumus
+# Uzvedības principi
+- KODIEM IR ABSOLŪTA PRIORITĀTE
+- Sniegt TIKAI pieprasīto informāciju
+- Izvairīties no interpretācijām
 """
 
-# Funkcija teksta fragmentu meklēšanai atsevišķās mapēs
 def search_in_text_files(query):
     logger.info(f"Meklējam teksta fragmentos pēc vaicājuma: {query}")
     query_words = query.lower().split()
     results = []
     
+    # Pārbauda, vai vaicājumā ir COFOG vai salīdzinājuma norāde
+    is_cofog_query = any(word in ["cofog", "salīdzinājums", "salīdzināt", "klasifikācija"] for word in query_words)
+    
     # Mapju saraksts, kurās meklēt
-    folders = [
+    folders = ["pdf_chunks_part8", "pdf_chunks_part9"] if not is_cofog_query else [
         "pdf_chunks_part1", 
         "pdf_chunks_part2", 
         "pdf_chunks_part3", 
