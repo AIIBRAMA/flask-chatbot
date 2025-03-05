@@ -1,0 +1,22 @@
+dicīniskā personāla
+pakalpojumus, kurus ambulatorajiem pacientiem sniedz medicīnas,
+zobārstniecības un vidējais medicīniskais personāls.
+Pakalpojumus var sniegt mājās, indivīdu vai grupu konsultēšanas
+iestādēs, slimnīcu ambulatoriskajās nodaļās un līdzīgās iestādēs.
+Veselības aprūpes centru pakalpojumus, kuri ietver zāles, protēzes,
+medicīnas iekārtas un aprīkojumu un citus ar veselību saistītus
+produktus, kurus ambulatorajiem pacientiem tieši piegādā medicīnas,
+zobārstniecības un vidējais medicīniskais personāls.
+ 
+Neuzskaita:
+Medicīnas, zobārstniecības un vidējā medicīniskā personāla
+pakalpojumus, kurus slimnīcas un līdzīgas iestādes sniedz
+stacionārajiem pacientiem, tiek uzskaitīti pie slimnīcu pakalpojumiem
+attiecīgajā 07.300 funkcijas kodā.
+07.210
+Ambulatorās ārstniecības iestādes
+ 
+Kodā 7.210 uzskaita:
+Pakalpojumus, kurus sniedz veselības aprūpes centri un ambulances,
+ģimenes ārstu prakses, ģimenes ārsti - doktorāti, veselības punkti.
+Ambulatoro ārstniecības iestāžu medicīnas pak

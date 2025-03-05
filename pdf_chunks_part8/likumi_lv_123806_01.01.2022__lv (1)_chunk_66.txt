@@ -1,0 +1,23 @@
+ides
+aizsardzības veicināšanu - vispārējas politikas, plānu, programmu un
+budžetu izstrādāšana, vadība, koordinācija un uzraudzība; vides
+aizsardzības pakalpojumu nodrošināšanai nepieciešamo normatīvo aktu
+un standartu sagatavošana un ieviešana; vispārējas informācijas,
+tehniskas dokumentācijas un statistikas veidošana un izplatīšana par
+vides aizsardzību.
+Vides aizsardzības pakalpojumus, kurus nevar attiecināt uz 05.100,
+05.200, 05.300, 05.400 vai 05.500 funkcijas kodu.
+06.000
+Teritoriju un mājokļu apsaimniekošana
+06.100
+Mājokļu attīstība
+ 
+Kodā 06.100 uzskaita:
+Mājokļu attīstības darbības un pakalpojumu vadību; mājokļu attīstības
+darbības veicināšanu, novērošanu un novērtēšanu neatkarīgi no tā, vai
+šīs darbības ir padotas valsts iestādēm; mājokļu standartu izstrādi un
+regulēšanu.
+Graustu novākšanu saistībā ar mājokļu nodrošināšanu; dzīvojamo ēku
+celtniecībai nepieciešamās zemes iegūšanu; dzīvojamo vienību
+celtniecību vai iegādi un pārveidošanu vispārējām sabiedrības
+vajadzībām vai ci

@@ -1,0 +1,31 @@
+ra transfertus starp
+dažādiem valdības līmeņiem (01.800).
+01.700
+Vispārējās valdības sektora (valsts un pašvaldības) parāda darījumi
+Kodā 01.700 uzskaita:
+Maksājumus par aizņēmumiem un izdevumus, kas saistīti ar aizņēmumu
+izlaišanu un apdrošināšanu.
+Neuzskaita:
+Valsts parāda vadības izdevumus un parāda pamatsummas atmaksu
+(01.120).
+01.710
+Valdības valsts parāda darījumi
+01.711
+Valdības iekšējā valsts parāda darījumi
+Kodā 01.711 uzskaita:
+Izdevumus valsts iekšējo saistību izpildei, valsts iekšējā parāda procentu
+nomaksu un izdevumus par pakalpojumiem valsts iekšējā parāda
+kārtošanai.
+01.712
+Valdības ārējā valsts parāda darījumi
+Kodā 01.712 uzskaita:
+Izdevumus valsts ārējo saistību izpildei, valsts ārējā parāda procentu
+nomaksai un izdevumus par pakalpojumiem valsts ārējā parāda
+kārtošanai.
+01.720
+Pašvaldību budžetu parāda darījumi
+01.721
+Pašvaldību budžetu iekšējā valsts parāda darījumi
+Kodā 01.721 uzskaita:
+Izdevumus pašvaldības maksājumiem valsts iekšējo saistību izpildei,
+valsts iekš

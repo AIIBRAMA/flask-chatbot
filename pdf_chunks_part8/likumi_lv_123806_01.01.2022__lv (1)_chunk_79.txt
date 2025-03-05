@@ -1,0 +1,31 @@
+mnīcu un lokālo
+daudzprofilu slimnīcu pakalpojumu sniegšanu.
+Tādu slimnīcu vadību, pārbaudi, darbību vai atbalstu, kuras pakalpojumu
+sniegšanā neaprobežojas ar specializāciju konkrētā medicīnas jomā.
+ 
+Neuzskaita:
+Medicīnas centrus, kuri neatrodas kvalificēta ārsta tiešā uzraudzībā
+(
+07.330
+).
+07.311
+(Svītrots ar MK 
+08.12.2009.
+ noteikumiem Nr.1404)
+07.319
+(Svītrots ar MK 
+08.12.2009.
+ noteikumiem Nr.1404)
+07.320
+Specializētu slimnīcu pakalpojumi
+ 
+Kodā 7.320 uzskaita:
+Specializētu slimnīcu pakalpojumu sniegšanu.
+Tādu slimnīcu vadību, pārbaudi, darbību vai atbalstu, kuras pakalpojumu
+sniegšanā aprobežojas ar specializāciju konkrētā medicīnas jomā.
+Specializētas slimnīcas atšķiras no vispārējām slimnīcām ar to, ka to
+pakalpojumi aprobežojas ar konkrētu stāvokļu, slimību vai pacientu
+klases apkalpošanu.
+Infekciju, seksuāli transmisīvo un lipīgo ādas slimību diagnostiku,
+ārstēšanu un izplatības ierobežošanu; tuberkulozes un hronisko plaušu
+slimību izplatības ierobežošanu; psihiatriju; on

@@ -1,0 +1,32 @@
+enošanai nepieciešamā kompleksa nodrošinājuma, piemēram,
+elektroenerģijas ražošana, plūdu novēršana, irigācija, navigācija un
+atpūta.
+ 
+Kodā 04.740 uzskaita:
+Vadību darbībām un pakalpojumiem saistībā ar vairāku mērķu projektu
+būvniecību, paplašināšanu, uzlabošanu, darbību un uzturēšanu.
+Vispārējas un statistiskas informācijas, tehniskas dokumentācijas
+veidošanu un izplatīšanu par vairāku mērķu projektiem un to
+pakalpojumiem.
+Dotācijas un subsīdijas, lai atbalstītu vairāku mērķu projektu celtniecību,
+darbību, uzturēšanu vai uzlabošanu.
+18
+/
+37
+
+ 
+Neuzskaita:
+Projektus, kuriem definēta viena galvenā funkcija un noteiktas citas
+funkcijas ar sekundāru nozīmi.
+04.800
+Ekonomiskās darbības lietišķie pētījumi un eksperimentālās
+izstrādnes
+ 
+Lietišķo pētījumu un eksperimentālās attīstības definīcijas ir sniegtas
+funkcijas kodā 01.400 un 01.500.
+04.810
+Vispārējo ekonomisko, komerciālo un darba aktivitāšu pētījumi un
+eksperimentālās izstrādnes
+ 
+Kodā 04.810 uzskaita:
+Ar vispārējām ekonomiskām, ko

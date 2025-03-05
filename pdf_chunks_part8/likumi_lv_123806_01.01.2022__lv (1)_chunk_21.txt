@@ -1,0 +1,27 @@
+lpojumus, kurus nevar attiecināt uz 02.100,
+02.200, 02.300 vai 02.400 funkcijas kodu.
+Neuzskaita:
+Kara veterāniem sniegto pakalpojumu vadību (10.200).
+03.000
+Sabiedriskā kārtība un drošība
+03.100
+Policija
+03.110
+Policijas dienesti
+Kodā 03.110 uzskaita:
+Policijas darbības un dienestu vadību, policijas vai tās funkcijas izpildes
+nodrošināšanai izveidoto iestāžu darbību, tai skaitā kārtības, kriminālās
+policijas, pārējo specializēto policijas vienību darbību, bruņojuma,
+materiāli tehnisko līdzekļu apgādi, sakaru un informācijas sistēmu izveidi
+un uzturēšanu, informācijas apmaiņas nodrošināšanu starp iestādēm.
+Citu valsts varas iestāžu uzturēto speciālo policijas spēku darbību;
+policijas laboratoriju darbību; policijas apmācības programmu darbību un
+atbalstu.
+Neuzskaita:
+Policijas koledžas, kuras papildus policijas apmācībai piedāvā vispārējo
+izglītību (09.200, 09.300 vai 09.400).
+03.120
+Robežsardze
+Kodā 03.120 uzskaita:
+Robežsardzes darbību un dienestu vadību, valsts robežas joslas
+uzturē

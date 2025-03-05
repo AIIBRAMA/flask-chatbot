@@ -1,0 +1,27 @@
+ību finanšu izlīdzināšanas fondā; mērķdotācijas
+pašvaldību budžetiem, kuras nav iespējams attiecināt uz kādu konkrētu
+budžetu izdevumu kodu atbilstoši funkcionālajām kategorijām.
+01.811
+Valsts budžeta dotācijas
+Kodā 01.811 uzskaita:
+Valsts budžeta iemaksas pašvaldību finanšu izlīdzināšanas fondam,
+reģionālo attīstības aģentūru kapacitātes veicināšanai un citas dotācijas.
+01.812
+Valsts budžeta mērķdotācijas
+6
+/
+37
+
+Kodā 01.812 uzskaita:
+Valsts budžeta mērķdotācijas reģionu, novadu un vietējo pašvaldību
+teritorijas plānojumu izstrādei, vispārēja rakstura mērķdotācijas
+investīcijām, ja tās nav iespējams klasificēt atbilstoši to pamatfunkcijai.
+01.820
+Vispārēja rakstura transferti no pašvaldību budžeta valsts budžetam
+Kodā 01.820 uzskaita:
+Pašvaldību budžetu norēķinu ar valsts budžetu.
+01.830
+Vispārēja rakstura transferti no pašvaldību budžeta pašvaldību budžetam
+Kodā 01.830 uzskaita:
+Vispārēja rakstura pašvaldības budžeta pārskaitījumus citas pašvaldības
+budžetam; pašvaldību budžetu iemak

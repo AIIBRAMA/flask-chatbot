@@ -1,0 +1,22 @@
+ietver
+stacionāro veselības aprūpi un rehabilitācijas terapiju ar mērķi ārstēt
+pacientu, nevis nodrošināt ilgtermiņa atbalstu.
+Slimnīcas ir iestādes, kas piedāvā stacionāro aprūpi kvalificētu ārstu
+uzraudzībā. Specializētie centri, rehabilitācijas slimnīcas, kas arī sniedz
+stacionāro aprūpi.
+Slimnīcu pakalpojumi ietver zāles, protēzes, medicīnas iekārtas un
+aprīkojumu un citus ar veselību saistītus produktus, kas tiek nodrošināti
+slimnīcu pacientiem. Tie ietver arī slimnīcu nemedicīnas izdevumus par
+vadību; darbiniekiem, kas nav mediķi; pārtiku; izmitināšanu (arī
+darbinieku izmitināšanu).
+ 
+Neuzskaita:
+Militāros lauka hospitāļus (02.100); ārstu prakses, institūcijas invalīdiem
+un rehabilitācijas centrus, kuri tiem sniedz ilgtermiņa atbalstu (10.120);
+veco ļaužu pansionātus (10.200). Neietver maksājumus pacientiem par
+ienākumu zudumu hospitalizācijas dēļ (10.110).
+07.310
+Reģionālās daudzprofilu slimnīcas un lokālās daudzprofilu
+slimnīcas
+ 
+Kodā 07.310 uzskaita:Reģionālo daudzprofilu sli

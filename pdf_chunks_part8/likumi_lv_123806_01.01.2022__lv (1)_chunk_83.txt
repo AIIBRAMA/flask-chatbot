@@ -1,0 +1,27 @@
+ definīcijas ir sniegtas sadaļā ar funkcijas
+kodu 01.400 un 01.500.
+07.600
+Pārējā citur neklasificēta veselības aprūpe
+ 
+Kodā 07.600 uzskaita:
+Vadību, darbību un atbalstu tādām darbībām kā vispārējas veselības
+politikas, plānu, programmu un budžetu izstrādāšana, administrēšana,
+koordinācija un uzraudzība; veselības pakalpojumu nodrošināšanai
+nepieciešamo normatīvo aktu ieviešanu, ieskaitot ārstniecības iestāžu,
+ārstu, vidējā un jaunākā medicīniskā personāla atbilstības novērtēšanu;
+vispārējas informācijas, tehniskas dokumentācijas un statistikas
+izplatīšanu par veselību veidošanu.
+Veselības jautājumus un pakalpojumus, kurus nevar attiecināt uz 07.100,
+07.200, 07.300, 07.400 vai 07.500 funkcijas kodu.
+07.610
+Pārējā veselības aprūpes vadība
+ 
+Kodā 07.610 uzskaita:
+26
+/
+37
+
+Vadību, darbību un atbalstu tādām darbībām kā vispārējas veselības
+politikas, plānu, programmu un budžetu izstrādāšana, vadība,
+koordinācija un uzraudzība; veselības pakalpojumu nodrošināšanai
+nepieciešamo normatīvo ak

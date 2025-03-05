@@ -1,0 +1,23 @@
+ējā parāda procentu nomaksu un izdevumus par
+pakalpojumiem valsts iekšējā parāda kārtošanai, pašvaldību iekšējā
+parāda procentu nomaksu.
+01.722
+Pašvaldību budžetu valsts ārējā parāda darījumi
+Kodā 01.722 uzskaita:
+Pašvaldību izdevumus valsts ārējo saistību izpildei, valsts ārējā parāda
+procentu nomaksai un izdevumus par pakalpojumiem valsts ārējā parāda
+kārtošanai, pašvaldību ārējā parāda procentu nomaksu.
+01.800
+Vispārēja rakstura transferti starp valsts pārvaldes dažādiem līmeņiem
+Kodā 01.800 uzskaita:
+Transfertus starp dažādiem valdības līmeņiem, subsīdijas un dotācijas,
+kas nav klasificētas citās kodu grupās.
+Pašvaldību vispārēja rakstura maksājumus un norēķinus ar valsts
+pamatbudžetu. Norēķinus ar pašvaldību budžetiem.
+Maksājumus pašvaldību finanšu izlīdzināšanas fondā. Dotācijas no
+valsts pamatbudžeta.
+01.810
+Vispārēja rakstura transferti no valsts budžeta pašvaldību budžetam
+Kodā 01.810 uzskaita:
+Valsts budžeta norēķinus ar pašvaldību budžetiem; valsts budžeta
+maksājumus pašvald
