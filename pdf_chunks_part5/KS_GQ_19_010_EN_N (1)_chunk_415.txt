@@ -1,0 +1,15 @@
+ 
+The coding used in the table is described in section 5.1.2.  
+5.17.6.  Individual and collective final consumptio n 
+expenditure  
+The allocations are made using functional classifications in line with ESA 2010 para . 3.104 -3.106. 
+5.17.7.  Consumption of fixed capital expenditure  
+The capital stock is calculated by sector and branches (extended NACE classification) by using the 
+Perpetual Inventory Method  (PIM) . So, for the estimation of c onsumption of fixed capital ( P.51c), the 
+preferred method 2 is used: the PIM is applied by subsector and NACE, and then bridged with 
+COFOG.  
+As gross fixed capital formation on own account R&D is cal culated before the Perpetual Inventory 
+Model is applied, P.51c on own account R&D is allocated to th e division that it belongs to. F or 
+example, according to a survey where a university’s main activities in R&D are in basic research, the 
+P.51c of the univer sity’s R&D will be allocated to COFOG divi sion 1, general public servi ces.  
+5.17

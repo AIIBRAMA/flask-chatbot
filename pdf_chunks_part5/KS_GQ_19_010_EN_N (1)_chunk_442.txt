@@ -1,0 +1,16 @@
+e final consumption 
+expenditure  
+No problems are reported.  
+P.51c on own -account created R&D assets is being recorded in R&D groups, i.e. in the group where 
+the asset  was created.  
+5.19.7.  Consumption of fixed capital expenditure  
+Method 4  is used . 
+5.19.8.  Methodological soundness  
+The COFOG exercise is based  on the guidelines set out in ESA  2010  and Eurostat’s consolidation 
+rules are followed. Overhead services are allocated to the appropriate division rather than to a 
+general category. Data sources are reliable ; however, when source data are not available on  time, 
+estimates are based on the previous year’s source data.  
+A good link exists between COFOG and other International Statistics. As far as ESSPROS and R&D 
+data are concerned, these are computed within the same unit that produces COFOG data, and 
+therefor e consistency with COFOG data is guaranteed. Good consistency is also achieved with 
+ISCED ( International Standard Classification of Education) and EP

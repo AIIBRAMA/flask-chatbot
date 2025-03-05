@@ -1,0 +1,14 @@
+a definitive version of the annu al accounts for the year t -2 
+including new COFOG compilations. In this version the main source for general government and 
+social security funds are also final. Revisions to local government can be made due to changes in 
+other data sources other than the an nual reports, such as additional data sources for R&D and 
+software. At this time, COFOG at current prices are recompiled and values at fixed prices are also 
+calculated and published.  
+During benchmark revisions, which takes place every five years, any year of the time series can be 
+revised. The next benchmark revision will be in 2019 . 
+5.28.4.  National functional classification and compilation 
+methodology  
+Statistics Sweden collects annual reports for all municipalities, county councils and municipal 
+associations once  a year where expenditure  and income are reported for each activity. The 
+calculation of COFOG groups are based on these reports .  
+For central government each part of the

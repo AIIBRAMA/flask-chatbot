@@ -1,0 +1,13 @@
+G using 
+a bridge table and some additional estimation methods . 
+5.18.8.  Methodological soundness  
+Conversion of the time series from ESA 95 to ESA 2010 generated an opportunity to review the 
+whole time series and data sources with the aim of improving th e data quality, especially by 
+enhancing the methodological consistency. Nevertheless, COFOG calculations for the years 1995 -
+2009 , and the new time period from 2010 , use different data sources due to developments in the 
+accounting system . 
+Between 2009 and 2 010 there is a break in the time series due both to the use of different data 
+sources and compilation methods for COFOG statistics. For budgetary institutions before 2010 data 
+sources were, on the one hand national classifications for parliamentary present ation introduced in 
+1998 (based on an interim version of COFOG 1999), and on the other hand annual financial reports 
+of budgetary institutions from which the activity type classification was used mainly for the loc

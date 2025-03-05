@@ -1,0 +1,11 @@
+nected with all COFOG divisions. To estimate expenditure for all 
+general government units, results from the national R&D survey are used. The data on research and 
+development are collected e very year using statistical questionnaires. Reporting units are public 
+research institutions, public higher education institutes and research organisation s. The survey is 
+based on the international Frascati methodology  and data on scope and goals, i.e. dat a classified by 
+the Field of Science and Technology Classification and by the Nomenclature for the Analysis and 
+Comparison of Scientific Programmes and Budgets  are considered . For all reported research the 
+COFOG codes are assigned. As a second step in the estimation process the information on turnover 
+from research for eac h unit is determin ed and compared with the total turnover for the whole unit and 
+relevant share s calculated. The share determined for the assigned COFOG code is  then applied to 
+all ESA exp enditure categories f

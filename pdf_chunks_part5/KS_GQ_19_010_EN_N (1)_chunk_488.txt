@@ -1,0 +1,24 @@
+y Eurostat´s consolidation method.  
+
+ 
+176 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.26.9.  One-off transactions in the  years 1995 -2014  
+We did not identify any large one -off transactions affecting COFOG time series.  
+5.26.10.  Multi -purpose functions  
+Generally we use the most important function method. The issue often needs more detailed analysis. 
+SO SR discusses it with data provide rs individually.  
+5.26.11.  Other comments  
+Sales  of land (NP.1) are recorded in the group of the entity selling the land, i.e ., they are recorded 
+according to the former use.  
+
+ 
+ 177 5 Individual countries' compilation practices  
+177 
+Manual on COFOG statistics  5.27.  Finland  
+5.27.1.  Institutional arrangements  
+The COFOG statistics are produced by Statistics Finland.  
+5.27.2.  Publication of data on a national level  
+The COFOG analysis  is published annually by the statistical office.  
+5.27.3.  Revisions policy  
+The data for the latest year 

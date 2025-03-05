@@ -1,0 +1,13 @@
+on  
+When allocating pensions to COFOG groups , the same  methodological solutions  are used as in 
+ESSPROS. Indirect information is needed to divide pensions by groups  as national pension 
+categories (old age, disability, survivors) are not the same as ESSPROS categories. ESSPROS old 
+age pension includes both national old age74 pensions an d disability pensions to persons above the 
+“retirement age”. The relevant information is obtained from the pension database kept by the 
+Statistical Office.  
+Health care  
+COFOG codes are assigned for the health care providers at the unit level . As each unit w ill perform  
+several functions within the same division , indirect estimation is necessary . The Statistical Office 
+establish ed an additional data source in the process of preparing he alth accounts using information 
+prepared by the Health Insurance Institute of Slovenia. Each transaction in the database is classified 
+according to the Functional Classification of Health Care (ICHA -H

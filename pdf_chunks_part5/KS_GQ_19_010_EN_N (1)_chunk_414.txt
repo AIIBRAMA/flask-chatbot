@@ -1,0 +1,23 @@
+ment function codes into 
+COFOG codes.  
+Social security funds  
+Social s ecurity funds data are not provided with any function codes. The COFOG codes allocation  
+made by STATEC are mainly based on the social security risk cover ed by the Social security funds 
+entity. When necessary, specific expenses are adjusted on a case by case basis.   
+  
+
+ 
+144 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.17.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central  Government      “The State”  A1/U  A1/U  A1/U  A1/U  
+Central government bodies  A3/U  A3/U  A3/U  A3/U  
+Other  -  -  -  -  
+Local Government      Municipalities  A1/U  A1/U  A1/U  A1/U  
+Local government bodies  A1/U  A1/U  A1/U  A1/U  
+Other  -  -  -  -  
+Social Security Funds      Social Security main unit  A3/U  A3/U  A3/U  A3/U  
+Social security bodies  A3/U  A3/U  A3/U  A3/U  
+Other  -  -  -  - 

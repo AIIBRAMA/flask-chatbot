@@ -1,0 +1,23 @@
+
+available at a very detailed level  
+Sales of land (NP.1) are recorded in group 01.6.  
+
+ 
+ 143 5 Individual countries' compilation practices  
+143 
+Manual on COFOG statistics  5.17.  Luxembourg  
+5.17.1.  Institutional arrangements  
+COFOG statistics are compiled by th e Government Accounts unit (MAC4 ) of the national statistical 
+institute STATEC.  
+5.17.2.  Publication of data on a national level  
+COFOG statistics , by division , are published on the STATEC website: 
+http://www.statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=eng&MainThe
+me=5&FldrName=2  
+5.17.3.  Revisions policy  
+The COFOG dat aset is revised twice  a year with the  EDP notification . An update of ESA table 11 is  
+in general  sent to Eurostat  with, or shortly after, the EDP notification. The results of the three 
+previous years are also updated  at this time . 
+5.17.4.  National functional classi fication and compilation 
+methodology  
+Central government  
+Budgetary c entral government

@@ -1,0 +1,14 @@
+ns are 
+based on gross fixed capital formation (P.51) by function in a given year for each subsector  
+of general  government. P.51c by function is then calculated by applying the structure of 
+gross fixed capital formation by function on total P.51c for the  subsector s. 
+ for branches concentrated in a few functions  Method 2  is used , allocating the COFOG 
+classification o n the inputs of the model that estimates P.51c, according to each subsector  of 
+general government and each branch.  
+5.23.8.  Methodological soundness  
+No problems reported.  
+5.23.9.  One-off transactions  
+In Portugal the National Health Service was restructured at the end of 20 02 when the Government 
+changed the legal status of 31 hospitals from public institutions (SPA) to hospital enterprises whose 
+legal status was a corporation with limited liabilit y. In 2005, five health care units also joined the list of 
+hospital corporation s that had their status changed to a new legal designation called Entrepr

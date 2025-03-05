@@ -1,0 +1,16 @@
+al 
+government subsector. In 2010, as part of the annual financial reports of budgetary institutions, a 
+new Hungarian classification was introduced on which NACE and COFOG statistics of general 
+government sector have been based.  
+Following recommendations from Eurostat from the next benchmark revisi on all D.41 data will be 
+accounted for within COFOG group 01.7 public debt transactions.  
+5.18.9.  One-off transactions  
+Large one -off transactions affecting COFOG time series are as follow s: 
+1. Large debt -assumptions (D.99 , Other capital transfer) affect COFOG totals i n group 04.5 
+transport:  
+a. public railway: HUF 36.5 billion (0 .24 % of GDP) in 2000, HUF 119.3 billion in 2002 
+(0.69 % of GDP), HUF 110.6 billion (0.44 % of GDP) in 2007, capital injection (by 
+conveying privatisation receipts) HUF 102.5 billion (0 .39 % of GDP ) in 2008 , and 
+railway infrastructure HUF 23.4 billion (0 .1% of GDP) in 2015;  
+b. motorways: HUF 32.0 billion  (0.19 % of GDP) in 2002;  
+c. Budap

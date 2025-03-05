@@ -1,0 +1,22 @@
+1311 the classification according to function is made using the 
+states bookkeeping  data at as detailed a level as possible.  
+
+ 
+ 179 5 Individual countries' compilation practices  
+179 
+Manual on COFOG statistics  5.27.11.  Other comments  
+Sales of land (NP.1) can be recorded either to the function of the unit selling the land where they will 
+relate to the former use, or  in 06.1 h ousing development where the sales are by municipalities  for the 
+purpose of housebuilding . 
+
+ 
+180 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.28.  Sweden  
+5.28.1.  Institutional arrangements  
+Statistics Sweden compiles the COFOG statistics.  
+The general government sector in Sweden consists of central government and local government  and 
+social security funds . The local governme nt sector consists of municipalities, county councils, 
+municipal associations , municipally owned non -commercial organisations  and hospital owned by 
+county councils .  
+Statistics S

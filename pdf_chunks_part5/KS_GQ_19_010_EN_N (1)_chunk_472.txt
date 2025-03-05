@@ -1,0 +1,22 @@
+eneral public services, 
+defence, public order and safety, education, health, recreation, culture and religion, social prot ection, 
+housing and community amenities, environmental protection, economic affairs (general economic, 
+commercial and labour affairs, agriculture, forestry fishing and hunting, fuel and energy, mining, 
+manufacturing and construction, transport and communic ation).  
+
+ 
+ 169 5 Individual countries' compilation practices  
+169 
+Manual on COFOG statistics  5.24.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”  A1/U  A2/U  A1/U  A2/U  
+Central government bodies  A1/U  A2/U  A1/U  A2/U  
+Other  A1/U  A2/U  A1/U  A2/U  
+State Government      
+State Government main unit  NA/NU  NA/NU  NA/NU  NA/NU  
+State government bodies  NA/NU  NA/NU  NA/NU  NA/NU  
+Other  NA/NU  NA/NU  NA/NU  NA/NU  
+Local Government      
+Municipalities  A1/NU  A

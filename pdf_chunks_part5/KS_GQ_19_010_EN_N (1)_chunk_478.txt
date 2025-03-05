@@ -1,0 +1,19 @@
+ A1/U  
+Localities   A3/U   A3/U  
+Local government bodies   A3/U   A3/U  
+Other    -   - 
+Social Security Funds      Social Security main unit   A1/U   A1/U  
+Social security bodies   A3/U   A3/U  
+Other    -   - 
+The coding used in the table is described in section 5.1.2.  
+5.25.6.  Individual and collective final consumption 
+expenditure  
+COFOG classificatio n is used to allocate final consumption between individual and collective final 
+consumption expenditure. Up to the benchmark revision in 2019 the NACE classification is/was used 
+to divide final consumption expenditure in GDP statistics.  
+Fixed capital expen diture ( P.51c ) on R&D assets created on own account are recorded in the group 
+of creation . 
+5.25.7.  Consumption of fixed capital expenditure  
+Method 2 is used for estimation  consumption of fixed capital expenditure  (CFC) . 
+CFC for general government subsectors by act ivity is  bridged with functions. With benchmark 
+revisions in 2019 the CFC allocation to COFOG g

@@ -1,0 +1,27 @@
+ State”   A1/U   A1/U   
+Central government bodies   A3/U   A3/U  
+Other          
+State Gove rnment      
+State Government main unit   A1/U   A1/U   
+State government bodies   A3/U   A3/U  
+Other          
+Local Government      
+Municipalities   A1/U   A1/U  
+Localities   A1/U   A1/U  
+Local government bodies   A3/U   A3/U  
+Other          
+Social Security Funds      
+Social Security main unit   A1/U   A1/U  
+Social security bodies   A3/U   A3/U  
+Other          
+The coding used in the table is described in section 5.1.2.  
+5.21.6.  Individual and collective final consumption 
+expenditure  
+No problems rep orted.  
+5.21.7.  Consumption of fixed capital expenditure  
+Method 2 . 
+5.21.8.  Methodological soundness  
+At the general government  level,  items D.4, D.7 and D.9 and their sub -items are consolidated. On the 
+level of subsector s these transactions are shown without transfers withi n subsector s, but with 
+transfers between subsector s.  
+COFOG group 01.8 , transfers of a gener

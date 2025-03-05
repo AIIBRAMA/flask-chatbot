@@ -1,0 +1,16 @@
+ribed in section 5.1.2.  
+5.15.6.  Individual and collective final consumption 
+expenditure  
+Final consumption expenditure is broken down into  individual expenditure and collective expenditure 
+based o n the  COFOG 2nd level classification . The distinction between individual consumption 
+expenditure (P.31) and collective consumption expenditure (P.32) is made when the tables of 
+general government e xpenditure and operations are compiled.  
+5.15.7.  Consumption of fixe d capital expenditure  
+Fixed capital consumption (P.51c) is calculated through the detailed perpetual inventory method 
+(PIM) for each subsector of general government ( Method 2 ). 
+P.51c on own account created R&D assets is recorded within the R&D groups, that  is, in the group 
+where the asset was created.  
+5.15.8.  Methodological soundness  
+Eurostat’s consolidation rule is applied. The data are consistent with ESA  2010  table 0200. 
+5.15.9.  One-off transactions  
+Some one -off transactions affecting COFOG time

@@ -1,0 +1,14 @@
+ classification and compilation 
+methodology  
+Source data classification are not according to COFOG.  Therefore, Statistics Netherlands translates 
+administrative functio nal informa tion to COFOG functions based o n the most detailed available 
+source data.  
+For the State, which is the main entity of central government, individual b udget lines are assigned to 
+COFOG functions and economic categories by Statistics Netherlands.  
+The municipalities, provinces, local governmental institutions and  water boards provide a matrix of 
+administrative functions and economic categories which is translated to ESA classifications. For 
+some economic categories, such as gross fixed capital format ion, administrative functional 
+classification is at a very high level. Statistics Netherlands has to make additional  estimates to split 
+this data.   
+For social security funds, very detailed information on social benefits is available for social protection 
+schemes which can be related to COFOG. Ope

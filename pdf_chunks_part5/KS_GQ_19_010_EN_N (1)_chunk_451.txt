@@ -1,0 +1,13 @@
+a are made in accordance with revisions of ESA table 0200 data. Therefore 
+COFOG data are usually available within April/  October of the year. Updated COFOG data in April 
+are only published on our web  page.  
+5.21.4.  National functional classification and compilation 
+methodology  
+Source data are not classified according to COFOG in Austria. The functional classification of source 
+data of  the State is based on a very old SNA classification (17 main divisions). Source data of the 
+other institutional units of sector government have no functional classification.  
+Therefore source data are assigned to COFOG via a so -called “COFOG -key”. In gener al, 
+transactions are assigned to COFOG (so -called “Konten”/“Posten” or aggregates of 
+“Konten”/“Posten” according to the “Bundeshaushaltsgesetz (BHG)” (Federal Budgeting Law) for the 
+State and according to the “Voranschlags - und Rechnungsabschluss -Verordnun g (VRV)” (Budget 
+and Closed Accounts Regulation) for state government units,

@@ -1,0 +1,18 @@
+roups will be improved by using information on 
+gross stocks of fixed assets and gross fixe d capital formation by function . 
+5.25.8.  Methodological soundness  
+Overhead serv ices are classified correctly to the appropriate COFOG group rather than to a general 
+group.  Eurostat ’s preferred consolidation method is applied . Some further improvements are possible 
+but major revisions are not expected.  
+5.25.9.  One-off transactions  
+There are s ome one -off transactions affecting COFOG time series recorded as capital transfers, 
+gross fixed capital formation or acquisitions less disposals of non -produced assets. In recent years 
+the largest one -off transaction was the capital injections into banks i n 2013. These were recorded in 
+group 04.1 General economic, commercial and labour affairs  and totalled EUR 3  633 million, or 
+10.1% of GDP . 
+
+ 
+ 173 5 Individual countries' compilation practices  
+173 
+Manual on COFOG statistics  5.25.10.  Multi -purpose functions  
+Social protecti

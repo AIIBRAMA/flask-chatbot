@@ -1,0 +1,16 @@
+. There are no other institutions involved 
+in the data collection, specification and compilation process.  
+5.19.2.  Publication of data on a national level  
+The COFOG analysis is published annua lly by the National Statistical Office  at the beginning of each 
+year, reporting data for the previous five consecutive years . 
+The latest news release  was published on the 30th of January 2019, covering data from 2013 to 2017 
+at 2nd digit level . 
+5.19.3.  Revisions policy  
+The data for all the years are updated as necessary. Occasionally, updated tables are sent to 
+Euro stat in order to ensure full consistency with the other data submissions on Government Finance 
+aggregates (specifically ESA Table 0200).  
+5.19.4.  National functional classification and compilation 
+methodology  
+In Malta, the classification of the functions of govern ment is available at 1st digit level from 1995, and 
+at the 2nd level from 2001.  
+The general government sector in Malta is made up of the central go

@@ -1,0 +1,22 @@
+tal and 
+market output . 
+The data source for indirect budgetary u nits are the  annual accounting statements and COFOG is 
+assigned at unit level by the Statistical Office. Often the unit carries out more than one function and 
+this expenditure, where possible, is divide d using additional statistical information, i.e.  socia l 
+protection  statistics, national health accounts, national R&D surveys  and special analysis (see 
+5.24.10).  
+ 
+                                                           
+ 
+73 Data on local budgets by type and function /program are available from 2007 on wards . 
+
+ 
+172 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.25.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Sub-sector  1st level  2nd level  1st level  2nd level  
+Central Gov ernment      “The State”   A1/U   A1/U  
+Central government bodies   A3/U   A3/U  
+Other    A3/U    A3/U  
+Local Government      Municipalities   A1/U  

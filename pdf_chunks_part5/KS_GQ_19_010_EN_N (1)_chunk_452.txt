@@ -1,0 +1,20 @@
+ municipalities and localities).  
+The following transactions are classified en bloc to the following COFOG classes:  
+ Interest - 01.7 public debt transactions  
+ Pensions - 10.2 old ag e 
+ Benefits according to the unemployment insurance law - 10.5 unemployment  
+ Benefits according to the war victim law - 10.12  disability  
+ Family allowances - 10.4 family and children  
+But as an auxiliary solution , mainly economic activities (so -called “Detailb udgets” according to BHG 
+and “Ansätze” according to VRV) , are assigned to COFOG.  
+Small extra -budgetary units are usually classified as a whole (all transactions – except the above 
+mentioned – are classified to the same function) according to their main fu nction.  
+
+ 
+160 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.21.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The

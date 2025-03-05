@@ -1,0 +1,14 @@
+nment 
+units are collected and aggregated by the Ministry of Finance. Budgetary Reporting is bas ed on 
+budgetary classification of revenues and expenditure . This classification consists of three levels: 
+titles, chapters and paragraphs. The names of titles, chapters and paragraphs enable us to decide 
+between which units the transactions take place.  Data collected are on cash basis. However, the 
+transition algorithms from cash data to accrual and from budgetary classification to COFOG have 
+been elaborated so that it can be used as a source for functional data.  
+The budgetary classification is available si nce 2001 and it is amended every year.  
+Extra budgetary units , that is budgetary establishments, auxiliary units, special funds and 
+appropriated funds , also use the budgetary classification.  
+The expenditure  of units not included in Budgetary Reporting are c lassified according to their main 
+activity.  
+5.22.5.  Availability and use of data sources  
+  Provisional Year n 

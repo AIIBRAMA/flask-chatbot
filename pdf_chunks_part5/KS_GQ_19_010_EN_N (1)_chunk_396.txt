@@ -1,0 +1,28 @@
+t cancellation  01.2  S.1311  
+2002  D9 Tax credit for employment  04.1  S.1311  
+2007 - 
+2009  D9 VAT reimbursements following a ruling of the 
+European Court of Justice  04.1  S.1311  
+2014 
+onwards  D9 Reimbursement of the tax on productive activities  04.1  S.1311  
+2006  D9 Securitisat ion of farmers' social contributions  04.2  S.1311  
+2006  D9 Capital transfers to the Railways  04.5  S.1311  
+2007  D9 Capital transfers to publishing firms  04.6  S.1311  
+2006  D9 Reimbursements to phone operators following the 
+ruling of the Regional Administra tive Court of Lazio  04.6  S.1311  
+2002  P51g ( -) Sales of buildings as a negative P51g  06.1  S.1314  
+
+ 
+134 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+Period  Transaction  Description  Cofog 
+code  Sub-
+sector 
+involved  
+2012 
+and 
+2016  D9 Transfers for earthquake  06.1  S.1311  
+1995 
+and 
+1998  D9 Reimbursement to Households for the “integrations 
+for the minimum level of the pens ions” after th

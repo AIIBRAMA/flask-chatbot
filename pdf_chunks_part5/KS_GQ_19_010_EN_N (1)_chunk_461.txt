@@ -1,0 +1,15 @@
+-account created R&D assets is being recorded in 
+the R&D group where the asset was created.  
+5.22.7.  Consumption of fixed capital expenditure  
+Data on the stock and consumption of fixed capital by NACE form the b asis of the estimation of 
+P.51c in the general government sector for the purposes of table 1100. The estimation is based on 
+the average annual value of fixed assets at replacement prices and depreciation rates differentiated 
+for kinds of fixed assets and a ctivities. The depreciation rates take into consideration the real 
+economical lives of assets. Consumption of fixed capital by function for the general government 
+sector is obtained through a bridge between NACE and COFOG.  
+5.22.8.  Methodological soundness  
+Eurostat ’s methodological requirements of consolidation are applied. The data are consistent with  
+table 0200.  
+5.22.9.  One-off transactions  
+In the period 2003 to 2009 there were large one –off cancellations in respect of social contributions  
+allocated

@@ -1,0 +1,15 @@
+le of COFOG coefficients  is produced for each 
+ESA code, to be applied for the remaining  years of the base.  
+Civil Parishes accounts are estimated by sampling, so only the items of the expenditure of the 
+Parishes in the sample are allocated to a function code. The results are then extra polated.  
+Social Security Funds:  The headings regarding expenditure from Social Security Funds accounts 
+are recorded according to the COFOG classification table.  
+Each transaction is classified by function using the correspondent system. There are some item s for 
+
+ 
+166 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+which it is difficult to allocate the most appropriate function because detailed data are not available to 
+identify different functions. Whenever it is impossible to allocate the right function for the reasons 
+mentioned, the figures are allocated int o the main function of their institutional unit. The item that is 
+most affected by this problem is th

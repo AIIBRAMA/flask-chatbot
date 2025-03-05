@@ -1,0 +1,21 @@
+or that unit.  
+5.25.11.  Other comments  
+Sales of land (NP.1) are recorded in line with the selling  entity . Sales of land  of the centralised ent ity 
+are recorded in group 01.3 general services.  
+ 
+                                                           
+ 
+74 Before  2006 ESSPROS old age pension includes also national survivors’ pension s to person s above  the “retirement age ”. Because  of 
+that we have a break in COFOG data in 2006, i.e. lower expenditure for old age and higher expenditure for survivors.  
+
+ 
+174 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.26.  Slovakia  
+5.26.1.  Institutional arrangements  
+The Statistical  Office of the Slovak Republic produces the COFOG statistics.  
+5.26.2.  Publication of data on a national level  
+COFOG data are not published on a national level. COFOG methodological issues are published on 
+our website 
+https://slovak.statistics.sk/wps/portal/ext/metadata/cofog/!ut/p/b1/jY_BDoIwEEQ_qUNapB4XYmgViW
+1

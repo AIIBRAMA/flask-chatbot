@@ -1,0 +1,19 @@
+2/NU  A1/NU  A2/NU  
+Localities  A1/NU  A2/NU  A1/NU  A2/NU  
+Local government bodies  A1/U  A2/U  A1/U  A2/U  
+Other  A1/U  A2/U  A1/U  A2/U  
+Social Security Funds      
+Social Security main unit  NA/NU  NA/NU  NA/NU  NA/NU  
+Social security bodies  A1/U  A2/U  A1/U  A2/U  
+Other  NA/NU  NA/NU  NA/NU  NA/NU  
+The coding used in the table is described in section 5.1.2.  
+5.24.6.  Individual and collective final consumption 
+expenditure  
+No problems reported.  
+P.51c on R&D assets created on own account are recorded in the group of purpose.  
+5.24.7.  Consumption of fixed c apital expenditure  
+Method 2 is used.  Consumption of fixed capital is calculated through the detailed perpetual inventory 
+method (PIM) for each subsector  of general government sector. This information is then allocated to 
+COFOG based on the structure of gro ss fixed capital formation.  
+5.24.8.  Methodological soundness  
+The methodology for compiling statistics on central and local government and social secur

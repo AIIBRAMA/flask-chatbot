@@ -1,0 +1,12 @@
+vernment and the local 
+government subsector s. The central government subsector  includes the budgetary central  
+government, made up of Government ministries and departments, and the Extra -Budgetary Units 
+(EBUs).  
+Data for the budgetary central government use a detailed expenditure breakdown and are obtained 
+from the Treasury’s Departmental Accounting System (DAS). M inistries and Departments, as well as 
+their relevant cost and responsibility centres, are all coded according to the COFOG classification at 
+1st digit level. These data are available in real time at the National Statistics Office. On the other 
+hand, data f or the EBUs and local councils are available from their individual financial statements.  
+For the compilation of the 2nd level data for budgetary central government, the individual  expenditure 
+data from the DAS at the 1st digit level is used and then these  are allocate d to the relevant principal 
+COFOG group s. Additional statistical information from the re

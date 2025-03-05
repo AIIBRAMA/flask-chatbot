@@ -1,0 +1,16 @@
+utional arrangements  
+Statistics Lithuania, governm ent finance statistics  division produces the COFOG statistics. Data are 
+obtained from the Ministry of Finance  and social security funds. 
+5.16.2.  Publication of data on a national level  
+The COFOG data  are published by the statistical office on its database with data from 1995 . 
+5.16.3.  Revisions policy  
+Table 11 00 is updated once per year in December. Back series are revised in line with revisions to 
+other ESA aggregates.  
+5.16.4.  National fun ctional classification and compilation 
+methodology  
+The present version of COFOG has been implemented in the basic sources ( central and local 
+government) starting from 1995 .  
+The Ministry of Finance provides quarterly and annual reports on expenditure of central and local 
+government and extra budgetary funds. Public hospitals and higher education institutions data are 
+obtained from the Public sector accounting and reports consolidation information system (VSAKIS) 
+database

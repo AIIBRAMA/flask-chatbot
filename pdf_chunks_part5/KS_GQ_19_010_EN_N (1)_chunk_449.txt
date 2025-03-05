@@ -1,0 +1,16 @@
+nt (06.1) relates to 
+settlements of future subsidies to social housing corporations by local government, which was 
+financed by the state through transfers to municipalities . 
+5.20.10.  Multi -purpose function s 
+In most cases it is possible to assign expenditure to a specific function. If it is known that an 
+expenditure item is composed of expenditure that belongs to more than one function, Statistics 
+Netherlands tries to divide the expenditure and allocate it t o those functions. If that is not possible, 
+the item is assigned to the dominant function.  
+Quite often the expenditure is divided. For instance, expenditure on social security benefits as part of 
+
+ 
+158 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+the Long Term Care Act (W LZ) is split into health  (07.2, 07. 3) and social protection  (10.1, 10.2 ). 
+These expenditure  were EUR  17 858 million in 20 16, so splitting is important not to distort the 
+COFOG analysis. There are several other

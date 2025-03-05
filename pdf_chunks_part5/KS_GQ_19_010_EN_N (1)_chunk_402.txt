@@ -1,0 +1,31 @@
+d capital expenditure  
+CYSTA T applies Method 2 to estimate consumption of fixed capital (CFC) through the detailed 
+perpetual inventory model (PIM) for each subsector of general government.  
+The average life for each asset category is presented below:  
+LIFE ASSUMPTION FOR ASSETS  
+ASSET  AVERAGE LIFE (YEARS)  
+Dwellings  75 
+Roads  55 
+Non-residential Buildings  60-75 
+Other Civil  Engineering  75 
+Machinery  10-19 
+Computers  5 
+Motor Vehicles  10 
+Airplanes  25 
+Ships  30 
+Plantations  24 
+R&D  10 
+ 
+ 
+
+ 
+ 137 5 Individual countries' compilation practices  
+137 
+Manual on COFOG statistics  5.14.8.  Methodological soundness  
+Eurostat’s consolidation rule is applied.  
+5.14.9.  One-off transactions  
+Equity injections to restore the capital base of the  Cooperative Central Bank , of EUR 1  500 million in 
+2014 and EUR  175 million in 2015 are recorded as capital transfers in group  04.1, general economic, 
+commercial and labour affairs.  
+5.14.10.  Multi -purpose functions  
+No ca

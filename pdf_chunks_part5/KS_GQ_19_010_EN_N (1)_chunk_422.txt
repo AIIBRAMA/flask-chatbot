@@ -1,0 +1,13 @@
+2nd level, except for R&D within main functions and some components of Social pr otection  (for years 1995 -2009) . 
+The coding used in the table is described in section 5.1.2.  
+5.18.6.  Individual and collective final consumption 
+expenditure  
+Reconciliation of dual data -sources , specifically COFOG type national class ification and NACE type 
+activity based classification in budgetar y expenditure , has been completed for years 1995 -2009 . 
+From 2010 onwards the final consumption expenditure data are calculated using the same process 
+as COFOG data.  
+Consumption of fixed capit al expenditure (P.51c) related to own account R&D activity is recorded 
+under R&D COFOG functions, so the final consumption expenditure component of this activity is of a 
+collective nature. No further information is available about the specific areas where the final use of 
+the results of the R&D activities takes place.  
+One methodological contradiction remains unresolved in the time series relating to t

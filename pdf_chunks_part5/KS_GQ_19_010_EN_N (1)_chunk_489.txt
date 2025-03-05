@@ -1,0 +1,14 @@
+is updated once a year. Previous years are  revised at the same time if 
+needed, depending on the revisions in national accounts.  
+5.27.4.  National functional classification and compilation 
+methodology  
+The data concerning central government sector are in line with the COFOG divisions. The ministerial 
+offices  that are included in division 1 are : the offices of Parliament, Ministry for Foreign Affairs, 
+Ministry of Finance, State Provincial Offices, Government Institute for Economic Research, State 
+Treasury, Tax Administration, Customs and Statistics Finland.  
+Transfers of a general character from central to local government cannot be classified according to 
+their function and are included in sub -division 1.8.  
+Other land rents and indemnity insurance costs cannot be assigned to a specific function, but the 
+amount s are insignificant.  
+For the central government sector S.1311 the classification according to function is made using the 
+State’s bookkeeping data and examining

@@ -1,0 +1,25 @@
+ it at the most detailed level possible.  
+The functional codification used in local government st atistics on financial statements differs from 
+COFOG. It was created for many other purposes besides national accounting.  
+
+ 
+178 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.27.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”  A1/U  A1/U  A1/U  A1/U  
+Central government bodies  A3/U  A3/U  A3/U  A3/U  
+Other          
+Local Government      
+Municipalities  A2/U  A2/U  A2/U  A2/U  
+Localities      
+Local government bodies  A2/U  A2/U  A2/U  A2/U  
+Other          
+Social Security Funds      
+Social Security main unit  A2/U  A2/U  A2/U  A2/U  
+Social security bodies  A3/U  A3/U  A3/U  A3/U  
+Other          
+The coding used in the table is described in section 5.1.2.  
+5.27.6.  Individual and collective final  consumption 

@@ -1,0 +1,14 @@
+he transactions of the State are received from the National Treasury in electronic 
+form. The N ational Budget cont ains some 20 000 expend iture budget codes and around 1 000 
+revenue codes. Each code has a unique identification serial number . The level of detail is sufficient 
+and provides all the necessary information concerning the flows between various bodies of the s ame 
+subsector  and the other subsector s of general government.  
+The Publi c Finance Stat istics section (PFS) of CYSTAT  monitors all budget codes on a monthly, 
+quarterly and yearly basis.  
+All budget codes have been classified according to ESA  2010 as well as by NACE and by function 
+(COFOG).  
+Any new budget codes, established in the current year, are investigated and codified in real time . 
+The National Treasury provides all the information required within twenty  days from the end of each 
+month , making it possibl e to meet all ESA  2010  transmission requirements.  
+Local Government  
+All local authorit

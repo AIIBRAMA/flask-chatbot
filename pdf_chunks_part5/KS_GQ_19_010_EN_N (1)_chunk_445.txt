@@ -1,0 +1,13 @@
+downs into subsectors and transactions can be found 
+on the publication database of Statistics Netherlands  Statline .  
+5.20.3.  Revisions policy  
+The publication of COFOG data follows from the regular Government Finance Statistics (GFS) 
+revision policy. Generally the first provisional annual COFOG estimates for year t-1 and final 
+estimates  for year t-2 are published  in the summer. We also have the possibility for a yearly revision 
+of the COFOG structure for the whole time series, as long as it does not change GFS and NA figures 
+in other tables. The figures are fully aligned with the GFS and National Accounts (NA), exce pt for a 
+small difference in the breakdown of consumption into individual and collective components in the 
+provisional estimate . 
+Every five years Statistics Netherlands conducts a  benchmark revision of GFS and NA. In that case, 
+the whole time series is sub ject to revision. The latest benchmark revision was published in 20 18. 
+5.20.4.  National functional

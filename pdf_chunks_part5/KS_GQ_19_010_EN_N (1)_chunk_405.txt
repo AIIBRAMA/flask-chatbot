@@ -1,0 +1,23 @@
+hools was 
+allocated  pro rata , according to the number of pupils.  
+5.15.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      “The State”  A1/U  A1/U  A1/U  A1/U  
+Central government bodies  A1/U  A1/U  A1/U  A1/U  
+Other (Other government entities reclassified 
+from S.11 to S.1311)  A1/U  A1/U  A1/U  A1/U  
+Local Government      Municipalities  A1/U  A1/U  A1/U  A1/U  
+Localities  A1/U  A1/U  A1/U  A1/U  
+Local government bodies  A1/U  A1/U  A1/U  A1/U  
+
+ 
+ 139 5 Individual countries' compilation practices  
+139 
+Manual on COFOG statistics    Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Other (Other government entities reclassified 
+from S.11 to S.1313)  A1/U  A1/U  A1/U  A1/U  
+Social Security Funds      Social Security main unit  A1/U  A1/U  A1/U  A1/U  
+Other  - - - - 
+The coding used in the table is desc

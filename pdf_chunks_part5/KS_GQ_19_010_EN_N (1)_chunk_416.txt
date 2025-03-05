@@ -1,0 +1,19 @@
+.8.  Methodological soundness  
+Expenditure  is accurately  allocated to functions. However, a s the central government and local 
+government functional classifications do not perfectly match  the COFOG classification , the results of 
+the bridge table are  constantly monitored to guarantee correct 2nd level COFOG data.  
+ESA 2010 consolidation rules are applied.  
+5.17.9.  One-off transactions  
+In recent years there have been no significant one -off transactio ns.  
+5.17.10.  Multi -purpose functions  
+Where government expenditure serves more than one function, the main  function code by value 
+which is attributed by the administrations is used.  
+
+ 
+ 145 5 Individual countries' compilation practices  
+145 
+Manual on COFOG statistics  5.17.11.  Other comments  
+Sales of land (NP.1) are recorded according to function whenever a f unction can be identified. If the 
+function is unknown, sales of land tend to be recorded in COFOG division 01, general public 
+services . 
+The largest amoun

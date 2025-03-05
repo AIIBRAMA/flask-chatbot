@@ -1,0 +1,15 @@
+he treatment of 
+final consumption expenditure of MÁV START  Zrt (Hungarian Railway Passenger Transportation 
+Co.): this expenditure is recorded as individual consumption expenditure in government sector 
+accounts in line with COICOP classifications, whilst COFOG classifies all transport functions as 
+collective consumption by definition . When MÁV -Start was part of n on-financial corporations sector, 
+its consumption was accounted according to COICOP, which contains only individual groups. When 
+it was reclassified into GG sector, according to COFOG its consumption should be recorded as 
+collective despite the fact, that the feature of the service is unchanged.  
+5.18.7.  Consumption of fixed capital expenditure  
+Method 2 is used  where c onsumption of fixed capital expenditure is calculated using the perpetual 
+
+ 
+148 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+inventory method (PIM) at subsector level using NACE. These data are convert ed into COFO

@@ -1,0 +1,31 @@
+ statistics  sector. This consists of: the central budget with  central budgetary institutions, budgeted funds, 
+budgeted social security funds and local governments. The budgetary presentation covers only 47 
+presentation groups and 16 classes which  correspond t o 10 COFOG divisions.  
+5.18.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”   A1/U   A1/U  
+Central government bodies   A1/U or 
+A3/U   A1/U or  
+A3/U  
+Other  
+a) Budgeted funds  
+b) Non -financial public corporations  
+c) Non -profit institutions      
+a) A1/U  
+b) A3/U  
+c) A3/U     
+a) A1/U  
+b) A3/U  
+c) A3/U  
+Local Government      
+Municipalities   A1/U   A1/U  
+Localities   A1/U   A1/U  
+Local government bodies   A1/U   A1/U  
+Other          
+Social Security Funds      
+Social Security main unit   A1/U   A1/U  
+Social security bodies   A1/U   A1/U  
+Other          
+A1/U for most of 

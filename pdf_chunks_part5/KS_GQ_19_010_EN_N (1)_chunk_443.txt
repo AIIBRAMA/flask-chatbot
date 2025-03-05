@@ -1,0 +1,17 @@
+EA (Environment al Protection 
+Expenditure  Accounts) as the COFOG data is the major data source input for the ir respective 
+compilations.  
+The aim is to continuously monitor the quality of the COFOG 2nd level data. In this respect 
+improvements are foreseen in distinguishing between groups 07.2 ‘Outpatient Services’ and 07.3 
+‘Hospital Services’  and keeping the expen diture figures in ‘n.e.c.’ for each COFOG category as small 
+as possible by assigning each expenditure to its respective category . 
+5.19.9.  One-off transactions  
+The following are the one -off transactions affecting COFOG time -series:  
+1. 2003 – The MSC & MDD debt assumpt ion adjustment effect – EUR 123.2 million. This 
+amount was allocated to group 04.5 ‘t ransport’ as a capital transfer (D.9).  
+2. 2008 – The reclassification of the Malta Shipyards within the general government sector and 
+
+ 
+ 155 5 Individual countries' compilation practices  
+155 
+Manual on COFOG statistics  the payment of the voluntary retire

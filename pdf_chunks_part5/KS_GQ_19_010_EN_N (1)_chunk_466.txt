@@ -1,0 +1,33 @@
+e market output  (P.11) . 
+5.23.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level 
+Central Government      
+“The State”   A1 (for 
+D.1 and 
+P.2 only) / 
+U and E* / 
+NU  A1 / U  
+Central government bodies   A3 (for 
+D.1 and 
+P.2 only) / 
+U and E* / 
+NU  A3 / U  
+Other          
+Local Government      
+Municipalities   E / NA   E / NA  
+Localities   E / NA  A1 
+(sample) / 
+U 
+Local government bodies   E / NU   A3 / U  
+Other          
+Social Security Funds      
+Social Security main unit   E / NU   A1 / U  
+Social security bodies      
+Other          
+*the relative structures of expenditure  from the final year n -2 used are adjusted to account for some one -off events that might occur in 
+year n -1. 
+The coding used in the table is described in section 5.1.2.  
+5.23.6.  Individual and collective final consumption 
+expenditure  
+The breakdown between ind ividual and collective consumption expen

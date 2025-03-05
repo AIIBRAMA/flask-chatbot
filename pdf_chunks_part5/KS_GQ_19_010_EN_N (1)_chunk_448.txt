@@ -1,0 +1,16 @@
+ 5.1.2.  
+5.20.6.  Individual and collective final consumption 
+expenditure  
+The division between collecti ve and individual consumption (P .3) follows the COFOG manual . 
+Consumption of fixed capital ( P.51c ) related to  own-account created R&D assets is being recorded in 
+the R&D groups  where the asset was created and thus is recorded as collective consumption . 
+5.20.7.  Consu mption of fixed capital expenditure  
+Method 6 is used for assigning consumption of fixed capital formation (P.51c ) to functions. Some 
+functions in some sub sectors are estimated using industry  information on consumption of fixed 
+capital formation.  
+5.20.8.  Methodolo gical soundness  
+Full consolidation is applied.  
+Special attention  is paid to high amounts in the functions n.e.c., and consistency between paid 
+transfers to a subsector and the expenditure by the receiving subsector . 
+5.20.9.  One-off transactions  
+In 1995 , a capita l transfer of EUR 16 billion i n the function h ousing  developme

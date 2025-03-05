@@ -1,0 +1,13 @@
+budgetary units are collected and processed by  CSO.  
+5.18.2.  Publication of data on a national level  
+Currently the CSO publishes final consumption expenditure at a COFOG 2 -digit level from 2010. 
+Data are available on the publication database of CSO (Stadat). In the near future it is planned to 
+publish table 11 00 with a time series beginning in 1995.  
+The publication of MoF general government expenditure data by the main COFOG groups is 
+presented as a percentage of GDP among EU -members and EU -aggregates within an annex 
+attached to the parliamentary documentation of Final Accounts for the legal government sector . Data 
+for the Final Account of the Budget in 2016 are available on the following links: Final account of the 
+Budget and ESA data of MS’s including COFOG.  
+5.18.3.  Revisions policy  
+There is no fixed revision policy  for COFOG data . If there is a revision in back data this takes place in 
+December at the transmission of t able 11 00. The intention is for a par

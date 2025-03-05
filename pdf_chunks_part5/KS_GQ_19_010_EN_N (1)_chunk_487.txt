@@ -1,0 +1,19 @@
+ities – Municipalities  
+Localities – Higher territorial units  
+Local government bodies – Budgetary organisations administered by municipalities, subsidised 
+organisations administered by municipalities, budgetary organisations admini stered by higher 
+territorial units, subsidised organisations administered by higher territorial units.  
+Social Security Funds   
+Social Security main unit – Social Insurance Company  
+Social security bodies – Health insurance companies  
+5.26.6.  Individual and collective  final consumption 
+expenditure  
+No problems reported.  
+P.51c on own -account created R&D assets is being recorded in R&D groups, i.e. in the group where 
+the asset was created.  
+5.26.7.  Consumption of fixed capital expenditure  
+We use “Method 2”.  The d etailed PIM is app lied to each subsector  of general government sector, 
+which involves maintaining fixed assets and branches. This information is then bridged with COFOG 
+functions.  
+5.26.8.  Methodological soundness  
+We appl

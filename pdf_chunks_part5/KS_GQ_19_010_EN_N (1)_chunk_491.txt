@@ -1,0 +1,15 @@
+expenditure  
+Consumption of fixed capital ( P.51c ) on own -account created R&D assets is being recorded in R&D 
+COFOG groups, that is  in the group where the asset was created.  As a result this expenditure will be 
+recorded as collective expenditure . 
+5.27.7.  Consumption of fixed capital expenditure  
+Method 2, the "straight line" method is used, i.e. the value of a fixed asset is written off at a constant 
+rate over the whole lifetime of the asset . This Perpetual  Inventory Method (PIM) for calculating the 
+stock  of fixed assets uses long series of gross fixed capital formation (from 1975), price indices, and 
+assumptions of service lives, survival/mortality functions and depreciation patterns.  
+5.27.8.  Methodological soundness  
+The Eurostat method is used for consolidation.  
+5.27.9.  One-off transactions  
+There are no large one -off transactions in the years 1998 -2017 affecting COFOG time series.  
+5.27.10.  Multi -purpose functions  
+For the central government sector S.

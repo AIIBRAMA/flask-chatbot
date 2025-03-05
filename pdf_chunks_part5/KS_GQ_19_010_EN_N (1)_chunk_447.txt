@@ -1,0 +1,22 @@
+rational costs are assigned to  functions according to 
+the amounts of the social benefits . 
+For other units within general government, every unit is assigned to a function. For example, all the 
+expenditure of the gove rnment unit responsible for railway infrastructure is assigned to transport  
+(04.5). 
+  
+
+ 
+ 157 5 Individual countries' compilation practices  
+157 
+Manual on COFOG statistics  5.20.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      “The State”  A1/U  A1/U  A1/U  A1/U  
+Central government bodies  A3/U  A3/U,E  A3/U  A3/U  
+Other  - - - - 
+Local Government      Municipalities, provinces & public water boards  A2/U  A2/NU  A2/U  A2/U  
+Local government bodies  A3/U,E  A3/U,E  A3/U  A3/U  
+Other  - - - - 
+Social Securi ty Funds      Social Security main unit  A2/U  A2/U  A2/U  A2/U  
+Other  - - - - 
+The coding used in the table is described in section

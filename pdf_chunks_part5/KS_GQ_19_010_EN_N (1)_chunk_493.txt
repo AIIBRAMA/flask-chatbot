@@ -1,0 +1,13 @@
+weden collects annual reports from municipalities, county councils and municip al 
+associations where expenditure  and incomes for each activity are reported. The National Accounts 
+division translates each activity to a suitable COFOG function.  
+The Swedish National Financial Management Authority collects information from central gover nment 
+authorities and provides data by transaction and COFOG function.  
+5.28.2.  Publication of data on a national level  
+The COFOG analysis  is published a nnually on the first level of COFOG by the statistical office.  
+5.28.3.  Revisions policy  
+In November of year t provisional annual accounts are published for the year t -1. This is the first time 
+the annual reports from county councils, municipalities and municipal a ssociations are used for 
+calculating totals. At this time, the COFOG calculations are in  current prices. The annual reports from 
+the local governments are the final data resources.  
+In September, Statistics Sweden publishes 

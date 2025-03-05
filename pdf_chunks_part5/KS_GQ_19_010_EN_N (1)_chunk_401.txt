@@ -1,0 +1,19 @@
+vel  
+Central Government      “The State”  A1/U  A1/U  A1/U  A1/U  
+Central government bodies  A1/U  A1/U  A1/U  A1/U  
+Other  - - - - 
+Local Government      Municipalities  A1/U  A1/U  A1/U  A1/U  
+Localities  A1/U  A1/U  A1/U  A1/U  
+Other  - - - - 
+Social Security Funds      Social Security main unit  A1/U  A1/U  A1/U  A1/U  
+Social secur ity bodies  A1/U  A1/U  A1/U  A1/U  
+Other  - - - - 
+The coding used in the table is described in section 5.1.2.  
+5.14.6.  Individual and collective final consumption 
+expenditure  
+The distribution between individual (P.31) and collective (P .32) consumption expenditure is finalised 
+upon compilation of the COFOG table according to COFOG methodology and classifications . 
+The allocation of P.31 and P.32  is based on COFOG methodology.  
+Consumption of fixed assets (P.51c) relating to own-account R&D is allocated to the COFOG group 
+where it was created and therefore is recorded as collective consumption expenditure . 
+5.14.7.  Consumption of fixe

@@ -1,0 +1,19 @@
+ith the selling entity . 
+
+ 
+ 171 5 Individual countries' compilation practices  
+171 
+Manual on COFOG statistics  5.25.  Slovenia  
+5.25.1.  Institutional arrangements  
+COFOG statistics are compiled by the Statistical Office of the Republic of Slovenia.  
+5.25.2.  Publication of data on a national level  
+The COFOG analysis  is published a nnually by the Statistical Office . Data  can also be found in the 
+publication database SIStat . 
+5.25.3.  Revisions policy  
+Regu lar rev isions of data are usually carried out once a year, along with the regular release of data 
+for t-1. The data are in line with the September release of data on the main aggregates of the general 
+government sector. D ata on general government expenditu re by function can also be revised due to 
+changes in the sources used and methodological improvements . 
+5.25.4.  National functional classification and compilation 
+methodology  
+The current version of COFOG is used. National functional classification (function

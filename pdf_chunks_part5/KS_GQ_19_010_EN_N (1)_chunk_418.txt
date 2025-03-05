@@ -1,0 +1,13 @@
+bbreviation is used to illustrate th e MoF functions in 
+government finance statistics.  
+The primary data sources of functional classification are the national functional budget presentation 
+of the Final Accounts of the legal government sector , and annual financial reports of budgetary units 
+and reclassified public corporations and non -profit institutions. All budgetary units – including local 
+governments and their institutions – report COFOG compatible cross -classified budgetary 
+expenditure  on a cash basis . Functional data collection and data process ing are an integral part of 
+those annual financial reports. MAK (Hungarian State Treasury) fulfils this job in respect of legal 
+government units.  
+Legal government units are determined by the Law on Public Finan ces, and comprise budgetary 
+units , such as : central budget units ; state and central budgetary institutions; budgeted funds; 
+budgeted social security funds; and local government units.  
+Data on reclassified non -

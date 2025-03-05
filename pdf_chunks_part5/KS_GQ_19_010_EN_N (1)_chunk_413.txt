@@ -1,0 +1,13 @@
+ appropriations provided by the General Finance  Inspection are 
+allocated to a  function code according to a central government function al classification. STATEC 
+allocates a COFOG code to each budget appropriation with a bridge table that converts the central 
+government function codes into COFOG codes.  
+For other budgetary and extra -budgetary central government entities, COFOG codes are allocated 
+on a case by case basis. In ord er to split revenue and expenditure of the university between 
+Education and Research and Development (R&D), and to allocate R&D  revenue and expenditure to 
+the different R&D COFOG groups, the results of a STATEC survey on R&D inside government sector 
+are ap plied.  
+Local government  
+The same as for central government appropriations, local government revenues and expenditure  are 
+provided with a function code. This classification is very similar to COFOG. Again , STATEC allocates 
+the COFOG codes using a bridge tab le that converts these local govern

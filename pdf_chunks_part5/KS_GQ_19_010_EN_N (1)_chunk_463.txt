@@ -1,0 +1,15 @@
+cs Portugal web site.  
+5.23.3.  Revisions policy  
+The COFOG data are updated once a year, ready for table 11 00 transmission, in December and 
+published annually by the  statistical office.  
+Usually, data for year t -2 reported in the December transmission is final. In benchmark years the time 
+series transmitted are revised accordingly . The last b enchmark year was 2011 and  data transmitted 
+in December 2018  was revised from  1995 onwards.  
+5.23.4.  National functional classification and compilation 
+methodology  
+State:  Each item of the expenditure of General State Account, provided by the Ministry of Finance’s 
+Budget General Directorate (DGO), is allocated to a function code, taking into  account the ministry 
+and the state secretariats in question. This is revised once the government changes. Some particular 
+expenditure , for example  subsidies , ESA code D.3 , and other transfers D.6 and D.7 , are studied in 
+more detail.  
+Remaining sectors of C entral Government:  each

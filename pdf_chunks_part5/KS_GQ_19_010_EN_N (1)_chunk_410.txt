@@ -1,0 +1,20 @@
+  
+
+ 
+142 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.16.6.  Individual and collective final consumption 
+expenditure  
+There are n o problems in splitting expend iture between P.31 and P.32.  
+P.51c on own -account created R&D assets is being recorded in R&D groups, i.e. in the group where 
+the asset  was created.  
+5.16.7.  Consumption of fixed capital expenditure  
+A combination of method 2 and method 4 is used. P.51c for each subsector  of general government is 
+estimated using PIM. This information is then bridged with functions using the structure of time -series 
+of P.51 by function and subsector  (1st and 2nd level of COFOG).  
+5.16.8.  Methodological soundness  
+Eurostat’s methodological requ irements for consolidation and allocation of FISIM are applied. The 
+data are consistent with ESA  2010 table 2.  
+5.16.9.  One-off transactions  
+There was a large increase of D.9 in several years due to : the restitution of property to households in 
+2

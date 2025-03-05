@@ -1,0 +1,21 @@
+ cases like this.  
+5.20.11.  Other comments  
+Sales of land (NP.1) are recorded in the group  of the entity selling the land according to the former  
+use, or according to future use where  there is a s pecific purpose for the sales or  capital transfers of 
+land.  
+
+ 
+ 159 5 Individual countries' compilation practices  
+159 
+Manual on COFOG statistics  5.21.  Austria  
+5.21.1.  Institutional arrangements  
+Statistics Austria produces the COFOG statistics.  
+There a re no other institutions involved in the data collection, specification and compilation 
+processes.  
+5.21.2.  Publication of data on a national level  
+The COFOG analysis is published by the statistical office and can be found on its web site at  
+http://www.statistik.at/web_en/statistics/Economy/Public_finance_taxes/public_finance/government_
+expenditure_by_function/index.html . 
+5.21.3.  Revisions policy  
+The data for the latest year and two back years are updated twice per year. This means that 
+revisions of COFOG dat

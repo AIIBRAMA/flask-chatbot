@@ -1,0 +1,23 @@
+levant responsible units are required, 
+especially for the disaggregation of the education and health functions. If a unit performs more than 
+one function o r group, the expenditure is  split appropriately, either through direct basic data or 
+through estimation. Where  there is a lack of information , particularly when amounts are small, the 
+function or group is allocated to the principal activity of the unit.  
+
+ 
+154 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.19.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      “The State”  A1/U  A1/U;E  A1/U  A1/U  
+Central government bodies  A3/U  
+A1/U  A3/U  
+A1/U  A3/U  
+A1/U  A3/U  
+A1/U  
+Other  - - - - 
+Local Government      Local government bodies  A2/U  A2/U  A2/U  A2/NU  
+Other  - - - - 
+The coding used in the table is described in section 5.1.2.  
+5.19.6.  Individual and collectiv
