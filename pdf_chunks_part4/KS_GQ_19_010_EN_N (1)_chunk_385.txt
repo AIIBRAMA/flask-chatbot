@@ -1,0 +1,16 @@
+ NACE classification using method 2. The split of P.51c according to COFOG is an 
+assumption based on existing COFOG split of compensation of employees and intermediate 
+consumption taken from FINA database of financial reports with dedicated COFOG codes (main data 
+source) . 
+
+ 
+130 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.12.8.  Methodological soundness  
+The broad approach to the allocation of expenditure by function is believed to be sound. Eurostat 
+consolidati on rules are applied. However, some further improvements in the quality are expected as 
+intensive cooperation, data compa rison and alignment with other u nits dealing with education 
+statistics (ISCED), environment accounts (EPEA) and social statistics (ESSP ROS) has begun. It is 
+planned to establish solid links between these areas in order to ensure consistent data of high 
+quality.  
+Some aspects  of COFOG compilation need to be improved to increase the quality of the results, in 

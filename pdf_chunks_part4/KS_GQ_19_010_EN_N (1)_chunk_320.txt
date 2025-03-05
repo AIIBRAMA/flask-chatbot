@@ -1,0 +1,20 @@
+     
+589 Municipalities and 598 Public social welfare 
+centres  A1/U  A1/U  A1/U  A1/U  
+10 Provinces  A1/U  A1/U  A1/U  A1/U  
+Other local government bodies  A3/U  A3/U  A3/U  A3/U  
+
+ 
+ 101 5 Individual countries' compilation practices  
+101 
+Manual on COFOG statistics    Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level 
+Social Security Funds      Social Security main units  A2/U  A2/U  A2/U  A2/U  
+Social se curity bodies  A2/U  A2/U  A2/U  A2/U  
+The coding used in the table is described in section 5.1.2.  
+5.2.6.  Individual and collective final consumption 
+expenditure  
+The accounts of general government for year t , for table 0200 of the tra nsmission programme , are 
+compiled in March and September of year t+1; this is before the functional breakdown is available. 
+The breakdown of final consumption expenditure (P.3) between individual consumption expenditure 
+(P.31) and collective consumption ex penditure (P.32) is based on

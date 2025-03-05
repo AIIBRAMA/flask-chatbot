@@ -1,0 +1,17 @@
+.  
+Following clarification from Eurostat the original margin of EUR 530 million has been recorded as 
+intere st expenditure  over the period of the loan (2011 -2016) and the rebate of EUR 554.9 million has 
+been treated as a one-off capital transfer  revenue in 2016. This treatment is specific to this particular 
+loan. It does not apply to other loans drawn down from the ESFS , or other programme funding 
+accessed by Ireland during the financial crisis.  
+ 
+5.8.10.  Multi -purpose functions  
+The treatment of these transactions depends on their size: in general, where multi -purpose 
+transactions (or total transactions for a particular government unit) amount to less than approximately 
+EUR 50 million, they are assigned to the predominant function, while transactions (or total 
+transactions for a unit) larger than that threshold are split into component functions using additional 
+data sources (see 5.8.4  above).  
+
+ 
+120 5 Individual countries' compilation practices  
+Manual on COFOG

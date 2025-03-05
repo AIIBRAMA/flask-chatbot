@@ -1,0 +1,11 @@
+al government bodies ’ expenditure is classified by function on the basis of their 
+main activity which usually  relate s to a single function.  For research bodies , expenditure is allocated 
+to COFOG using a brid ge matrix between the NABS nomenclature (used for the research 
+expenditure classification and adopted by the OECD Fr ascati Manual) and COFOG.  In general, 
+expenditur e transactions are split among  the different functions concerned.  
+The COFOG classification h as yet to be adopted in local government units’ budgets, so bridge 
+matrices are used to convert data from the public accounts’ functional classification to COFOG. 
+Whenever a bridge matrix is used the correspondence is established at the third COFOG level; 
+however, this  does not exclude that further investigations and revisions in the COFOG codes are 
+sometimes required. At the local government level the basic functional classification of expenditure is 
+generally quite precise, except within the regions, wher e

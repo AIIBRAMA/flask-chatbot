@@ -1,0 +1,16 @@
+ I stat 
+method ology  is based on the perpetual inventory method (PIM) applied to a complete data set on  
+fixed assets and branches of e conomic activity  for th e groups of institutions  belonging to the  general 
+government subsector s.  
+5.13.8.  Methodological soun dness  
+In the December edition the Italian  COFOG tables are consistent with the other GFS and ESA tables 
+
+ 
+ 133 5 Individual countries' compilation practices  
+133 
+Manual on COFOG statistics  disseminated by Istat  in the preceding autumn  round.  
+The methodological guidance and the rules concerning the valid correspondence between COFOG 
+classi fication and economic transactions are applied. Some exceptions are possible , for example in 
+the case of  FISIM and interest . However,  as the recording of expenditure on interest and FISIM in 
+COFOG 01.7 is applied to the  whole time series, w here negative va lues of FISIM are recorded , this 
+recording might lead to a negative value for P.3 in COFOG 01.7 at the subs

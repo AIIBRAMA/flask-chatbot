@@ -1,0 +1,27 @@
+ -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”  A1/U  A1/U  A1/U  A1/U  
+Central government bodies  A3/U  A3/U  A3/U  A3/U  
+Other  - - - - 
+
+ 
+ 127 5 Individual countries' compilation practices  
+127 
+Manual on COFOG statistics    Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Local Government      
+Municipalities  A2/U  A2/U  A1/U  A1/U  
+Localities  A2/U  A2/U  A1/U  A1/U  
+Local government bodies  A1/A2/U  A1/A2/U  A1/A2/U  A1/A2/U  
+Other  - - - - 
+Social Security Funds      
+Social Security main unit  A3/U  A3/U  A3/U  A3/U  
+Social security bodies  A3/U  A3/U  A3/U  A3/U  
+Other  - - - - 
+ The coding used in the table is described in section 5.1.2.  
+5.11.6.  Individual and collective final consumption 
+expendi ture 
+P.51c on R&D assets created on own account are recorded in the group of purpos e. 
+5.11.7.  Consumption of fixed capital expenditure  
+Method 4  is use

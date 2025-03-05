@@ -1,0 +1,11 @@
+ion  allocated  in the budgets would lead to certain inaccuracies. 
+Therefore,  alternative allocation procedures, depending on the value  of the expenditure items, are 
+applied. These includ e: a breakdown of a budget function on several COFOG groups by means of 
+additional statistical information (e.g. ESS PROS, national health accounts, national environmental 
+accounts, national R&D survey, special surveys or special analysis) ; an allocation to  the principal 
+COFOG group (particularly if the expenditure item is “less important” or the function of the budget 
+goes together with COFOG group) ; or, in the case of the central budget , by using additional 
+information on individual budgets (e.g. Federal M inistry of Interior) or their subordinated units (e.g. 
+Federal Statistical Office).  
+For the compilation of ESA  2010  aggregates - table 11 00 in the transmission programme  - the main 
+information used is the economic kind of the revenues and expenditure  (clas sification by objec

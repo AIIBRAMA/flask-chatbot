@@ -1,0 +1,12 @@
+ public accounting  (named "classification fonctionne lle"). For social security funds , the 
+classification is made by units but some specific corrections are made by INSEE for benefits (social 
+transfers in kind or benefits in cash) , in order to split into  health and social protection functions , or to 
+allocate  at the second level within health or social protection .  
+Concerning t ransfers , when they are not assigned  to a specific function they are classified under 
+“transfers of a general character between different levels of government” (01.8) . This results in a 
+slight bias compared with what would be the case if such transfers were broken down by the function 
+of the expenditure of the recipient.  
+Classification at source is not available for years before 2000. For years 1995 to 1999, estimates 
+were made based on t he 1995 source data. Data for the years before 1995 are not available.  
+5.11.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n

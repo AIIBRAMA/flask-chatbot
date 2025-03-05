@@ -1,0 +1,13 @@
+l on COFOG statistics  5.3.7.  Consumption of fixed capital expenditure  
+Amortisation rates are calculated for consumption of fixed capital for assets owned by corresponding 
+branches. These rates are applied to the value of each type of asset owned by general government 
+units. Method 2 is used (PIM method) to allocate P.51c  to COFOG.  
+5.3.8.  Methodological soundness  
+Eurostat’s consolidation rules are applied. The data are consolidated as required by table 0200.  
+5.3.9.  One-off transactions  
+Following the major reform in 2000, public hospitals were established as non -profit companies. Over 
+the period 2000 -2005 the relevant proportions of funding from government and sales shows that they 
+should be treated as non -market producers. They w ere reclassified from the no n-financial 
+corporation sector to the general government sector.  
+In 2014 D.9 is high because a major bank was declared bankrupt and a deposit insurance fund made 
+a payment to cover the guarant eed deposits 

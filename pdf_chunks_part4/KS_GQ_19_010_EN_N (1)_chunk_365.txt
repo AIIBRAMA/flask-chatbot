@@ -1,0 +1,21 @@
+5.9.4.  National functional classification and compilation 
+methodology  
+For the general government sector for years t -1 and earlier, each transaction is classified according 
+to ESA  2010  and to a COFOG function code. Data for the COFOG table compilation are aggregat ed 
+and recorded in the COFOG table on a consolidated basis and in accordance with the data recorded 
+in ESA Table 0200.  
+For the year t, COFOG data are compiled using the structure observed in year t -1, and all the 
+available information for year t, at the t ime of the compilation of the COFOG table.  
+5.9.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”   A1/U   A1/U  
+Central government bodies   A3/U  A3/U  
+Other    -   - 
+Local Government      
+Municipalities   A1/U   A1/U  
+Localities   A1/U   A1/U  
+Local government bodies   A3-E/U  A3-E/U 
+Other          
+Social Security Fund

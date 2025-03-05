@@ -1,0 +1,18 @@
+local government expenditure  remain problematic and 
+additional analyses are used, for example, to a llocate D.7 and D.9 for S.1313. In this case, the 
+Budget execution of the 3 biggest cities with the highest level in D.7 or D.9, is used to allocate 
+expenditure to COFOG groups .  
+5.12.11.  Other comments  
+None . 
+
+ 
+ 131 5 Individual countries' compilation practices  
+131 
+Manual on COFOG statistics  5.13.  Italy 
+5.13.1.  Institutional arrangements  
+COFOG statistics are c ompiled by the National Institute of Statistics (Istat) and are based on 
+accounting data compiled by institutions belonging to general government or other statistical sources.  
+5.13.2.  Publication of data on a national level  
+Istat disseminates general government ex penditure by COFOG annually on its data warehouse 
+(I.Stat) under the National Accounts theme  for final consumption expenditure  and expenditure items . 
+COFOG data are consistent with the latest GFS data produced and sent to Eurostat in the au

@@ -1,0 +1,19 @@
+es it is possible to assign expenditure to a specific function. In the case where 
+expenditure belongs to more than one funct ion, the expenditure is split accordingly if qualified 
+information to do so is present. If a split is not possible  the expenditure is assigned to the dominant 
+function.  
+5.5.11.  Other comments  
+Sales of land (NP.1) are recorded in the group of the entity selling the  land and so are reco rded 
+according to former use.  
+
+ 
+ 111 5 Individual countries' compilation practices  
+111 
+Manual on COFOG statistics  5.6. Germany  
+5.6.1.  Institutional arrangements  
+All work , that is,  the data collection, specification and compilation process  in connection with the 
+production of the COFOG statistics , is carried out by Statistisches Bundesamt.  
+5.6.2.  Publication of data on a national level  
+Tables on COFOG data are published by the statistical office in the annual Fachserie 18, Reihe 1.4 
+(final results).  
+The Fachserie 18, Reihe 1.4 is available as  an E

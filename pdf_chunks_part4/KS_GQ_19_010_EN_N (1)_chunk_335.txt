@@ -1,0 +1,17 @@
+tices  
+107 
+Manual on COFOG statistics  for other COFOG divisions,  semi -budgetary organisations are classified in to division 09  according to 
+their prevailing activity. All expenditure  of these units are then converted , according to coefficients 
+obtained from the Ministry of Education , into 3 digit  partial COFOG group s within the division.  These 
+coefficients are based on a division of education in accordance with ISCED cl assification.  
+5.4.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      “The State” (budgetary organizations)  A1/U  A1/U  A1/U  A1/U  
+Central government bodie s and  
+state extra -budgetary funds  A1/U  A1/U  A1/U  A1/U  
+Semi -budgetary organizations  A3/U  A3/U  A3/U  A3/U  
+Other central government units  A3/U  A3/U  A3/U  A3/U  
+Local Government      Municipalities  A1/U  A1/U  A1/U  A1/U  
+Localities  A1/U  A1/U  A1/U  A1/U  
+Loca

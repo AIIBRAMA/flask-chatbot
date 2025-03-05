@@ -1,0 +1,20 @@
+3 
+Subsector  1st level 2nd level  1st level  2nd level  
+Central Government      “The State”   A1(A2)/U   A1(A2)/U  
+Central government bodies   A1(A2)/U;E   A1(A2)/U  
+Other    -   - 
+Local Government      Municipalities   E  A1(A2)/U  
+Localities   E  A1(A2)/U  
+Local government bodies    E  A1(A2)/U  
+Other    -   - 
+Social Security Funds      Social Security main unit    NA   NA 
+The coding used in the table is described in section 5.1.2.  
+5.8.6.  Individual and collective final consumption 
+expenditure  
+There are n o problems with the COFOG classification of (P .3) final consumption expenditure or with 
+the COFOG classification of individual vs. collective expenditure.  
+P.51c on own -account created R&D assets is being recorded in R&D groups, i.e. in the group where 
+the a sset was created.  
+5.8.7.  Consumption of fixed capital expenditure  
+Method 2 : The perpetual inventory method (PIM) for each subsector of general government  is used.  
+This involves maintaining details o

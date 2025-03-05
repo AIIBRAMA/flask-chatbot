@@ -1,0 +1,18 @@
+t).  
+The nomenclature of the social security funds is different from the nomenclatures of other general 
+government units described above, except for the Federal Employment Agency which has the same 
+classification for the economic kind of  receipts and expenditure  as the central government. They use 
+classifications called “Kontenpläne” (table of accounts) which are adapted to their specific tasks. 
+Unlike the other nomenclatures, within these classifications an expenditure or revenue item is  only 
+allocated to one dimension. These tables of accounts are sufficiently detailed that an expenditure 
+item can directly be assigned to a certain COFOG group.  
+
+ 
+112 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.6.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”  A1/U  A1/U1), 2) A1/U  A1/U1), 2) 
+Central government bodies

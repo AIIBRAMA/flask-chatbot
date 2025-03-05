@@ -1,0 +1,17 @@
+between the two classifications, t he link between programmes and COFOG 
+groups was established using percentages. A joint Istat - Ministry of the Economy task force 
+produced a bridge table between COFOG and the programmes with the aim of fulfilling the 
+accounting law requirements and providing the national accounts with COFOG classification s. 
+Although this new classification was implemen ted very early  for the main central government body 
+(‘the State’) , it has only been adopted at a local level from 2016. As a consequence, inclusion in 
+national account s compilation practices may lead to an improvement in COFOG data at the next 
+benchmark re vision planned for  2019.  
+5.13.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      
+“The State”   A1/U; E   A1/U  
+Central government bodies   A3/U; E   A2/U  
+Other         
+Local Government      
+Municipalities, Provi

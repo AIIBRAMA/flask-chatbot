@@ -1,0 +1,22 @@
+della Costituzione ) as 
+amended by 196/2009  mentioned above,  should  help to provid e a better database for the functional 
+allocation . 
+With the 2019 transmission of data the time series for FISIM is aligned  with Eurostat guidance ; 
+estimates of transfers between general government subsectors are revised;  and new information on 
+functions at local government level is introduced.  
+5.13.9.  One-off transactions  
+Some large “no n recurrent” transactions affecting COF OG time series are listed below.  
+Period  Transaction  Description  Cofog 
+code  Sub-
+sector 
+involved  
+1999  D9 Reimbursements to Households of the 60% of the 
+so-called “Special tax to Europe”  01.1  S.1311  
+2004  D9 Reclassification of a body from S.13  01.1  S.131 1 
+2012 
+onwards  D9 Imputation of non -standardised guarantees  01.1  S.1311  
+2016 -17 D9 Payments made within the framework of the 
+compulsory scheme FITD (Fondo di Tutela dei 
+Depositi) and the Solidarity Fund  01.1  S.1311  
+2002 -
+2006  D9 Deb

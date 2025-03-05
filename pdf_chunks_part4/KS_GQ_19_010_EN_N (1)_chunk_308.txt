@@ -1,0 +1,11 @@
+ need not g ive the same results for expenditure on those functions as in the COFOG 
+breakdown. Satellite accounts will generally give higher results because they count all of the 
+expenditure on the activity using a detailed breakdown, whereas in the COFOG classificati on the 
+main activity is considered under the main purpose while the auxiliary activities are classified under 
+the specific purposes.  
+COFOG data can differ from satellite accounts data related to the same topic because COFOG 
+provides a classification of tot al government expenditure, and needs to reach a full consistency 
+among the 10 divisions and their breakdowns. On the other hand, satellite accounts, using ad hoc  
+classifications, provide specific focus on a single theme of expenditure and do not generally need to 
+constrain additivity to the total expenditure. In such a way satellite accounts are able to enlarge the 
+scope of the classification issue with respect to the COFOG nomenclature, including activities

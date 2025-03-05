@@ -1,0 +1,15 @@
+thout 
+cross -classification with e conomic classification.  
+The compilation of COFOG data takes this basic data from the financial reports of individual 
+units with COFOG codes allocated according to the main activity of the unit, and then uses 
+bridge tables to allocate the main ESA 2010 cate gories. This provides data for transaction 
+categories D.1, P.2, P.11 and P.131. For other economic categories, a combination of data 
+sources is used. Some of the additional data sources include the Execution of Budget for CG 
+and b iggest cities (S.1313) and  the y early report of Croatian Health Insurance Fund . 
+5.12.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      “The State”  A2/A3/U  A2/A3/U  A2/A3/U  A2/A3/U  
+Central government bodies  A2/A3/U  A2/A3/U  A2/A3/U  A2/A3/U  
+Other  A3/U  A3/U  A3/U  A3/U  
+Local Government      Municipalities  A2/A3/U  A2/A3/U  A2/A3/

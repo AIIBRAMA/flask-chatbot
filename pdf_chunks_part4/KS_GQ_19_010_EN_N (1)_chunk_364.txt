@@ -1,0 +1,19 @@
+ statistics  
+5.8.11.  Other comments  
+The proceeds of sales of land must be relinqui shed to the central fund for redistribution within the 
+system and so will be record ed in group 01.1 general public services. However, if the selling entity 
+can retain the funds and use them for their own purposes then the proceeds are record ed in the 
+funct ion of the selling entity . 
+
+ 
+ 121 5 Individual countries' compilation practices  
+121 
+Manual on COFOG statistics  5.9. Greece  
+5.9.1.  Institutional arrangements  
+The COFOG statistics are produced by the Greek Statistical Office.  
+5.9.2.  Publication of data on a national level  
+The COFOG analysis is not published by the statistical office but is available on Euros tat’s website.  
+5.9.3.  Revisions policy  
+Data for the year t, t -1, t-2 and t -3 in the COFOG table are revised every year in December. Years 
+before t -3 are considered ‘final’. Nonetheless, revisions for previous years may occur for consistency 
+with ESA T able 0200.  

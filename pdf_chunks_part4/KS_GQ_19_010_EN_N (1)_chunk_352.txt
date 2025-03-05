@@ -1,0 +1,18 @@
+s are classified according to the purpose of the 
+transaction using all available information: budgetary classification and bud get explanatory notes, 
+and the annual reports of other general government bodies that specify in which area they have 
+given benefits or other support. If detailed data are not available then the amounts are allocated to 
+the function of the unit. In the cas e of transfers with a general purpose between central and local 
+government the amounts are classified under the COFOG group 01.8.  
+5.7.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      “The State”   A1/U   A1/U  
+Central government bodies   A1/U   A1/U  
+Other    -   - 
+Local Government      Municipalities   A1/U   A1/U  
+Local government bodies   A1/U   A1/U  
+Other    -   - 
+Social Security Funds      Social Securit y main unit   A1/U   A1/U  
+Other    -   - 
+The coding used in the

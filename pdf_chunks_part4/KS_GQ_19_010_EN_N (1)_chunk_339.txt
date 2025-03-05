@@ -1,0 +1,13 @@
+-3 are revised in  November . 
+From 2020 onwards the revision policy will be chan ged. Data for t -1 will still be updated three times a 
+year: in March, June and now September. However, in September  only a few variables not affecting 
+GDP will be revised. Data for t -2 and t -3 will be revised in June instead of November.  
+5.5.4.  National functiona l classification and compilation 
+methodology  
+The present version of the COGOG manual is used for the national functional classification.  
+The basis for the functional classification is the detailed accounting data from the state, regions and 
+local governmen t. Around 55  000 transactions are given a COFOG code.  
+It is generally possible to relate these expenses to a specific function.  However, s ome expenses 
+relate to several functions and these are allocated to the relevant functions  using  coefficients that are  
+calculated on the basis of supplementary information.  
+Transfers between government units are allocated by functio

@@ -1,0 +1,25 @@
+s      
+Social Security main unit   A1-A2-
+A3/U   A1-A2-
+A3/U  
+Social security bodie s  -  - 
+Other    -   - 
+The coding used in the table is described in section 5.1.2.  
+
+ 
+122 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.9.6.  Individual and collective final consumption 
+expenditure  
+The allocation of expenditure to individual and collective consumption is based on the functions.  
+All capital consumption of R&D expenditure is in collective consumption. It is allocated to COFOG 
+group 01.5, R&D general public services.  
+5.9.7.  Consumption of fixed capital expenditure  
+Method 1 is followed  for each subsector  and branch of activit y of the general government sector.  
+5.9.8.  Methodological soundness  
+The data are consolidated as required by ESA table 11 00. 
+5.9.9.  One-off transactions  
+The only cases reported  are the bank -related transaction s during the financial crisis (mainly in 2013 
+and 2015) . 
+5.9.10.  Multi-purpose functions  
+No

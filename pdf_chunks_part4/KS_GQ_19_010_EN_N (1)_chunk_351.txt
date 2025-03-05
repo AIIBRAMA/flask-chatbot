@@ -1,0 +1,18 @@
+nction of secondary 
+education.  
+For the compilation of COFOG statistics, pupil numbers at different levels/ classes are used to split 
+the operating cost and investments of educational units. For schools providing both primary and 
+secondary level education, adjustments are made using the nu mber of lessons per week as weights.  
+On the revenue side the functional classification is  used  for educational activities and grants 
+received . Other i nformation is only available at  the level of institutions and revenue accounts. 
+                                                           
+ 
+71 Go to: Economy/Finance/Government finances/Revenue, expenditure and debt -Table GF056: Expenditure of General Government by 
+function and subsector).  
+
+ 
+ 115 5 Individual countries' compilation practices  
+115 
+Manual on COFOG statistics  COFOG is assigned using th e bridge tables.  
+Interest expenses and FISIM are allocated to the COFOG group 01.7.  
+Social benefits, subsidies and other transfer

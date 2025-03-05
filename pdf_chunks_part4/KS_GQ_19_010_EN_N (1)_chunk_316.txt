@@ -1,0 +1,15 @@
+ent by purpose . The advantage of this latter classification is that it remains stable over time  
+and is not influenced by changes in the practical distribution of t asks amongst  the v arious authorities. 
+For the other entities not included in the main states, the administration assigns one COFOG code 
+which is used for all of their economic transactions.  
+These data sources for the main states and the other entities make it possible to co mpile the 
+COFOG table consistent with government expenditure shown in table 0200.  
+Data concerning the years t -1 and t -2 are transmitted by 15 June year t by the authorities  to the 
+General D ocumentary  Base which places them at the disposal of the National A ccounts  Institute.  
+
+ 
+100 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+Local Government  
+In 2017 t he subsector  of local government cover ed 10 provinces, 589 municipalities, 589 welfare 
+centres, 1 87 police zones , 34 aid zones and other local pub

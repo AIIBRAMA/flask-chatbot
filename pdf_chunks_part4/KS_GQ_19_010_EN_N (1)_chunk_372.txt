@@ -1,0 +1,18 @@
+ 
+Once the expenditure by transaction has been classified to level II of the COFOG categories, the split 
+between individual and collective final consumption exp enditure is automatically determined.   
+P.51c on R&D assets produced for own account is recorded in the group of purpose .  
+5.10.7.  Consumption of fixed capital expenditure  
+Method 2.  
+5.10.8.  Methodological soundness  
+Overhead services are correctly allocated to the appropria te division, rather than to general services.  
+
+ 
+ 125 5 Individual countries' compilation practices  
+125 
+Manual on COFOG statistics  The preferred option on consolidation in the Manual is followed.  
+5.10.9.  One-off transactions  
+The more relevant one -off transactions have been a RENFE debt assumption of EUR 3.7 billion in 
+2004, and interventions to s upport financial institutions totalling EUR 5.1 billion in 2011, EUR 39.1 
+billion in 2012 and EUR 3.0 billion in 2013. These transactions were recorded as capital transfers 
+(D.9) and assign

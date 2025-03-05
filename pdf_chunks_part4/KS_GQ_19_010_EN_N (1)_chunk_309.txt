@@ -1,0 +1,33 @@
+ that 
+are auxiliary with respect to the main purpo se according to the COFOG framework.  
+Table  11: Some examples of classification in satellite accounts  
+  COFOG 
+statistics  R&D 
+statistics  Health 
+accounts  Environment 
+accounts  Social 
+protection 
+statistics  Education 
+statistics  
+Foreign aid for R&D 
+into disease 
+prevention  Foreign 
+economic 
+aid Health 
+R&D  R&D        
+Study of impact of 
+poverty on health  Health 
+R&D  Health 
+R&D  R&D    R&D    
+Production of 
+energy from 
+renewable sources  Fuel & 
+energy      Energy      
+Training medical 
+doctors  Tertiary 
+education    Training      Medical  
+The table is not meant to give recording advice on the examples given but just to illustrate how 
+COFOG is restricted to assigning an activity to one category, but the activity could appear in one or 
+more satellite accounts and differ from the C OFOG category.  
+More information on satellite accounts can be found in ESA 2010 chapter 22, 2008 SNA chapter 29 
+as well as in the

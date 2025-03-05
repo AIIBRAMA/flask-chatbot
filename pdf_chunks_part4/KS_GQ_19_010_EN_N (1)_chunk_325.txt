@@ -1,0 +1,13 @@
+tailed level on the expenditure side. There is information by function such that 
+each function is broken -down by activity codes and each activity code is divided into paragraphs. The 
+reports for the execution of the budget are prepared on the basis of the national budget classification. 
+There is a bridge table that converts data from Sta te Budget classification into COFOG codes.  
+COFOG, NACE and ESA  2010  classifications are added to the basic data supplied by the MF. This 
+enables the compilation of the indicators that are needed for tables 0200, 0800, 0900 and 1100 , and 
+the supply and use  table.  
+The general government sector of Bulgaria comprises 3 subsector s: S.1311, S.1313 and S.1314 as 
+follows:  
+Central government subsector ( S.1311 ), which includes : 
+The State Budget (central budget, Ministries’ budgets, the budget of the National Assemb ly, the 
+budget of the National Audit Office, Judiciary Authorities’ budget, the budgets of the executive 
+bodies, and the budg

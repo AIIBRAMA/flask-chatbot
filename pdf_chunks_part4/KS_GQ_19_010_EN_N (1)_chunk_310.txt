@@ -1,0 +1,20 @@
+ corresponding Manuals and Handbooks of satellite accounts compiled at European 
+level.  
+ 
+ 
+
+ 
+ 97 5 Individual countries' compilation practices  
+97 
+Manual on COFOG statistics  5.1. Introduction  
+5.1.1.  Sources of information  
+These country pages provide details of sources and methods for the compilation of COFOG 
+statistics. In the meeting of the Task Force on COFOG of 20th May 201 5, the country representatives 
+agreed to update t he information on individual countries’ compilation practices contained in the first 
+edition of the Manual (2007). Eurostat sent the relevant country pages to the representatives, and 
+countries replied with an amended set of pages.  
+5.1.2.  Coding system for data sources  
+For each country, the section on “Availability and use of data sources” includes a table that uses the 
+following coding system to describe different types of source data. These codes are listed and 
+explained below.  
+A1: function code is available fo r each item of expenditure

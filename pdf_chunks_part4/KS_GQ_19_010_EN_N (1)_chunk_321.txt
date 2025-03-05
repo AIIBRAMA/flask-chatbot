@@ -1,0 +1,14 @@
+ partial data and is therefore 
+provisional. When the functional tables are drawn up in November  or December of t+1, the 
+individual/collective distinction is refined. The se new results are then included in the accounts in 
+March  t+2. 
+The COFOG data is used as the basis to divide final consumption expenditure into individual and 
+collective consumption.  However, as the COFOG data  are only recalcula ted after current revisions, 
+an estimate of the revision in COFOG has to be used in tab le 0200. If these estimates are not 
+confirmed by  the final COFOG data , inconsistencies between general government accounts and 
+COFOG statistics can be come systematic as the time series in table 0200 can only be revised at the 
+time of current revisions.  
+P.51c on own -account created R&D assets is being recorded in R&D groups, i.e., in the group where 
+the asset  was created.  As a result this expenditure is collective expenditure.  
+5.2.7.  Consumption of fixed capital expenditure  
+Method 2

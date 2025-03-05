@@ -1,0 +1,13 @@
+ is used  where f ixed capital cons umption is calculated through the detailed perpetual 
+inventory method (PIM) for each subsector  of general government sector . This information is then 
+assigned to a limited set of COFOG groups such as basic research, military defence, transport, 
+waste manag ement, education not defined by level, and social exclusion n.e.c. T he rest is allocated 
+entirely to  the COFOG group general public services.  
+5.2.8.  Methodological soundness  
+These data sources  are considered of good quality. O verhead costs are generally classifi ed to the 
+appropriate function rather than a generic category . Consolidations are made  as required.  
+The distribution of R&D over the COFOG groups is not complete ; there is no detailed information on 
+the R&D performed by universities and high schools and t he total amount is therefore recorded in 
+COFOG group 01.4 basic research . 
+5.2.9.  One-off transactions  
+The functional data series of Belgium are stable but can b

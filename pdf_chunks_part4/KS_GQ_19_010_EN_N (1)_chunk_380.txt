@@ -1,0 +1,12 @@
+from the financial reports of individual units is given COFOG codes according to main activity of 
+the unit and bridge tables are then used to allocate transactions from the financial reports to ESA 2010 . 
+5.12.2.  Publication of data on a national level  
+COFOG statistics are not currently published on a national level but the plan is to make this data 
+available in  the near future. ESA table 0200 for S.13 and table 9 for S.13 are published on the 
+Croatian Bureau of Statistics website : label National Accounts/  Government Finance Statistics.  
+5.12.3.  Revisions policy  
+The COFOG statistics, table 1100 of the ESA transmission program me, are transmitted at t+12 
+months. These figures are consistent with table 0200 on general government accounts transmitted to 
+Eurostat at t+9 months. No special revisions policy applies for COFOG statistics. Revisions of 
+government finance statistics are used to update the COFOG statistics in order to maintain 
+consistency between all GFS/EDP tab

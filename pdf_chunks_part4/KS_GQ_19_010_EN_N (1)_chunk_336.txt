@@ -1,0 +1,18 @@
+l g overnment bodies and semi -budgetary 
+organisations  A3/U  A3/U  A3/U  A3/U  
+Other local government units  A3/U  A3/U  A3/U  A3/U  
+Social Security Funds      
+Social security bodies and  
+health insurance companies  A1/U  A1/U  A1/U  A1/U  
+Other government bodies classifi ed in S.1314  A1/U  A1/U  A1/U  A1/U  
+The coding used in the table is described in section 5.1.2.  
+5.4.6.  Individual and collective final consumption 
+expenditure  
+The calculation of government individual and collective consumption is based on COFOG (2nd level) . 
+5.4.7.  Consumption of fixed capital expenditure  
+Method 2 is used. The detailed p erpetual inventory method (PIM)  is applied, according to NACE 
+classification, to each subsector and branch of general government.  The data are then bridged i nto 
+individual functions of government according to COFOG.  
+5.4.8.  Methodological soundness  
+Eurostat’s consolidation rule is applied. Consistency of  COFOG statistics with  annual sector 
+accounts as w

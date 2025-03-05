@@ -1,0 +1,24 @@
+  A1/U  A1/U1), 2) A1/U  A1/U1), 2) 
+Other          
+State Government      
+State Government main unit  E* E*1), 2) A1/U  A1/U1), 2) 
+State government bodies      
+Other          
+Local Government      
+Municipalities  E* E*1), 2) A3/U  A3/U1), 2) 
+Localities  E* E*1), 2) A3/U  A3/U1), 2) 
+Local government bodies      
+Other          
+Social Security Funds      
+Social Security main unit  A2/U  A2/U1), 2) A2/U  A2/U1), 2) 
+Social security bodies      
+Other          
+E* =ESA  2010  economic category does exist.  
+1) =Plus additional information from other statistical reporting systems and special analysis.  
+2) =Data in preparation  
+The coding used in the table is described in section 5.1.2.  
+5.6.6.  Individual and collective final consumption 
+expenditure  
+No problems  are encountered  when breaking down fina l consumption expenditure into individual and 
+collective final consumption exp enditure . 
+P.51c on own -account created R&D assets is being recorded in R&D groups, i.e. in t

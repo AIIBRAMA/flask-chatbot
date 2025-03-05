@@ -1,0 +1,18 @@
+s provided by the accoun ting entity but with no link to the ESA  2010  economic categories. 
+Estimates are needed to link the  economic and functional codes, and might be based on information 
+from other sources.  
+A3: function code is attributed to a given entity or unit  
+This is where a function code is allocated to the entity or  unit as a whole, perhaps at  a second level, 
+according to its main activity. This often occurs for units that are not in themselves government 
+departments, and so not within the standard government financial rep orting system, but are funded 
+by Government and classified to the central government sector because of certain controls the 
+government has over them.   5.  
+ 
+5 Individual countries’ 
+compilati on practices  
+
+ 
+98 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+E: function codes estimated using previous year’s source data  
+This is where the data source containing th e functional breakdown is not available when th

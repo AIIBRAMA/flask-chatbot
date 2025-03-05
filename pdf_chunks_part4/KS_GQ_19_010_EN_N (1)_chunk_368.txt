@@ -1,0 +1,14 @@
+ectors theme from 1999 .  
+5.10.3.  Revisions policy  
+In December of year n , the first estimate of the COFOG statistics for year n -1 is made. In the same 
+month, th e data for year n -2 are updated. Estimates for previous years are generally not revised 
+since ESA table 11 is always consistent with ESA table 2 transmitted to Eurostat in the month of 
+September and, in this table, data for years n -3 and n -4 are not usuall y revised. In the benchmark 
+revisions, if necessary, COFOG statistics would be updated from 1995 . 
+5.10.4.  National functional classification and compilation 
+methodology  
+The methods for the compilation of COFOG statistics depend on whether the entity is subject to 
+public or private accounting. In the first case, the most common, the main source is the expenditure 
+budget settlement, where the information is presented on the basis of three criteria:  
+ Purposes or objectives that the budget aims to achieve. The spending programs constitute 
+the basic unit o

@@ -1,0 +1,21 @@
+d.  P.51c by function follows the structure of P.51  by function and subsector . P.51c is 
+allocated to functions acco rding to the structure of P.51 g in the year,  broken down by function in 
+each subsector . 
+5.11.8.  Methodological soundness  
+The COFOG data are consistent with other functional classifications to the extent that the definitions 
+and contents are the same.  
+5.11.9.  One-off tran sactions  
+There are no such cases.  
+5.11.10.  Multi -purpose functions  
+Current transfers (D.7) from the State to local government authorities are not broken down in terms 
+of local authority expenditure when such transfers are not indicated as being for a specific funct ion. 
+5.11.11.  Other comments  
+For sales of land (NP.1) the COFOG classification is included in DGFiP database, following the 
+public accounting “classification fonctionnelle” . 
+
+ 
+128 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.12.  Croatia  
+5.12.1.  Institutional arrangements  
+Th

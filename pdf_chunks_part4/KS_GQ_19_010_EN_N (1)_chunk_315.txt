@@ -1,0 +1,14 @@
+sion.  Revisions only 
+concerning COFOG data, thus not changing the totals in the general government accounts, are 
+allowed  for the entire time series. This means that the distribution of P.31/P.32 can change within 
+COFOG resulting in inconsistencies with table 0200 where revisions are not allowed.  
+5.2.4.  National functional classification and compilation 
+methodology  
+Central (federal ) Government  and State Government s 
+From 1996,  the federal government classifies its transactions on the basis of the Benelux functional 
+classification of expenditure and revenue of  general government  (Benelux 19 89) which is consistent 
+with COFOG 1981 . Since 2004, COFOG 1999 has been used . 
+The COFOG accounts of general government are compiled using breakdowns of expenditure and 
+revenue for  each of the entities in the general government sector. For the main states there is, in 
+addition  to the economic categor y breakdown, a breakdown outlining the tasks carried out by general 
+governm

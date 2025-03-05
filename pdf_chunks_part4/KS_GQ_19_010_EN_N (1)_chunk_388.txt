@@ -1,0 +1,16 @@
+tumn .  
+The latest published time series are under the heading Uscite annuali per funz ione e sottosettore: 
+voci d ’uscita. The COFOG a nalysis is available by division from 1995 and by group from 2001 for 
+both general government and its subsectors.  
+5.13.3.  Revisions policy  
+Unless there is an extraordinary  event that requires an exceptional revision, t he data for the latest 
+year and 3 back years a re updated once a year in December  with the transmission of table 11 00 to 
+Eurostat.  
+5.13.4.  National functional classification and compilation 
+methodology  
+The COFOG compilation methodology differs by subsector and within subsectors for each group of 
+bodies accord ing to the availability and detail of the functional information within the individual data 
+sources.  
+At the central government level  the current version of COFOG is applied to ‘the State’s ’ data sources.  
+This COFOG classification has been available at the  third level since 1999.  
+In general, o ther centr

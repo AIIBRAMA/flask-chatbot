@@ -1,0 +1,15 @@
+xcel file  or in PDF format . 
+5.6.3.  Revisions policy  
+Initial results for the latest year (t) are generally calculated in Au gust (t+1) and published in 
+September. In connection with this, the results for the three previous years (t -1, t-2 and t -3) are 
+updated.  
+5.6.4.  National functional classification and compilation 
+methodology  
+In all German budgets every revenue and expenditure ite m is assigned an eight -digit code that 
+includes a three -digit code for the economic category of the revenue or expenditure , and a three -digit 
+code for the function, whereby every item is classified under only one function - i.e. the most 
+important one. The  classification in the budgets is important  for the allocation of expenditure items to 
+COFOG 1st level as the classification for the function in the budgets fits well with the COFOG 
+divisions.  
+For the compilation of figures at COFOG 2nd level (groups) an approach which relies exclusively o n 
+the three -digit code for the funct

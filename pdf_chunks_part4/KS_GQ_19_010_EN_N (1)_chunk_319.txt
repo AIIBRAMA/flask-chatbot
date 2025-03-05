@@ -1,0 +1,15 @@
+ units. Therefore , a 
+functional  code is assigned to the whole unit, resulting in the expenditu re receiving the same function  
+code. In some instances, the smallest identifia ble bodies in the national accounts may carry out  more 
+than one function. In these  case s it may be possible to divide the expenditure of multi -function bodies 
+between functions using various data relating to their expenditure. When this is not possible , all the 
+expenditure of the multi -function unit is assigned to the function corresponding to the major portion of 
+the expenditure.  
+5.2.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level 
+Central Government      Main federal government unit  A1/U  A1/U  A1/U  A1/U  
+Central government bodies  A3/U  A3/U  A3/U  A3/U  
+State Government      State Government main units  A1/U  A1/U  A1/U  A1/U  
+State government bodies  A3/U  A3/U  A3/U  A3/U  
+Local Governm ent

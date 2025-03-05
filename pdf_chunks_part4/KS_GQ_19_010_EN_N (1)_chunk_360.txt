@@ -1,0 +1,17 @@
+ata processing, in particular to allow automated 
+splitting of multi -purpose functions.  
+
+ 
+ 119 5 Individual countries' compilation practices  
+119 
+Manual on COFOG statistics  5.8.9.  One-off transac tions  
+In early 2009, the distressed Anglo -Irish Bank was brought into State ownership. Later in 2009, the 
+Minister for Finance made a capital injection of EUR 4 billion into the bank, which was recorded as a 
+capital transfer (D.9) and assigned to function 04.11.  
+Changed treatment of sale of mobile telephony (U MTS) licences  
+On 27 March 2017 Eurostat published a Guidance Note Mobile phone licences, exploration rights 
+and other licences  on the recording of revenues arising from the sale of licences by governme nt. See 
+https://ec.europa.eu/eurostat/web/government -finance -statistics/methodology/guidance -on-
+accounting -rules . 
+This clarifies the ru les for whether sales of licences by government for use of natural resources (e.g. 
+use of the electromagnetic spectrum for mob

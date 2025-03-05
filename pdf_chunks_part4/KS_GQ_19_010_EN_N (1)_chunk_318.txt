@@ -1,0 +1,13 @@
+ars. The sample results were extrapolated for years between surveys. In addition, information 
+found in studies of local finances undertaken by the banking group Dexia , and information from 
+Federal and state government budgets , was used.  
+Social security  
+A codification on  the basis of the social risks and needs is used  for these entities . Most of the data 
+used to compil e the tables of the social security funds come from the "Comptes économiques de la 
+sécurité sociale" published by the Federal Public Service  Social Security . 
+Explanation of table  
+Ideally, the classification  is applied to  individual transactions. Each purch ase, salary payment, 
+transfer or other expenditure  receive s a COFOG function code according to the  purpose it fulfils.  This 
+is done for the main units  at the level of S.1311 and S.1312 , and the main local entities. The 
+information is available in their bud gets.  
+However, this approach is generally not possible for most expenditure by other

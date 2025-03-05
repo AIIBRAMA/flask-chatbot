@@ -1,0 +1,14 @@
+
+account which is available in November n+2, and also with the final account in November n+3.  
+5.11.4.  National functional classification and compilation 
+methodology  
+Accounts headings are classified at the most detailed level by the DG FiP. This classific ation is 
+estimated by INSEE for a provisional account and thus provides a functional classification . The 
+quality of the classification is improved  for the semi -final and final accounts.  INSEE also makes the 
+necessary conceptual corrections to the basic DGF iP data source, for example FISIM, consistent 
+with all GFS tables.  
+The classification in COFOG is made for each subsector and each expenditure item in the DGFiP 
+database. Within central government, for ‘ the S tate’, the classification is made in e ach of the  budget 
+headings (by program me). Concerning other central agencies and bod ies, a COFOG code is 
+allocated to each unit for all of the expenditure . For local government  the classification is included in 
+the

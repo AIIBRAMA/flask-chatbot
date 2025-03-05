@@ -1,0 +1,21 @@
+n of intended use.  
+5.5.5.  Availability and use of data sources  
+  Provisional Year n -1 Final Year n -2 or n -3 
+Subsector  1st level  2nd level  1st level  2nd level  
+Central Government      “The State”  A1/U  A1/U  A1/U  A1/U  
+Central government bodies (extra budgetary 
+units)  A1/U  A1/U  A1/U  A1/U  
+Local Government      Municipalities (98 municipalities and 5 regions)  A1/U  A1/U  A1/U  A1/U  
+Local government bodies ( extra budgetary units)  A1/U  A1/U  A1/U  A1/U  
+Social Security Funds      Social Security main unit  A1/U  A1/U  A1/U  A1/U  
+Social security bodies (extra budgetary units)  A1/U  A1/U  A1/U  A1/U  
+The coding used in the table is descri bed in section 5.1.2.  
+
+ 
+110 5 Individual countries' compilation practices  
+Manual on COFOG statistics  
+5.5.6.  Individual and collective final consumption 
+expenditure  
+The division between collective (P.32) and individual consumption (P.3 1) follows the COFOG 
+manual.  
+P.51c on R&D assets created on own account are 

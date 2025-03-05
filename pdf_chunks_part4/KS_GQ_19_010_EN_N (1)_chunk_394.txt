@@ -1,0 +1,12 @@
+ector level without loss of 
+methodological soundness.  
+Eurostat consolidation rules for D.41, D.7 and D.9 (D.92) are applied to the data. Thus, at the  general 
+government level these aggregat es will only include transfers to other institutional sectors, whereas, 
+at the subsector level the same aggregates will include transfers to other general gov ernment 
+subsectors. The estimation  of the transfers betwee n subsectors by COFOG is complex and time 
+consuming and requires a wider dataset than the consolidated data.   
+Further improvements in the quality of the statistics, namely a more accurate second level 
+classification, depend s heavily on the availability of more detailed data sources, especially for the 
+local government bodies. The standardisation of data sources for local government units should  help 
+here. The State budget and accounting law (196/2009) and the Federalism law (42/2009: Delega al 
+Governo in ma teria di federalismo fiscale, in attuazione dell'articolo 119 

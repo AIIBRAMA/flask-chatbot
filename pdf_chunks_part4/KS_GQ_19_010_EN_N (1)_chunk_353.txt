@@ -1,0 +1,17 @@
+ table is described in section 5.1.2.  
+5.7.6.  Individual and collective final consumption 
+expenditure  
+The borderline between individual and collective final consumption is drawn on the basis of COFOG 
+2nd level.  
+P.51c on own -account created R&D assets is being recorded in R&D groups, i.e. in the group where 
+the asset  was created.  This will result in recording as collective consumption expenditure.  
+5.7.7.  Consumption of fixed capi tal expenditure  
+Method 2 is used to allocate P.51c  to COFOG.  
+5.7.8.  Methodological soundness  
+Eurostat’s consolidation rule is applied.  
+5.7.9.  One-off transactions  
+Starting from the year 2004 the GNP based fourth own resource , and in 2006 excess stock fees paid 
+to EU , had an effect on D.7 in COFOG group 01.1  of general public services.  
+Concerning COFOG division 04, in 2006 there were significant incr eases in transaction D.3 relating  
+to agricultur al subsidies.  
+Since 2005, the classification of the Estonian Oil Stockpiling A

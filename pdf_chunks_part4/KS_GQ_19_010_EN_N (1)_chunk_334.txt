@@ -1,0 +1,13 @@
+assification COFO G. This bridge table is used for compilation of 
+COFOG statistics for central and local budgetary organisations and state extra -budgetary funds.  
+For units which do not use the MOF classification for economic categories and functions, it is 
+necessary to appl y another procedure. This means that each of the semi -budgetary organi sations, 
+public universities , public research institutions, public hospitals  and other government units , for 
+example,  National Property Fund, Czech Consolidation Agency and Railway Infra structure 
+Administration , are classified separately into one  COFOG  group  according to their prevailing activity . 
+All expenditure  of each  institution , for example, intermediate consumption, compensations of 
+employees  and interest,  are therefore  classified i nto this one  COFOG  group .  
+The COFOG division 09 education  is an exception  for which there is a specific treatment. Firstly , as 
+
+ 
+ 107 5 Individual countries' compilation prac

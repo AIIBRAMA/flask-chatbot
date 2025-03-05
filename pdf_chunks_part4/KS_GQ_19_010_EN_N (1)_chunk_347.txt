@@ -1,0 +1,18 @@
+he group where 
+the asset  was created  and this is recorded as collective consumption . 
+5.6.7.  Consumption of fixed capital expenditure  
+Method 2 is used for the calculation o f P.51c on the first level of COFOG. The calculation of P.51c on 
+the second level of COFOG is based on a model approach. Among others the following data have 
+been considered in the model: P.51c on the first level of COFOG (perpetual inventory method), P.51c 
+for industries (perpetual inventory method) and time series of gross fixed capital formation for each 
+subsector  of general government.  
+5.6.8.  Methodological soundness  
+Overhead services are classified correctly to the relevant function rather than to a general f unction. 
+Eurostat’s preferred method for consolidation is applied.  
+
+ 
+ 113 5 Individual countries' compilation practices  
+113 
+Manual on COFOG statistics  5.6.9.  One-off transactions  
+In 2009 the German government established a car scrap scheme for supporting sales of new cars 
+and t

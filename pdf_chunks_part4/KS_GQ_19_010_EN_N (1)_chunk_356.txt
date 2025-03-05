@@ -1,0 +1,14 @@
+ns policy  
+The data for the latest year and up to f our back years ar e updated based on the October EDP data. 
+Any change in methodology will be implemented in earlier years if relevant . 
+5.8.4.  National functional classification and compilation 
+methodology  
+In general, a specific COFOG level 2 function and ESA transaction code are d irectly allocated to 
+each item in the CSO’s detailed database of government transactions. This database is in turn 
+derived from the most detailed available administrative source data for government units.  
+Some transactions in the source data cannot be allo cated to a single function. Where possible, in 
+these cases further data are used to estimate the functional breakdown of the transaction, typically 
+summary functional tables for the unit involved or special data collections. Important areas of 
+expenditure for which this approach is used are listed below:  
+Central Government  
+ Department of Public Expenditure and Reform covering expenditur

@@ -1,0 +1,15 @@
+f fixed assets and branches of economic activities (NACE). This 
+information is then bridged with COFOG functions.  
+P.51c  is calculated using fixed depreciation rates (declining balance).  
+5.8.8.  Methodological soundness  
+Eurostat’s consolidation rules are followed.  
+As noted in 5.8.4  above, informatio n on most  transactions is available in sufficient detail for a single 
+function and transaction code to be assigned to each item. The main exceptions to this are also 
+shown in 5.8.4.  
+Further methodological developments planned for 201 8-2020 are: 
+ Integration  with other international statistical data series for Ireland (research and 
+development, education, health, environmental protection, social protection and agriculture).  
+ Improvements to administrative data sources (particularly for Local Government) to all ow 
+direct cross -classification of items by function and transaction code, where this is not already 
+possible.  
+ Introduction of a new IT system to improve d

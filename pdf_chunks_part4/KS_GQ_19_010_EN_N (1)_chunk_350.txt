@@ -1,0 +1,13 @@
+compilation 
+methodology  
+The PSFS  data are used as the main source for compiling COFOG statistics. Every account entry 
+includes the code of the reporting unit, account number and additionally, if required, the code of 
+counterpart unit, fu nction  code , source code and cash flow code.  
+The functional classification in PSFS  is based on COFOG . The  function code is a five -digit code from 
+which the first three digits correspond to COFOG 2nd level (groups). However,  some inconsistencies 
+between na tional functional classification and COFOG exist, for instance in the second level of 
+COFOG 09 – education.  
+Particular problems arise in classifying expenditure  on education by the level of education . In Estonia 
+most educational institutions provide sever al levels of education. For example, gymnasiums provide 
+education from the primary level through to the secondary  level but, as detailed data are not 
+available, i n PSFS  the expenditure of gymnasiums are allocated to the fu

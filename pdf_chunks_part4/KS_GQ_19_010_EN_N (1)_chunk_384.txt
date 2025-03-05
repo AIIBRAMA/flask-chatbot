@@ -1,0 +1,18 @@
+U  A2/A3/U  
+Localities  A2/A3/U  A2/A3/U  A2/A3/U  A2/A3/U  
+Local government bodies  A3/U  A3/U  A3/U  A3/U  
+Other  - - - - 
+Social Security Funds      Social Security main unit  A3/U  A3/U  A3/U  A3/U  
+Other  - - - - 
+The coding used in the table is described in section 5.1.2.  
+5.12.6.  Individual and collective final consumption 
+expenditure  
+Once the e xpenditure has been classified into the COFOG categories, the split between 
+individual and collective final consumption expenditure is made in line with the COFOG Manual. 
+Problems arise for some economic transaction categories when trying to allocate them to the 
+different divisions for the individual and collective split. Problem of allocation to COFOG groups 
+mainly refers to P.51c. The distribution is made on an assumption based on split the split for D.1 
+and P.2 . 
+5.12.7.  Consumption of fixed capital expenditure  
+Consumption of fixed capital expenditure P.51c is estimated for the general government sector 
+according to

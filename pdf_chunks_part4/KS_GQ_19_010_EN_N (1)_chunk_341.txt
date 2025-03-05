@@ -1,0 +1,16 @@
+recorded in the group of purpos e. 
+5.5.7.  Consumption of fixed capital expenditure  
+A combination of method 1 and 4 is used.  
+5.5.8.  Methodological soundness  
+Classification of expenditure on education is not quite in line with COFOG, since the primary, 
+secondary and post -secondary non -tertiary education  of the Danish school system is not in 
+accordance with the categories in ISCED. COFOG 9.1 is made up from COFOG 9.1 and 9.2.1, and 
+COFOG 9.2 is made up from COFOG 9.2.2 and 9.3. Specifically , as far as COFOG 9.3 goes, it is of 
+an insignificant size.  
+Data a re consolidated according to the COFOG manual.  
+5.5.9.  One–off transactions  
+The reform of the early retirement system  introduced by the Danish government in 2012 has been 
+the most significant  one-off transaction in recent years  in Denmark . It resulted in an extra capital 
+transfer of EUR 3.7 billion  recorded in COFOG group 01.6 , general public services n.e.c . 
+5.5.10.  Multi -purpose functions  
+In most cas

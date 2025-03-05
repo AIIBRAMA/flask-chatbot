@@ -1,0 +1,20 @@
+nces, Regions   A3/U; E   A1/U  
+Localities      
+Producers of the Health service at the Local level   A2/U; E   A2/U  
+Other local government bodies    A3/U; E    A1/U; 
+A2/U; 
+A3/U  
+Social Security Funds      
+Social Security main unit   A3/U; E   A2/U  
+Other social security bodies   A3/U; E   A2/U  
+Other          
+The coding used in the table is described in section 5.1.2.  
+5.13.6.  Individual and collective final consumption 
+expenditure  
+In general there are no difficulties in splitting the final consumption expenditure between individual 
+and collective services. P.3 is obtained by summing all the components, each with its own function al 
+group , so that the separation between P.31 and P.32 is s traightforward.  
+From the 2019 transmission onwards , P.51c on R&D assets created on own account are recorded in 
+the group of R&D production . 
+5.13.7.  Consumption of fixed capital expenditure  
+Istat applies Method 2  to estimate consumption of fixed capital (CFC) by CO FOG. The

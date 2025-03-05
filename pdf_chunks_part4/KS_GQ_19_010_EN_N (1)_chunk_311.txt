@@ -1,0 +1,13 @@
+  
+This would mean that each item of expenditure is allocated to a function code (such as COFOG 
+1999) and to an ESA  2010  economic category (D.1, P.2 and so on). This system of cross -
+classification is usually specified and maintained  by the accounting entity that is ultimately 
+responsible for controlling the expenditure such as the Ministry of Finance in the case of central 
+government.  
+A2: function code is available for some items of expenditure or for totals of expenditure only  
+This would mean that each item of expenditure is not allocated to both a function code and ESA  
+2010  economic category, such that a cross -classification for all ESA  2010  transactions by functional 
+code does not exist. However, each item of expenditure is alloca ted to a function code.  
+One example of this category is where only some transactions (or aggregates of expenditure) are 
+cross -classified with the function code. Another is where a summary table (for expenditure totals by 
+function) i

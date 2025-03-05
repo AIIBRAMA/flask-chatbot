@@ -1,0 +1,14 @@
+ansmission of table 11 00 to Eurostat. 
+Relevant tables can be found here.  
+5.4.3.  Revisions policy  
+The revisions policy for COFOG statistics is connected with an nual national accounts revisions and 
+with the EDP notifications. The COFOG  data are transmitted to Eurostat once a year at the end of  
+December . At this time they are in line with the most recent EDP notification for the latest four year 
+time period. Revisi on of the complete time series is only carried out when the national accounts data 
+are revised as a whole.  
+5.4.4.  National functional classification and compilation 
+methodology  
+The Ministry of Finance (MOF) uses its own function classification  which  differs from COFOG. The 
+function classification contains 6 expenditure groups: (1) agricultural and forestry ; (2) industry and 
+other branches ; (3) services for households ; (4) social affairs and employment policy ; (5) state 
+security and legal protection , and; (6) gener al public administration and serv

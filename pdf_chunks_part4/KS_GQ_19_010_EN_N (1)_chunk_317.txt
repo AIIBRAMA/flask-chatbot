@@ -1,0 +1,13 @@
+lic entities not providing market services . 
+Their accounting syst em is determined by the supervising authorities. For the police and aid zones 
+the supervising authority is the federal  government . For the municipalities and social welfare centres 
+the supervising authorities are the state governments (mainly regions and t he German speaking 
+community ). 
+Since 2008 the data sources for the compilation of the COFOG accounts are increasingly based on 
+the individual accounts of the local entities . Each year the supervising authorities  collect the 
+individual accounts and transmit  them to the NAI at t+8 months . Not withstanding that the accounting 
+systems can be quite different, all accounts contain a code that indicates the economic nature of the 
+expenditure and also a function code. These data are used to compile consistent local government 
+accounts and COFOG data.  
+Previously , several data sources were used. The methodology essentially consisted of surveys every 
+four ye

@@ -1,0 +1,18 @@
+untries' compilation practices  
+103 
+Manual on COFOG statistics  5.3. Bulgaria  
+5.3.1.  Institutional ar rangements  
+The Bulgarian National Statistical Institute, National Accounts Division, is responsible for the COFOG 
+statistics using data collected and provided by the Ministry of Finance. There are no other institutions 
+involved in the collection, specifica tion and compilation process.  
+5.3.2.  Publication of data on a national level  
+The COFOG analysis  (1st level) is published by the NSI.  Table 1100 is usually completed a t t+12 
+months.  
+5.3.3.  Revisions policy  
+The revisions policy for COFOG statistics is connected with annual national accounts revisions and 
+with the EDP notifications.  
+5.3.4.  National functional classification and compilation 
+methodology  
+The compilation of table 1100 is based on the Ministry of Finance (MF) reports for general 
+government revenue and expenditure . The information on the execution of the State Budget is 
+classified at a very de
