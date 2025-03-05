@@ -58,42 +58,56 @@ if not GPT_API_KEY:
 # Sarunas vēstures saglabāšana
 conversation_history = {}
 
-# Funkcija teksta fragmentu meklēšanai
-def search_in_text_files(query, folder="pdf_chunks"):
+# Funkcija teksta fragmentu meklēšanai atsevišķās mapēs
+def search_in_text_files(query):
     logger.info(f"Meklējam teksta fragmentos pēc vaicājuma: {query}")
     query_words = query.lower().split()
     results = []
     
-    # Pilnais ceļš līdz pdf_chunks mapei
-    full_path = os.path.join(os.getcwd(), folder)
-    logger.info(f"Meklēšanas mape: {full_path}")
+    # Mapju saraksts, kurās meklēt
+    folders = [
+        "pdf_chunks_part1", 
+        "pdf_chunks_part2", 
+        "pdf_chunks_part3", 
+        "pdf_chunks_part4", 
+        "pdf_chunks_part5",
+        "pdf_chunks_part6",
+        "pdf_chunks_part7",
+        "pdf_chunks_part8",
+        "pdf_chunks_part9"
+    ]
     
     try:
-        # Pārbaudam, vai mape eksistē
-        if not os.path.exists(full_path):
-            logger.warning(f"Mape {full_path} netika atrasta!")
-            return results
-        
-        # Meklējam visos teksta failos
-        for filename in os.listdir(full_path):
-            if filename.endswith(".txt"):
-                filepath = os.path.join(full_path, filename)
-                try:
-                    with open(filepath, "r", encoding="utf-8") as f:
-                        content = f.read().lower()
-                        
-                        # Vienkārša atbilstības noteikšana - skaitām atbilstošos vārdus
-                        match_count = sum(1 for word in query_words if word in content)
-                        
-                        if match_count > 0:
-                            results.append({
-                                "file": filename,
-                                "content": content,
-                                "score": match_count / len(query_words)
-                            })
-                            logger.debug(f"Atrasts atbilstošs fragments: {filename} (score: {match_count / len(query_words)})")
-                except Exception as e:
-                    logger.error(f"Kļūda lasot failu {filepath}: {e}")
+        # Meklējam katrā mapē
+        for folder in folders:
+            folder_path = os.path.join(os.getcwd(), folder)
+            
+            if not os.path.exists(folder_path):
+                logger.warning(f"Mape {folder_path} netika atrasta, izlaižam")
+                continue
+                
+            logger.info(f"Meklējam mapē: {folder_path}")
+            
+            # Meklējam visos teksta failos šajā mapē
+            for filename in os.listdir(folder_path):
+                if filename.endswith(".txt"):
+                    filepath = os.path.join(folder_path, filename)
+                    try:
+                        with open(filepath, "r", encoding="utf-8") as f:
+                            content = f.read().lower()
+                            
+                            # Vienkārša atbilstības noteikšana - skaitām atbilstošos vārdus
+                            match_count = sum(1 for word in query_words if word in content)
+                            
+                            if match_count > 0:
+                                results.append({
+                                    "file": f"{folder}/{filename}",
+                                    "content": content,
+                                    "score": match_count / len(query_words)
+                                })
+                                logger.debug(f"Atrasts atbilstošs fragments: {folder}/{filename} (score: {match_count / len(query_words)})")
+                    except Exception as e:
+                        logger.error(f"Kļūda lasot failu {filepath}: {e}")
         
         # Sakārtojam rezultātus pēc atbilstības
         results.sort(key=lambda x: x["score"], reverse=True)
