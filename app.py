@@ -47,7 +47,7 @@ load_dotenv()
 GPT_API_KEY = os.getenv("GPT_API_KEY")
 GPT_API_URL = os.getenv("GPT_API_URL", "https://api.openai.com/v1/chat/completions")
 GPT_MODEL = os.getenv("GPT_MODEL", "gpt-3.5-turbo")
-MAX_TOKENS = int(os.getenv("MAX_TOKENS", 350))  # Palielināts līdz 350
+MAX_TOKENS = int(os.getenv("MAX_TOKENS", 250))  # Samazināts līdz 250
 TEMPERATURE = float(os.getenv("TEMPERATURE", 0.7))
 
 # Pārbauda, vai API atslēga ir pieejama
