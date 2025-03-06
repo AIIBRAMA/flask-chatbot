@@ -58,6 +58,9 @@ if not GPT_API_KEY:
 # Sarunas vēstures saglabāšana
 conversation_history = {}
 
+# Vispārīgā atbilde uz neskaidriem jautājumiem
+GENERIC_ANSWER = "Es esmu Budžeta funkcionālo kategoriju kodu atlases palīgs, varu palīdzēt atrast konkrētu kodu izdevumu klasifikācijai, atbilstoši Latvijas Ministru kabineta noteikumiem Nr. 934 \"Noteikumi par budžetu izdevumu klasifikāciju atbilstoši funkcionālajām kategorijām\". Lūdzu, uzdodiet jautājumu par konkrētu izdevumu veidu, funkciju vai pakalpojumu."
+
 # Sistēmas ziņojums ar precizētiem norādījumiem un kodu struktūras izpratni
 SYSTEM_MESSAGE = """
 # Konteksts un loma
@@ -92,7 +95,10 @@ Jūs esat eksperts Latvijas Ministru kabineta noteikumos un COFOG (Classificatio
 - Kad tiek prasīts kods, sniedziet TIKAI precīzu kodu un minimālu aprakstu
 - Kad tiek prasīts salīdzinājums, strukturējiet to viegli saprotamā formātā
 - Kad jautājums ir neskaidrs, lūdziet precizējumu, bet neveiciet minējumus
-"""
+
+# Vispārīgiem jautājumiem
+- Ja jautājums ir pārāk vispārīgs (piemēram, "ko tu zini?", "kas tu esi?"), atbildiet ar šo tekstu:
+""" + GENERIC_ANSWER
 
 # Funkcija teksta fragmentu meklēšanai, pamatojoties uz jautājuma kontekstu
 def search_in_text_files(query):
@@ -194,6 +200,30 @@ def search_in_text_files(query):
         logger.error(f"Kļūda meklējot teksta fragmentos: {e}")
         return []
 
+# Funkcija vispārīgu jautājumu atpazīšanai
+def is_generic_question(text):
+    # Atslēgvārdi, kas norāda uz vispārīgu jautājumu
+    generic_keywords = [
+        "kas tu esi", "ko tu zini", "ko tu dari", "kā tu vari palīdzēt", 
+        "kam tu esi", "ko tu", "kas tu", "ko vari", "kā vari", 
+        "palīdzi man", "kāda tev", "kādas ir", "ko māki", "ko maki"
+    ]
+    
+    text_lower = text.lower()
+    
+    # Pārbauda, vai jautājums ir īss (zem 30 rakstzīmēm) un nesatur konkrētus skaitļus vai "kods"
+    is_short_without_specifics = (
+        len(text) < 30 and 
+        not any(char.isdigit() for char in text) and
+        "kods" not in text_lower and
+        "kodu" not in text_lower
+    )
+    
+    # Pārbauda, vai jautājums satur kādu no vispārīgajiem atslēgvārdiem
+    contains_generic_keyword = any(keyword in text_lower for keyword in generic_keywords)
+    
+    return is_short_without_specifics or contains_generic_keyword
+
 # Izveido Flask lietotni
 app = Flask(__name__)
 app.config['SECRET_KEY'] = os.getenv("SECRET_KEY", os.urandom(24).hex())
@@ -232,6 +262,11 @@ def handle_message(msg):
         send("Diemžēl radās kļūda apstrādājot jūsu ziņojumu.", broadcast=False, room=request.sid)
 
 def chatbot_response(text, user_id="default_user"):
+    # Pārbauda, vai tas ir vispārīgs jautājums
+    if is_generic_question(text):
+        logger.info(f"Saņemts vispārīgs jautājums: {text}")
+        return GENERIC_ANSWER
+    
     # Meklējam relevantos fragmentus
     relevant_chunks = search_in_text_files(text)
     context = "\n\n".join([chunk["content"] for chunk in relevant_chunks])
