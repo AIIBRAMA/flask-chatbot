@@ -47,7 +47,7 @@ load_dotenv()
 GPT_API_KEY = os.getenv("GPT_API_KEY")
 GPT_API_URL = os.getenv("GPT_API_URL", "https://api.openai.com/v1/chat/completions")
 GPT_MODEL = os.getenv("GPT_MODEL", "gpt-3.5-turbo")
-MAX_TOKENS = int(os.getenv("MAX_TOKENS", 250))  # Samazināts līdz 250
+MAX_TOKENS = int(os.getenv("MAX_TOKENS", 350))  # Palielināts līdz 350
 TEMPERATURE = float(os.getenv("TEMPERATURE", 0.7))
 
 # Pārbauda, vai API atslēga ir pieejama
@@ -58,59 +58,134 @@ if not GPT_API_KEY:
 # Sarunas vēstures saglabāšana
 conversation_history = {}
 
-# Uzlabots sistēmas ziņojums ar stingrākām prasībām
+# Sistēmas ziņojums ar precizētiem norādījumiem
 SYSTEM_MESSAGE = """
-# Eksperta misija
-Esat augsti precīzs eksperts Latvijas Ministru kabineta noteikumos Nr. 934 un COFOG klasifikācijā.
+# Konteksts un loma
+Jūs esat eksperts Latvijas Ministru kabineta noteikumos un COFOG (Classification of the Functions of Government) klasifikācijā. Jūsu mērķis ir palīdzēt lietotājiem orientēties MK noteikumos Nr. 934 "Noteikumi par budžetu izdevumu klasifikāciju atbilstoši funkcionālajām kategorijām," piedāvājot atbilstošos klasifikācijas kodus.
 
-# STINGRAS ATBILDES VADLĪNIJAS
-1. VIENMĒR sniegt tikai VIENU precīzu kodu
-2. Atbilde NEDRĪKST būt garāka par 1 teikumu
-3. Izmantot formātu: "Kodā [PRECĪZS KODS] uzskaita [ĪSS APRAKSTS]."
-4. Nekādas liekas teorijas vai papildus skaidrojumi
-5. Ja nav iespējams atrast precīzu kodu - neslēpties aiz gariem skaidrojumiem
+# Atbildes prioritātes (ĻOTI SVARĪGI)
+1. Jūsu PRIMĀRAIS uzdevums ir precīzi norādīt KODU no MK noteikumiem Nr. 934.
+2. Koda norādīšanai jābūt TIEŠAI un KONKRĒTAI, bez liekiem skaidrojumiem.
+3. Piemēram, uz jautājumu "Kāds kods ir pārtikai bērnudārzā?" atbildiet: "Kodā 09.620 uzskaita izdevumus par izglītojamo ēdināšanas pakalpojumiem."
+4. Tikai un VIENĪGI ja lietotājs TIEŠI prasa salīdzinājumu ar COFOG, norādiet COFOG atbilstošo kodu.
 
-# Piemērs
-- Jautājums: "Kāds kods ir pirmsskolas izglītības iestādes ēdināšanas pakalpojumiem?"
-- Atbilde: "Kodā 09.620 uzskaita izdevumus par izglītojamo ēdināšanas pakalpojumiem."
+# Atbilžu formāts
+- Sniedziet KODIEM prioritāti pār skaidrojumiem
+- Skaidrojumus iekļaujiet TIKAI ja tie tiek prasīti vai ir nepieciešami kontekstam
+- IZVAIRIETIES no gariem teorētiskiem skaidrojumiem
+- Atbildiet TIEŠI uz jautājumu, neminot nerelevantus kodus vai informāciju
 
-# Uzvedības principi
-- KODIEM IR ABSOLŪTA PRIORITĀTE
-- Sniegt TIKAI pieprasīto informāciju
-- Izvairīties no interpretācijām
+# Svarīgi principi
+1. KODIEM VIENMĒR IR PRIORITĀTE - tie jānorāda pirmie, skaidri un nepārprotami
+2. Neizmantojiet liekvārdību vai teorētiskus skaidrojumus
+3. Atbildes jābalsta TIEŠI uz MK noteikumiem Nr. 934 un COFOG klasifikāciju
+4. Sniedziet TIKAI pieprasīto informāciju, ne vairāk
+
+# Specifiskie norādījumi
+- Kad tiek prasīts kods, sniedziet TIKAI precīzu kodu un minimālu aprakstu
+- Kad tiek prasīts salīdzinājums, strukturējiet to viegli saprotamā formātā
+- Kad jautājums ir neskaidrs, lūdziet precizējumu, bet neveiciet minējumus
 """
 
+# Funkcija teksta fragmentu meklēšanai, pamatojoties uz jautājuma kontekstu
 def search_in_text_files(query):
-    logger.info(f"Meklējam teksta fragmentos: {query}")
-    query = query.lower()
+    logger.info(f"Meklējam teksta fragmentos pēc vaicājuma: {query}")
+    query_words = query.lower().split()
     results = []
     
-    # Meklēt tikai 8. un 9. fragmentos
-    folders = ["pdf_chunks_part8", "pdf_chunks_part9"]
+    # Nosaka, vai jautājums saistīts ar COFOG salīdzinājumu
+    is_cofog_comparison = any(word in query.lower() for word in ["cofog", "salīdzin", "salīdzināj", "salīdzināt"])
+    logger.info(f"Jautājums prasa COFOG salīdzinājumu: {is_cofog_comparison}")
     
-    for folder in folders:
-        folder_path = os.path.join(os.getcwd(), folder)
+    # 1. meklēšanas prioritāte: likumi_lv_123806_01.01.2022__lv.pdf
+    # 2. meklēšanas prioritāte: pdf_chunks_part8 un pdf_chunks_part9
+    # 3. Tikai COFOG salīdzinājumiem: KS_GQ_19_010_EN_N.pdf un pdf_chunks_part1 līdz pdf_chunks_part7
+    
+    # Failu un mapju saraksti atkarībā no meklēšanas konteksta
+    primary_files = ["likumi_lv_123806_01.01.2022__lv.pdf"]
+    secondary_folders = ["pdf_chunks_part8", "pdf_chunks_part9"]
+    cofog_files = ["KS_GQ_19_010_EN_N.pdf"]
+    cofog_folders = ["pdf_chunks_part1", "pdf_chunks_part2", "pdf_chunks_part3", 
+                    "pdf_chunks_part4", "pdf_chunks_part5", "pdf_chunks_part6", "pdf_chunks_part7"]
+    
+    try:
+        # Funkcija faila apstrādei
+        def process_file(file_path, is_pdf=False):
+            nonlocal results
+            try:
+                if is_pdf:
+                    # PDF faila apstrāde, ja tāda funkcionalitāte būtu nepieciešama
+                    # Šobrīd PDF netiek tieši lasīti, jo satura apstrāde notiek pdf_chunks mapēs
+                    logger.info(f"PDF faili tiek apstrādāti caur chunks mapēm: {file_path}")
+                    return
+                
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read().lower()
+                    
+                    # Vienkārša atbilstības noteikšana - skaitām atbilstošos vārdus
+                    match_count = sum(1 for word in query_words if word in content)
+                    
+                    if match_count > 0:
+                        results.append({
+                            "file": file_path,
+                            "content": content,
+                            "score": match_count / len(query_words)
+                        })
+                        logger.debug(f"Atrasts atbilstošs fragments: {file_path} (score: {match_count / len(query_words)})")
+            except Exception as e:
+                logger.error(f"Kļūda lasot failu {file_path}: {e}")
         
-        for filename in os.listdir(folder_path):
-            if filename.endswith(".txt"):
-                filepath = os.path.join(folder_path, filename)
-                try:
-                    with open(filepath, "r", encoding="utf-8") as f:
-                        content = f.read().lower()
-                        
-                        # Precīza konteksta meklēšana
-                        if query in content:
-                            results.append({
-                                "file": f"{folder}/{filename}",
-                                "content": content,
-                                "score": 1.0
-                            })
-                        
-                except Exception as e:
-                    logger.error(f"Kļūda lasot failu {filepath}: {e}")
-    
-    logger.info(f"Kopā atrasti {len(results)} atbilstoši fragmenti")
-    return results  # Atgriež visus atrastos fragmentus
+        # Funkcija mapes apstrādei
+        def process_folder(folder_name):
+            folder_path = os.path.join(os.getcwd(), folder_name)
+            
+            if not os.path.exists(folder_path):
+                logger.warning(f"Mape {folder_path} netika atrasta, izlaižam")
+                return
+                
+            logger.info(f"Meklējam mapē: {folder_path}")
+            
+            # Meklējam visos teksta failos šajā mapē
+            for filename in os.listdir(folder_path):
+                if filename.endswith(".txt"):
+                    filepath = os.path.join(folder_path, filename)
+                    process_file(filepath)
+        
+        # 1. Primāri pārbaudām likumi_lv failu
+        for file_name in primary_files:
+            file_path = os.path.join(os.getcwd(), file_name)
+            if os.path.exists(file_path):
+                process_file(file_path, is_pdf=True)
+            else:
+                logger.warning(f"Primārais fails {file_path} netika atrasts")
+        
+        # 2. Pārbaudām pdf_chunks_part8 un pdf_chunks_part9
+        for folder in secondary_folders:
+            process_folder(folder)
+        
+        # 3. Ja jautājums saistīts ar COFOG un vēl nav pietiekami daudz rezultātu, meklējam COFOG failos
+        if is_cofog_comparison or len(results) < 1:
+            # Apstrādājam COFOG failus
+            for file_name in cofog_files:
+                file_path = os.path.join(os.getcwd(), file_name)
+                if os.path.exists(file_path):
+                    process_file(file_path, is_pdf=True)
+                else:
+                    logger.warning(f"COFOG fails {file_path} netika atrasts")
+            
+            # Apstrādājam COFOG mapes
+            for folder in cofog_folders:
+                process_folder(folder)
+        
+        # Sakārtojam rezultātus pēc atbilstības
+        results.sort(key=lambda x: x["score"], reverse=True)
+        
+        logger.info(f"Kopā atrasti {len(results)} atbilstoši fragmenti")
+        # Atgriežam labākos 3 rezultātus
+        return results[:3]
+    except Exception as e:
+        logger.error(f"Kļūda meklējot teksta fragmentos: {e}")
+        return []
 
 # Izveido Flask lietotni
 app = Flask(__name__)
