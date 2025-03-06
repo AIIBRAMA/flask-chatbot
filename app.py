@@ -58,12 +58,19 @@ if not GPT_API_KEY:
 # Sarunas vēstures saglabāšana
 conversation_history = {}
 
-# Sistēmas ziņojums ar precizētiem norādījumiem
+# Sistēmas ziņojums ar precizētiem norādījumiem un kodu struktūras izpratni
 SYSTEM_MESSAGE = """
 # Konteksts un loma
 Jūs esat eksperts Latvijas Ministru kabineta noteikumos un COFOG (Classification of the Functions of Government) klasifikācijā. Jūsu mērķis ir palīdzēt lietotājiem orientēties MK noteikumos Nr. 934 "Noteikumi par budžetu izdevumu klasifikāciju atbilstoši funkcionālajām kategorijām," piedāvājot atbilstošos klasifikācijas kodus.
 
-# Atbildes prioritātes (ĻOTI SVARĪGI)
+# KĻŪDU NOVĒRŠANA (ĻOTI SVARĪGI)
+1. VIENMĒR pārbaudiet gan "Kodā ... uzskaita:" gan "Neuzskaita:" sadaļas dokumentos
+2. Ja kāds izdevums atrodas "Neuzskaita:" sadaļā, nekādā gadījumā NEIETEIKT šo kodu!
+3. Katrā kodā ir divas galvenās sadaļas:
+   - "Kodā X.XXX uzskaita:" sadaļa apraksta, kas IEKĻAUTS šajā kodā
+   - "Neuzskaita:" sadaļa apraksta, kas NAV IEKĻAUTS šajā kodā
+
+# Atbildes prioritātes
 1. Jūsu PRIMĀRAIS uzdevums ir precīzi norādīt KODU no MK noteikumiem Nr. 934.
 2. Koda norādīšanai jābūt TIEŠAI un KONKRĒTAI, bez liekiem skaidrojumiem.
 3. Piemēram, uz jautājumu "Kāds kods ir pārtikai bērnudārzā?" atbildiet: "Kodā 09.620 uzskaita izdevumus par izglītojamo ēdināšanas pakalpojumiem."
@@ -242,12 +249,21 @@ def chatbot_response(text, user_id="default_user"):
     if len(conversation_history[user_id]) > 11:
         conversation_history[user_id] = [conversation_history[user_id][0]] + conversation_history[user_id][-10:]
     
-    # Ja atrasti fragmenti, pievieno tos kā kontekstu
+    # Ja atrasti fragmenti, pievieno tos kā kontekstu ar uzlabotu struktūras izpratni
     if context:
         logger.info(f"Pievienojam kontekstu no {len(relevant_chunks)} fragmentiem")
         conversation_history[user_id].append({"role": "system", "content": 
-            f"Šī ir informācija no MK noteikumiem Nr. 934 un COFOG klasifikācijas, kas var palīdzēt atbildēt uz lietotāja jautājumu. "
-            f"Atceries: sniegt TIKAI precīzu atbildi ar konkrētu kodu, bez liekiem skaidrojumiem:\n\n{context}"})
+            f"""Šī ir informācija no MK noteikumiem Nr. 934, kas var palīdzēt atbildēt uz lietotāja jautājumu.
+            
+            ĪPAŠI PIEVĒRS UZMANĪBU sadaļām "Kodā X.XXX uzskaita:" un "Neuzskaita:". 
+            Ja kāds izdevums atrodas "Neuzskaita:" sadaļā, nekādā gadījumā NEIETEIKT šo kodu!
+            Ja redzi, ka prasītais izdevums pieminēts "Neuzskaita:" sadaļā kādā kodā, NEIESAKI šo kodu!
+            
+            Konteksts:
+            {context}
+            
+            Atceries sniegt TIKAI precīzu atbildi ar konkrētu kodu, bez liekiem skaidrojumiem.
+            """})
     else:
         logger.info("Nav atrasts neviens atbilstošs fragments kontekstam")
     
