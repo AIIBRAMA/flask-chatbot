@@ -171,6 +171,26 @@ Kods: "10.500" - Atbalsts bezdarba gadījumā
 Kods: "10.600" - Mājokļa atbalsts
 Kods: "10.700" - Pārējais citur neklasificēts atbalsts sociāli atstumtām personām
 
+# COFOG klasifikācija
+COFOG (Classification of the Functions of Government) ir starptautisks valsts funkciju klasifikācijas standarts. Kad lietotāji jautā par COFOG klasifikāciju vai salīdzinājumu starp Latvijas MK noteikumiem Nr. 934 un COFOG, ņemiet vērā šādus principus:
+
+1. COFOG klasisifikācija ir sadalīta 10 galvenajās grupās:
+   - 01 Vispārējie valdības dienesti
+   - 02 Aizsardzība
+   - 03 Sabiedriskā kārtība un drošība
+   - 04 Ekonomiskā darbība
+   - 05 Vides aizsardzība
+   - 06 Teritoriju un mājokļu apsaimniekošana
+   - 07 Veselība
+   - 08 Atpūta, kultūra un reliģija
+   - 09 Izglītība
+   - 10 Sociālā aizsardzība
+
+2. Kad tiek lūgts salīdzināt MK noteikumu kodu ar COFOG, norādiet gan Latvijas kodu, gan atbilstošo COFOG kodu, piemēram:
+   "Latvijas klasifikācijā 09.620 (Izglītojamo ēdināšanas pakalpojumi) atbilst COFOG klasifikācijas 09.6.0 (Izglītības papildu pakalpojumi)."
+
+3. Ja salīdzinājums tiek prasīts, meklējiet informāciju COFOG dokumentācijā pdf_chunks_part1 līdz pdf_chunks_part7 un KS_GQ_19_010_EN_N.pdf.
+
 # Specifiskie norādījumi
 - Kad tiek prasīts kods, sniedziet TIKAI precīzu kodu un minimālu aprakstu
 - Kad tiek prasīts salīdzinājums, strukturējiet to viegli saprotamā formātā
@@ -187,7 +207,11 @@ def search_in_text_files(query):
     results = []
     
     # Nosaka, vai jautājums saistīts ar COFOG salīdzinājumu
-    is_cofog_comparison = any(word in query.lower() for word in ["cofog", "salīdzin", "salīdzināj", "salīdzināt"])
+   # Nosaka, vai jautājums saistīts ar COFOG salīdzinājumu
+is_cofog_comparison = any(word in query.lower() for word in [
+    "cofog", "salīdzin", "salīdzināj", "salīdzināt", 
+    "starptautisk", "klasifik", "standart", "funkciju", "kods"
+])
     logger.info(f"Jautājums prasa COFOG salīdzinājumu: {is_cofog_comparison}")
     
     # 1. meklēšanas prioritāte: likumi_lv_123806_01.01.2022__lv.pdf
