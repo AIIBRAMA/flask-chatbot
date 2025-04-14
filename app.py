@@ -19,27 +19,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Funkcija, kas pārbauda un instalē nepieciešamās bibliotēkas
-def install_requirements():
-    try:
-        import flask
-        import flask_socketio
-        import requests
-        import dotenv
-        logger.info("Visas nepieciešamās bibliotēkas ir jau instalētas.")
-    except ImportError as e:
-        logger.warning(f"Nepieciešamās bibliotēkas netika atrastas: {e}")
-        try:
-            logger.info("Instalējam nepieciešamās bibliotēkas...")
-            subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
-            logger.info("Visas nepieciešamās bibliotēkas ir instalētas!")
-        except subprocess.CalledProcessError as e:
-            logger.error(f"Kļūda instalējot bibliotēkas: {e}")
-            sys.exit(1)
-
-# Instalējam bibliotēkas, ja nepieciešams
-install_requirements()
-
 # Ielādē vides mainīgos no .env faila
 load_dotenv()
 
