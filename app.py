@@ -207,11 +207,11 @@ def search_in_text_files(query):
     results = []
     
     # Nosaka, vai jautājums saistīts ar COFOG salīdzinājumu
-is_cofog_comparison = any(word in query.lower() for word in [
-    "cofog", "salīdzin", "salīdzināj", "salīdzināt", 
-    "starptautisk", "klasifik", "standart", "funkciju", "kods"
-])  # Pārliecinieties, ka aizverošā iekava ir pareizā atkāpes līmenī
-logger.info(f"Jautājums prasa COFOG salīdzinājumu: {is_cofog_comparison}")
+    is_cofog_comparison = any(word in query.lower() for word in [
+        "cofog", "salīdzin", "salīdzināj", "salīdzināt", 
+        "starptautisk", "klasifik", "standart", "funkciju", "kods"
+    ])
+    logger.info(f"Jautājums prasa COFOG salīdzinājumu: {is_cofog_comparison}")
     
     # 1. meklēšanas prioritāte: likumi_lv_123806_01.01.2022__lv.pdf
     # 2. meklēšanas prioritāte: pdf_chunks_part8 un pdf_chunks_part9
@@ -454,6 +454,16 @@ def health_check():
     return jsonify({"status": "healthy"}), 200
 
 @app.route('/reset', methods=['POST'])
+def reset_conversation():
+    data = request.get_json()
+    user_id = data.get("user_id", "default_user")
+    
+    if user_id in conversation_history:
+        # Saglabājam tikai sistēmas ziņojumu
+        conversation_history[user_id] = [{"role": "system", "content": SYSTEM_MESSAGE}]
+    
+    return jsonify({"status": "success", "message": "Saruna atiestatīta
+    @app.route('/reset', methods=['POST'])
 def reset_conversation():
     data = request.get_json()
     user_id = data.get("user_id", "default_user")
