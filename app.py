@@ -461,17 +461,7 @@ def reset_conversation():
     if user_id in conversation_history:
         # Saglabājam tikai sistēmas ziņojumu
         conversation_history[user_id] = [{"role": "system", "content": SYSTEM_MESSAGE}]
-    
-    return jsonify({"status": "success", "message": "Saruna atiestatīta
-    @app.route('/reset', methods=['POST'])
-def reset_conversation():
-    data = request.get_json()
-    user_id = data.get("user_id", "default_user")
-    
-    if user_id in conversation_history:
-        # Saglabājam tikai sistēmas ziņojumu
-        conversation_history[user_id] = [{"role": "system", "content": SYSTEM_MESSAGE}]
-    
+       
     return jsonify({"status": "success", "message": "Saruna atiestatīta"}), 200
 
 if __name__ == '__main__':
