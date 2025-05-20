@@ -1,1 +1,1 @@
-web: gunicorn app:app --log-file - --worker-class eventlet
+web: python app_run.py
