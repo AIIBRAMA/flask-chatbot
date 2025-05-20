@@ -20,7 +20,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = Config.SECRET_KEY
 
 # Inicializējam SocketIO ar CORS atļauju
-socketio = SocketIO(app, cors_allowed_origins="*")
+socketio = SocketIO(app, cors_allowed_origins="*", async_mode='eventlet')
 
 @app.route('/')
 def index():
