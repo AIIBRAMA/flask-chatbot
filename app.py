@@ -5,12 +5,13 @@ Satur visus HTTP maršrutus un WebSocket apstrādi.
 """
 import os
 import logging
-from flask import Flask, jsonify, request, render_template
+from flask import Flask, jsonify, request, render_template, send_from_directory
 from flask_socketio import SocketIO
 
 from config import Config
 from conversation import chatbot_service, conversation_manager
 
+# Konfigurējam logger
 logger = logging.getLogger(__name__)
 
 # Izveido Flask lietotni
@@ -19,6 +20,9 @@ app = Flask(__name__)
 # Uzstāda SECRET_KEY no konfigurācijas
 app.config['SECRET_KEY'] = Config.SECRET_KEY
 
+# Atslēdzam debug režīmu produkcijas vidē
+app.config['DEBUG'] = os.environ.get('ENV', 'production') != 'production'
+
 # Inicializējam SocketIO ar CORS atļauju
 socketio = SocketIO(app, cors_allowed_origins="*")
 
@@ -26,6 +30,11 @@ socketio = SocketIO(app, cors_allowed_origins="*")
 def index():
     """Galvenā lapa - attēlo čata interfeisu"""
     return render_template('index.html')
+
+@app.route('/static/<path:path>')
+def send_static(path):
+    """Apstrādā statisku failu pieprasījumus"""
+    return send_from_directory('static', path)
 
 @app.route('/chat', methods=['POST'])
 def chat():
@@ -97,7 +106,7 @@ def health_check():
     return jsonify({
         "status": "healthy", 
         "version": "1.0.0",
-        "env": "production" if not Config.DEBUG else "development"
+        "env": os.environ.get('ENV', 'production')
     }), 200
 
 @app.route('/reset', methods=['POST'])
@@ -131,16 +140,25 @@ def create_app():
     return app
 
 if __name__ == '__main__':
-    # Iegūstam servera konfigurāciju
-    port = Config.PORT
-    host = Config.HOST
-    debug = Config.DEBUG
+    # Iegūstam portu no vides mainīgajiem (Heroku to nosaka automātiski)
+    port = int(os.environ.get('PORT', 5000))
     
-    logger.info(f"Startējam serveri uz {host}:{port}, debug={debug}")
+    # Atslēdzam Flask debug režīmu produkcijas vidē
+    debug_mode = os.environ.get('ENV', 'production') != 'production'
     
-    try:
-        # Startējam SocketIO serveri
-        # Piezīme: allow_unsafe_werkzeug=True tiek ieteikts tikai izstrādes vidē
-        socketio.run(app, host=host, port=port, debug=debug, allow_unsafe_werkzeug=debug)
-    except Exception as e:
-        logger.error(f"Kļūda startējot serveri: {e}", exc_info=True)
+    logger.info(f"Startējam serveri uz 0.0.0.0:{port}, debug={debug_mode}")
+    
+    # Izvēlamies palaišanas metodi, atkarībā no vides mainīgā
+    # Ja USE_FLASK_RUN=true, izmantojam tiešo Flask app.run
+    if os.environ.get('USE_FLASK_RUN', 'false').lower() == 'true':
+        logger.info("Palaižam ar standarta Flask serveri...")
+        app.run(host='0.0.0.0', port=port, debug=debug_mode)
+    else:
+        try:
+            # Mēģinām palaist ar SocketIO
+            logger.info("Palaižam ar SocketIO serveri...")
+            socketio.run(app, host='0.0.0.0', port=port, debug=debug_mode)
+        except Exception as e:
+            logger.error(f"Kļūda palaižot ar SocketIO: {e}", exc_info=True)
+            logger.info("Pārslēdzamies uz standarta Flask serveri...")
+            app.run(host='0.0.0.0', port=port, debug=debug_mode)
