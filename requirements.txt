@@ -1,23 +1,22 @@
-bidict==0.23.1
-blinker==1.9.0
-certifi==2025.1.31
-charset-normalizer==3.4.1
-click==8.1.8
-colorama==0.4.6
-eventlet==0.33.3
-Flask==3.1.0
-Flask-SocketIO==5.5.1
+# requirements.txt
+# Pamatbibliotēkas
+Flask==2.3.3
+Flask-SocketIO==5.3.4
+python-socketio==5.8.0
+python-engineio==4.5.1
+Werkzeug==2.3.7
 gunicorn==21.2.0
-h11==0.14.0
-idna==3.10
-itsdangerous==2.2.0
-Jinja2==3.1.5
-MarkupSafe==3.0.2
-python-dotenv==1.0.1
-python-engineio==4.11.2
-python-socketio==5.12.1
-requests==2.32.3
-simple-websocket==1.1.0
-urllib3==2.3.0
-Werkzeug==3.1.3
-wsproto==1.2.0
+eventlet==0.33.3
+
+# Vides mainīgo apstrāde
+python-dotenv==1.0.0
+
+# HTTP pieprasījumiem
+requests==2.31.0
+
+# Reģistrēšana un veiktspēja
+gevent==23.9.1
+gevent-websocket==0.10.1
+
+# Teksta apstrāde
+regex==2023.8.8
