@@ -1,1 +1,1 @@
-web: gunicorn app:app --log-file - --worker-class gevent
+web: PYTHONUNBUFFERED=1 python app.py
