@@ -168,6 +168,73 @@
         .page-content {
             padding: 20px;
         }
+
+        /* Kodu izcelšana */
+        .code-highlight {
+            font-weight: bold;
+            color: #0099ff;
+        }
+
+        /* Reset poga */
+        .reset-btn {
+            background-color: #f44336;
+            margin-left: 5px;
+        }
+
+        .reset-btn:hover {
+            background-color: #e53935;
+        }
+
+        /* Animācija, kad tiek nosūtīts ziņojums */
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
+        .message-sending {
+            animation: pulse 0.5s ease-in-out;
+        }
+
+        /* Rakstīšanas indikators */
+        .typing-indicator {
+            display: flex;
+            padding: 8px;
+            margin: 10px 0;
+            background-color: #f5f5f5;
+            border-radius: 10px;
+            width: fit-content;
+            margin-right: auto;
+            margin-left: 0;
+        }
+
+        .typing-indicator span {
+            height: 8px;
+            width: 8px;
+            margin: 0 2px;
+            background-color: #999;
+            border-radius: 50%;
+            display: inline-block;
+            opacity: 0.4;
+        }
+
+        .typing-indicator span:nth-child(1) {
+            animation: typing 1s infinite;
+        }
+
+        .typing-indicator span:nth-child(2) {
+            animation: typing 1s infinite 0.2s;
+        }
+
+        .typing-indicator span:nth-child(3) {
+            animation: typing 1s infinite 0.4s;
+        }
+
+        @keyframes typing {
+            0% { opacity: 0.4; transform: scale(1); }
+            50% { opacity: 1; transform: scale(1.2); }
+            100% { opacity: 0.4; transform: scale(1); }
+        }
     </style>
 </head>
 <body>
@@ -198,47 +265,201 @@
         </div>
         <div class="input-container">
             <input type="text" id="message" placeholder="Ievadiet ziņu...">
-            <button onclick="sendMessage()">Sūtīt</button>
+            <button id="send-btn" onclick="sendMessage()">Sūtīt</button>
+            <button id="reset-btn" class="reset-btn" onclick="resetConversation()"><i class="fas fa-redo-alt"></i></button>
         </div>
     </div>
 
     <script>
-        // Čata atvēršana/aizvēršana
-        document.getElementById('chat-icon').addEventListener('click', function() {
-            document.getElementById('chat-container').classList.add('active');
-            document.getElementById('chat-icon').style.display = 'none';
-        });
-
-        document.getElementById('close-chat').addEventListener('click', function() {
-            document.getElementById('chat-container').classList.remove('active');
-            document.getElementById('chat-icon').style.display = 'flex';
-        });
-
-        // Socket.IO savienojums
-        var socket = io();
+        // Ģenerē unikālu lietotāja ID
+        const userId = 'user_' + Math.random().toString(36).substring(2, 15);
         
-        socket.on('message', function(data) {
-            var chatBox = document.getElementById('chat-box');
-            chatBox.innerHTML += '<div class="message assistant-message"><b>Budžeta funkcionālo kategoriju kodu atlases palīgs:</b> ' + data + '</div>';
-            chatBox.scrollTop = chatBox.scrollHeight;
-        });
-        
-        function sendMessage() {
-            var messageInput = document.getElementById('message');
-            var message = messageInput.value.trim();
-            if (message) {
-                var chatBox = document.getElementById('chat-box');
-                chatBox.innerHTML += '<div class="message user-message">' + message + '</div>';
-                socket.send(message);
+        document.addEventListener('DOMContentLoaded', function() {
+            // Elementu atlase
+            const chatIcon = document.getElementById('chat-icon');
+            const chatContainer = document.getElementById('chat-container');
+            const closeChat = document.getElementById('close-chat');
+            const chatBox = document.getElementById('chat-box');
+            const messageInput = document.getElementById('message');
+            const sendBtn = document.getElementById('send-btn');
+            const resetBtn = document.getElementById('reset-btn');
+            
+            // Socket.IO savienojums
+            const socket = io();
+            let isTypingIndicatorVisible = false;
+            
+            // Čata atvēršana/aizvēršana
+            chatIcon.addEventListener('click', function() {
+                chatContainer.classList.add('active');
+                chatIcon.style.display = 'none';
+                messageInput.focus(); // Fokusējas uz ievades lauku, kad čats tiek atvērts
+            });
+
+            closeChat.addEventListener('click', function() {
+                chatContainer.classList.remove('active');
+                chatIcon.style.display = 'flex';
+            });
+            
+            // Socket.IO notikumu apstrāde
+            socket.on('connect', function() {
+                console.log('Savienots ar serveri');
+            });
+            
+            socket.on('response', function(data) {
+                // Noņem rakstīšanas indikatoru, ja tas ir redzams
+                removeTypingIndicator();
+                
+                // Izcelt budžeta kodus atbildē un parāda to
+                const formattedResponse = highlightCodes(data.response);
+                addMessage('assistant', formattedResponse);
+                
+                // Ritina uz leju
+                scrollToBottom();
+            });
+            
+            socket.on('error', function(data) {
+                // Noņem rakstīšanas indikatoru, ja tas ir redzams
+                removeTypingIndicator();
+                
+                // Parāda kļūdas ziņojumu
+                addMessage('assistant', data.error, true);
+                
+                // Ritina uz leju
+                scrollToBottom();
+            });
+            
+            // Funkcijas
+            window.sendMessage = function() {
+                const message = messageInput.value.trim();
+                if (!message) return;
+                
+                // Parāda lietotāja ziņojumu
+                addMessage('user', message);
+                
+                // Parāda rakstīšanas indikatoru
+                showTypingIndicator();
+                
+                // Nosūta ziņojumu serverim
+                socket.emit('message', {
+                    message: message,
+                    user_id: userId
+                });
+                
+                // Attīra ievades lauku un fokusējas uz to
                 messageInput.value = '';
+                messageInput.focus();
+                
+                // Ritina uz leju
+                scrollToBottom();
+            }
+            
+            window.resetConversation = function() {
+                // Nosūta atiestatīšanas pieprasījumu
+                fetch('/reset', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ user_id: userId })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        // Attīra ziņojumu sarakstu, atstājot tikai sākotnējo ziņojumu
+                        chatBox.innerHTML = `
+                            <div class="message assistant-message">
+                                <b>Budžeta funkcionālo kategoriju kodu atlases palīgs:</b> Esmu Jūsu palīgs budžeta izdevumu klasifikācijā atbilstoši funkcionālajām kategorijām. Kā varu palīdzēt?
+                            </div>
+                        `;
+                        
+                        // Fokusējas uz ievades lauku
+                        messageInput.focus();
+                    } else {
+                        addMessage('assistant', 'Neizdevās atiestatīt sarunu. Lūdzu, mēģiniet vēlāk.', true);
+                    }
+                    
+                    // Ritina uz leju
+                    scrollToBottom();
+                })
+                .catch(error => {
+                    console.error('Kļūda:', error);
+                    addMessage('assistant', 'Neizdevās atiestatīt sarunu. Lūdzu, mēģiniet vēlāk.', true);
+                    scrollToBottom();
+                });
+            }
+            
+            function addMessage(sender, content, isError = false) {
+                const messageElement = document.createElement('div');
+                messageElement.classList.add('message');
+                
+                if (sender === 'user') {
+                    messageElement.classList.add('user-message');
+                    messageElement.textContent = content;
+                    // Pievieno pulsēšanas efektu lietotāja ziņojumam
+                    messageElement.classList.add('message-sending');
+                    setTimeout(() => {
+                        messageElement.classList.remove('message-sending');
+                    }, 500);
+                } else {
+                    messageElement.classList.add('assistant-message');
+                    if (isError) {
+                        messageElement.style.backgroundColor = '#ffe6e6';
+                    }
+                    messageElement.innerHTML = `<b>Budžeta funkcionālo kategoriju kodu atlases palīgs:</b> ${content}`;
+                }
+                
+                chatBox.appendChild(messageElement);
+            }
+            
+            function showTypingIndicator() {
+                if (isTypingIndicatorVisible) return;
+                
+                const typingIndicator = document.createElement('div');
+                typingIndicator.classList.add('typing-indicator');
+                typingIndicator.id = 'typing-indicator';
+                typingIndicator.innerHTML = `
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                `;
+                
+                chatBox.appendChild(typingIndicator);
+                isTypingIndicatorVisible = true;
+                scrollToBottom();
+            }
+            
+            function removeTypingIndicator() {
+                const typingIndicator = document.getElementById('typing-indicator');
+                if (typingIndicator) {
+                    typingIndicator.remove();
+                    isTypingIndicatorVisible = false;
+                }
+            }
+            
+            function scrollToBottom() {
                 chatBox.scrollTop = chatBox.scrollHeight;
             }
-        }
-        
-        // Ļauj nosūtīt ziņu ar Enter taustiņu
-        document.getElementById('message').addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                sendMessage();
+            
+            function highlightCodes(text) {
+                // Regex, lai atrastu budžeta kodu formātu (piemēram, 09.620)
+                const highlightedText = text.replace(/(\d{2}\.\d{3})/g, '<span class="code-highlight">$1</span>');
+                
+                // Izcelt "Kodā X.XXX uzskaita:" un "Neuzskaita:"
+                return highlightedText
+                    .replace(/(Kodā \d{2}\.\d{3} uzskaita:)/g, '<strong>$1</strong>')
+                    .replace(/(Neuzskaita:)/g, '<em>$1</em>');
+            }
+            
+            // Notikumu klausītāji
+            messageInput.addEventListener('keypress', function(event) {
+                if (event.key === 'Enter') {
+                    sendMessage();
+                }
+            });
+            
+            // Automātiski fokusējas uz ievades lauku, kad lapa ielādējas
+            if (chatContainer.classList.contains('active')) {
+                messageInput.focus();
             }
         });
     </script>
