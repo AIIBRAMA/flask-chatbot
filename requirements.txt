@@ -1,25 +1,10 @@
-# requirements.txt
-# Pamatbibliotēkas
+# requirements.txt - vienkāršotā versija
 Flask==2.3.3
 Flask-SocketIO==5.3.4
 python-socketio==5.8.0
 python-engineio==4.5.1
-Werkzeug==2.3.7
-gunicorn==21.2.0
-
-# Alternatīva eventlet un gevent
-# Izmēģiniet ar jaunāku eventlet versiju vai bez gevent
-eventlet==0.33.3
-
-# Vides mainīgo apstrāde
 python-dotenv==1.0.0
-
-# HTTP pieprasījumiem
 requests==2.31.0
-
-# Reģistrēšana
-# gevent==23.9.1 - noņemts, jo nav saderīgs ar Python 3.13
-# gevent-websocket==0.10.1 - noņemts, jo atkarīgs no gevent
-
-# Teksta apstrāde
 regex==2023.8.8
+eventlet==0.33.3
+Werkzeug==2.3.7
